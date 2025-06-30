@@ -1,7 +1,7 @@
 ---
 title: OfG-Studium
 layout: landing
-description: 'Mein Studium bei der OfG (Online-Schule für Gestaltung)'
+description: 'Mein Studium bei der Online-Schule für Gestaltung'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -31,7 +31,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Grundlagen Grafiksoftware</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Staatlich zugelassene Weiterbildung über die grundlegenden Kenntnisse und Fähigkeiten der drei wichtigsten Adobe-Programme Photoshop, Illustrator und InDesign.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
