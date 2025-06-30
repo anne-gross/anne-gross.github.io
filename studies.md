@@ -22,9 +22,10 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
+		<image-compare class="image" data-position="center center">
+  			<img slot="image-1" alt="Alt Text" src="{% link assets/images/pic08.jpg %}"/>
+  			<img slot="image-2" alt="Alt text" src="{% link assets/images/pic08.jpg %}"/>
+		</image-compare>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
