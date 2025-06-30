@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: OfG-Studium
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Mein Studium bei der OfG'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
