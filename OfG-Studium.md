@@ -16,6 +16,11 @@ nav-menu: true
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+
+		<div id="ofgcert"><script type="text/javascript" src="https://ofg-studium.de/images/certificate/utils/cert.php?x=ef23e067-4203-11f0-bc2c-005056a71e55"></script></div>
+
+		<div id="ofgcert"><script type="text/javascript" src="https://ofg-studium.de/images/certificate/utils/cert.php?x=99bde50c-f9e1-11ef-bc2c-005056a71e55"></script></div>
+		
 	</div>
 </section>
 
