@@ -17,10 +17,18 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 
-		<div id="ofgcert"><script type="text/javascript" src="https://ofg-studium.de/images/certificate/utils/cert.php?x=ef23e067-4203-11f0-bc2c-005056a71e55"></script></div>
+		<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_illustrator_29740.png&quot;); background-repeat: no-repeat;">
+			<a href="{% link assets/images/certificates/OfG Certificate Illustrator Masterclass_DE.jpg %}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none">
+				<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
+			</a>
+		</div>
 
-		<div id="ofgcert"><script type="text/javascript" src="https://ofg-studium.de/images/certificate/utils/cert.php?x=99bde50c-f9e1-11ef-bc2c-005056a71e55"></script></div>
-		
+		<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_grafiksoftware_29324.png&quot;); background-repeat: no-repeat;">
+			<a href="{% link assets/images/certificates/OfG Certificate Grafiksoftware_DE.jpeg %}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none">
+				<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Grafiksoftware" alt="Online Schule für Gestaltung - Online-Fernkurs für Photoshop / Illustrator / InDesign" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
+			</a>
+		</div>
+
 	</div>
 </section>
 
