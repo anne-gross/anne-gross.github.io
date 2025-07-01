@@ -36,8 +36,8 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<image-compare class="image" data-position="center center">
-  			<img slot="image-1" alt="Alt Text" src="{% link assets/images/pic08.jpg %}"/>
-  			<img slot="image-2" alt="Alt text" src="{% link assets/images/pic08.jpg %}"/>
+  			<img slot="image-1" alt="Alt Text" src="{% link assets/images/Illustrator_Modul_03_Variante1.png %}"/>
+  			<img slot="image-2" alt="Alt text" src="{% link assets/images/Illustrator_Modul_03_Variante2.png %}"/>
 		</image-compare>
 		<div class="content">
 			<div class="inner">
