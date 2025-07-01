@@ -16,19 +16,19 @@ nav-menu: true
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<div class="web-certificates">
+			<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_illustrator_29740.png&quot;); background-repeat: no-repeat;">
+				<a href="{% link assets/images/certificates/OfG Certificate Illustrator Masterclass_DE.jpg %}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none">
+					<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
+				</a>
+			</div>
 
-		<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_illustrator_29740.png&quot;); background-repeat: no-repeat;">
-			<a href="{% link assets/images/certificates/OfG Certificate Illustrator Masterclass_DE.jpg %}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none">
-				<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
-			</a>
+			<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_grafiksoftware_29324.png&quot;); background-repeat: no-repeat;">
+				<a href="{% link assets/images/certificates/OfG Certificate Grafiksoftware_DE.jpeg %}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none">
+					<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Grafiksoftware" alt="Online Schule für Gestaltung - Online-Fernkurs für Photoshop / Illustrator / InDesign" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
+				</a>
+			</div>
 		</div>
-
-		<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_grafiksoftware_29324.png&quot;); background-repeat: no-repeat;">
-			<a href="{% link assets/images/certificates/OfG Certificate Grafiksoftware_DE.jpeg %}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none">
-				<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Grafiksoftware" alt="Online Schule für Gestaltung - Online-Fernkurs für Photoshop / Illustrator / InDesign" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
-			</a>
-		</div>
-
 	</div>
 </section>
 
