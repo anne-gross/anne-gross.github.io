@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title: Über mich
 image: assets/images/Ueber-mich/Anne-rechtszentriert.jpg
 nav-menu: true
