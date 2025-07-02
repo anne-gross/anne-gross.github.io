@@ -34,10 +34,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<image-compare class="image" data-position="center center">
-  			<img slot="image-1" alt="Alt Text" src="{% link assets/images/OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen.png %}"/>
-  			<img slot="image-2" alt="Alt text" src="{% link assets/images/OfG-Studium/0_Kursbilder/Kursbild Grundlagen.png %}"/>
-		</image-compare>
+			<a href="generic.html" class="image">
+			<img src="{% link assets/images/OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen.png %}" alt="" data-position="top center" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -52,7 +51,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/OfG-Studium/0_Kursbilder/2_Kursbild-Illustrator.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -68,7 +67,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

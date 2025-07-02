@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: landing
 title: Über mich
-image: assets/images/Profile.jpg
+image: assets/images/Ueber-mich/Anne-rechtszentriert.jpg
 nav-menu: true
 ---
 
@@ -12,11 +12,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Über mich</h1>
+			<h1>Hej, ich bin Anne</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Hej, mein Name ist Anne Gross</h2>
+<h2 id="content">Greativ - Organisiert - Quereinsteiger</h2>
 <p>Ich bin kreative Quereinsteigerin mit strukturiertem Kopf und einem ambitionierten Ziel: Ich möchte Crossmedia-Designerin werden!
 
 Nach vielen Jahren in der pharmazeutischen Entwicklung eines großen Chemie- und Pharmaunternehmen, in der präzises Arbeiten, Projektverantwortung und internationale Zusammenarbeit mein Alltag waren, habe ich mich entschieden, meiner Leidenschaft für Gestaltung zu folgen. 
