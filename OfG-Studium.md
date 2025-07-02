@@ -16,6 +16,7 @@ nav-menu: true
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		
 		<div class="web-certificates">
 			<div style="background-image: url(&quot;https://ofg-studium.de/images/OfG-Studium/0_Certificate/certificate_illustrator_29740.png&quot;); background-repeat: no-repeat;">
 				<a href="{% link assets/images/OfG-Studium/0_Certificates/OfG Certificate Illustrator Masterclass_DE.jpg %}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none">
