@@ -28,6 +28,22 @@ Dafür lege ich aktuell das theoretische Fundament mit unterschiedlichen, staatl
 Diese Webseite hier dient als digitale Visitenkarte und als Schaufenster meiner kreativen Arbeiten. Hier findest Du Einblicke in erste reale Projekte, wachsende Designs und meine Schritte in die Welt der visuellen Kommunikation.
 
 Als jemand, der nicht den klassischen Weg gegangen ist, bringe ich frische Perspektiven, Neugier und jede Menge Eigeninitiative mit.</p>
+
+<h3>Lists</h3>
+<div class="row">
+	<div class="6u 12u$(small)">
+
+		<h4>Was zeichnet mich aus?</h4>
+		<ul>
+			<li>Kreatives Denken kombiniert mit Organisationstalent</li>
+			<li>Kombination aus Kreativität und technischem Verständnis</li>
+			<li>Strukturierte, organisierte Arbeitsweise durch jahrelange Projektarbeit in der Industrie</li>
+			<li>ohe Eigeninitiative und schnelle Auffassungsgabe - ideal für den dynamischen Designbereich</li>
+			<li>Detaillierter Blick für Ästhetik</li>
+			<li>Neugier, Engagement und der Mut, neue Herausforderungen anzunehmen</li>
+		</ul>
+	</div>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Was zeichnet mich aus?</h3>
