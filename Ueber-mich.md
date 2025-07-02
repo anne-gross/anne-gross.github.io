@@ -16,16 +16,30 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Hej, mein Name ist Anne Gross</h2>
+<p>Ich bin kreative Quereinsteigerin mit strukturiertem Kopf und einem ambitionierten Ziel: Ich möchte Crossmedia-Designerin werden!
+
+Nach vielen Jahren in der pharmazeutischen Entwicklung eines großen Chemie- und Pharmaunternehmen, in der präzises Arbeiten, Projektverantwortung und internationale Zusammenarbeit mein Alltag waren, habe ich mich entschieden, meiner Leidenschaft für Gestaltung zu folgen. 
+
+Die Geburt meiner Tochter war nicht nur für mich privat, sondern auch beruflich ein großer Meilenstein bzw. Wendepunkt. Ich habe mich endgültig entschieden, meinem langgehegtem Traum von Grafik-, Web- und UX/UI-Design in die Wirklichkeit umzusetzen.
+
+Dafür lege ich aktuell das theoretische Fundament mit unterschiedlichen, staatlich anerkannten Fernstudien und Online-Kursen bei der OfG, der Online-Schule für Gestaltung. Außerdem setze ich dazu parallel das Gelernte mit den geforderten Modulaufgaben direkt in die Praxis um.
+
+Diese Webseite hier dient als digitale Visitenkarte und als Schaufenster meiner kreativen Arbeiten. Hier findest Du Einblicke in erste reale Projekte, wachsende Designs und meine Schritte in die Welt der visuellen Kommunikation.
+
+Als jemand, der nicht den klassischen Weg gegangen ist, bringe ich frische Perspektiven, Neugier und jede Menge Eigeninitiative mit.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Was zeichnet mich aus?</h3>
+		<p>- Kreatives Denken kombiniert mit Organisationstalent
+- Kombination aus Kreativität und technischem Verständnis
+- Strukturierte, organisierte Arbeitsweise durch jahrelange Projektarbeit in der Industrie
+- Hohe Eigeninitiative und schnelle Auffassungsgabe - ideal für den dynamischen Designbereich
+- Detaillierter Blick für Ästhetik
+- Neugier, Engagement und der Mut, neue Herausforderungen anzunehmen</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p>Ich freue mich, wenn Du mehr über mich und meine Design-Reise erfahren möchtest.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
