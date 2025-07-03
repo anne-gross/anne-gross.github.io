@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über mich
-image: assets/images/Ueber-mich/Anne-rechtszentriert.jpg
+image: assets/images/Ueber-Mich/Anne-rechtszentriert.jpg
 nav-menu: true
 ---
 
