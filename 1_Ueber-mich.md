@@ -42,17 +42,18 @@ nav-menu: true
 <p>Ich freue mich, wenn Du mehr über mich und meine Design-Reise erfahren möchtest.</p>
 <hr class="major" />
 <!-- Break -->
+<h1 style="text-align: center;">Persönliche Interessen</h1>
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h4>Miniaturwelten auf Knopfdruck – <br> unser gemeinsames Hobby 🚂</h4>
+		<p>Zusammen mit meinen Eltern baue ich kleine Miniatur-Welten, in denen es an jeder Ecke etwas zu entdecken gibt. Unser Herz schlägt für Modelleisenbahnen im Maßstab H0 – und seit Corona tüfteln wir besonders an kompakten Anlagen, die auf einer simplen OSB-Platte Platz finden und trotzdem jede Menge Charme versprühen. <br> Das Schönste daran? Die vielen liebevollen Details, versteckten Szenen und natürlich die Knöpfe, mit denen kleine wie große Besucher unsere Miniaturwelten zum Leben erwecken können. <br> Neugierig? Dann schau doch mal auf unserer Instagram-Seite vorbei und entdecke, was auf wenigen Quadratmetern alles möglich ist: <a href="https://www.instagram.com/grossmeiersmodellbahn/">@grossmeiersmodellbahn</a> </p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h4>Mein neues Geduldsprojekt – Perlenstickerei mit Suchtpotenzial ✨</h4>
+		<p>Im November habe ich auf einer Messe dieses wunderschöne Perlenstickbild am Stand von Aleksandras Lieblingsperlen entdeckt – und es war sofort um mich geschehen. Seitdem sitze ich immer mal wieder abends da und setze Reihe für Reihe, Perle für Perle, auf dem Weg zum fertigen Bild. <br> Aleksandra meinte, sie schafft ein Bild dieser Größe circa in einem Jahr. Ich ahne allerdings: Bei mir wird das wohl doch länger dauern. Aber egal – es macht riesigen Spaß, ist total entspannend (zumindest solange man sich nicht in der Reihe vertut) und ich bin schon jetzt gespannt auf das Ergebnis.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h4>Kreativ, detailverliebt und immer neugierig 🎨</h4>
+		<p>Was ich noch nicht kann, das bringe ich mir gerne selbst bei – ob mit Fachbüchern oder E-Learning-Videos. Ich liebe es, neue Dinge auszuprobieren, vor allem wenn es kreativ wird! Freunde sagen, in mir steckt ein verkannter Innenarchitekt – ich designe u.a. in "Die Sims 4" regelmäßig Traumhäuser oder gestalte per ProCreate App Wohnräume für mich, Familie oder Bekannte. Geschenke und Grußkarten bastel ich nur noch selbst dank meines Plotters. Ich backe mit Begeisterung kleine Torten-Kunstwerke. Außerdem sammle ich seltene Lego Icon Sets und erweitere jedes Jahr meine Lego-Straße. <br> Kurz gesagt: Kreativität, ein Auge fürs Detail und ein Hang zu kleinen Welten ziehen sich durch alles, was ich mache.</p>
 	</div>
 </div>
