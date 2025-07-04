@@ -42,7 +42,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Grundlagen Grafiksoftware</h3>
 				</header>
-				<p>Staatlich zugelassene Weiterbildung über die grundlegenden Kenntnisse und Fähigkeiten der drei wichtigsten Adobe-Programme Photoshop, Illustrator und InDesign.</p>
+				<p>Mein Weg zur sicheren Anwendung von Adobe Grafiksoftware 🎨 <br> Um meine Fähigkeiten im Umgang mit den wichtigsten Programmen von Adobe – Photoshop, Illustrator und InDesign – auszubauen, habe ich eine umfassende Online-Weiterbildung absolviert. Dabei lag der Fokus auf praktischen Aufgaben, die sich direkt im beruflichen Alltag umsetzen lassen. <br> Die Weiterbildung war flexibel aufgebaut, komplett online und zeitlich gut in den Alltag integrierbar. Besonders hilfreich fand ich die praxisnahe Vermittlung von Bildbearbeitung, Vektorgrafik und Layoutgestaltung – genau die Tools, die im kreativen Alltag ständig gebraucht werden. <br> Mittlerweile setze ich Photoshop, Illustrator und InDesign sicher ein – egal ob für die Gestaltung von Logos, Social-Media-Posts, Flyern oder anderen Projekten. <br> Falls du selbst darüber nachdenkst, deine Grafikkenntnisse auf ein neues Level zu bringen, kann ich so einen strukturierten Kurs absolut empfehlen.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button small">Erfahre mehr</a></li>
 				</ul>
@@ -58,7 +58,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Adobe Illustrator Masterclass</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Adobe Illustrator Weiterbildung – Mein Erfahrungsbericht ✏️ <br> Um den sicheren Umgang mit Adobe Illustrator zu lernen, habe ich eine gezielte Online-Weiterbildung gemacht. Dabei lag der Fokus auf den Grundlagen und dem Aufbau von Vektorgrafiken – vom ersten Pfad bis zur professionellen Illustration. <br> Die Inhalte waren gut strukturiert, ich konnte sie flexibel neben der Arbeit bearbeiten, ganz ohne Präsenztermine. Besonders hilfreich fand ich die praxisnahen Aufgaben, durch die ich Illustrator schnell in meinen kreativen Workflow integrieren konnte. <br>Heute setze ich Illustrator souverän ein – egal ob für Logos, Icons oder komplexe Illustrationen. Wenn du Vektorgrafiken gestalten lernen möchtest, kann ich eine solche strukturierte Weiterbildung nur empfehlen.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button small">Erfahre mehr</a></li>
 				</ul>
@@ -74,7 +74,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Adobe Photoshop Masterclass</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Mein Einstieg in die Bildbearbeitung mit Adobe Photoshop 🖌️ <br>Für den professionellen Umgang mit Adobe Photoshop habe ich eine Online-Weiterbildung absolviert. Schritt für Schritt wurden Bildbearbeitung, Retusche, Fotomontagen und kreative Effekte verständlich erklärt und praktisch angewendet. <br>Das Beste daran: Ich konnte komplett flexibel lernen, ohne feste Termine, und die Übungen direkt auf eigene Projekte übertragen. <br> Mittlerweile nutze ich Photoshop sicher – ob für Social-Media-Grafiken, Fotobearbeitung oder kreative Designs. Wer einen Einstieg oder eine Vertiefung in Photoshop sucht, für den ist so ein praxisnaher Kurs auf jeden Fall eine gute Option.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button small">Erfahre mehr</a></li>
 				</ul>
