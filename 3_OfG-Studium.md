@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Mein großer Traum und der Weg dahin</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Kreativ bin ich seit ich denken kann. Viele meiner Hobbies sind kreativ. Aber wie das Leben halt so läuft, man mann dann doch erst einmal etwas anderes. </p>
 		<div class="web-certificates">
 			<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_grafiksoftware_29324.png&quot;); background-repeat: no-repeat;">
 				<a href="{% link assets/images/OfG-Studium/0_Certificates/OfG Certificate Grafiksoftware_DE.jpeg %}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none;border-bottom: none">
