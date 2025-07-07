@@ -60,7 +60,7 @@ nav-menu: true
 				</header>
 				<p>Adobe Illustrator Weiterbildung – Mein Erfahrungsbericht ✏️ <br> Um den sicheren Umgang mit Adobe Illustrator zu lernen, habe ich eine gezielte Online-Weiterbildung gemacht. Dabei lag der Fokus auf den Grundlagen und dem Aufbau von Vektorgrafiken – vom ersten Pfad bis zur professionellen Illustration. <br> Die Inhalte waren gut strukturiert, ich konnte sie flexibel neben der Arbeit bearbeiten, ganz ohne Präsenztermine. Besonders hilfreich fand ich die praxisnahen Aufgaben, durch die ich Illustrator schnell in meinen kreativen Workflow integrieren konnte. <br>Heute setze ich Illustrator souverän ein – egal ob für Logos, Icons oder komplexe Illustrationen. Wenn du Vektorgrafiken gestalten lernen möchtest, kann ich eine solche strukturierte Weiterbildung nur empfehlen.</p>
 				<ul class="actions">
-					<li> <a href="{% link _posts/2016-8-21-Illustrator-Masterclass.md%}" class="button small">Erfahre mehr</a></li>
+					<li> <a href="{% link 3b_Ai-Masterclass.md%}" class="button small">Erfahre mehr</a></li>
 				</ul>
 			</div>
 		</div>
