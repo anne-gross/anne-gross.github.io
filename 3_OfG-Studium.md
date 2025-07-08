@@ -18,12 +18,12 @@ nav-menu: true
 		<p>Kreativ bin ich seit ich denken kann. Viele meiner Hobbies sind kreativ. Aber wie das Leben halt so läuft, man mann dann doch erst einmal etwas anderes. </p>
 		<div class="web-certificates">
 			<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_grafiksoftware_29324.png&quot;); background-repeat: no-repeat;">
-				<a href="{% link assets/images/OfG-Studium/0_Certificates/OfG Certificate Grafiksoftware_DE.jpeg %}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none;border-bottom: none">
+				<a href="{% link assets/images/3-OfG-Studium/0_Certificates/OfG Certificate Grafiksoftware_DE.jpeg %}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none;border-bottom: none">
 					<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Grafiksoftware" alt="Online Schule für Gestaltung - Online-Fernkurs für Photoshop / Illustrator / InDesign" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
 				</a>
 			</div>
 			<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_illustrator_29740.png&quot;); background-repeat: no-repeat;">
-				<a href="{% link assets/images/OfG-Studium/0_Certificates/OfG Certificate Illustrator Masterclass_DE.jpg %}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none;border-bottom: none">
+				<a href="{% link assets/images/3-OfG-Studium/0_Certificates/OfG Certificate Illustrator Masterclass_DE.jpg %}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none;border-bottom: none">
 					<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
 				</a>
 			</div>
