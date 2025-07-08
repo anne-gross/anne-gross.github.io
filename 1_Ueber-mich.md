@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über mich
-image: assets/images/Ueber-Mich/Anne-rechtszentriert.jpg
+image: assets/images/1-Ueber-Mich/Anne-rechtszentriert.jpg
 nav-menu: true
 ---
 
@@ -42,7 +42,7 @@ nav-menu: true
 <p>Ich freue mich, wenn Du mehr über mich und meine Design-Reise erfahren möchtest.</p>
 <hr class="major" />
 <!-- Break -->
-<h1 style="text-align: center;">Persönliche Interessen</h1>
+<h2 style="text-align: center;">Persönliche Interessen</h2>
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h4>Miniaturwelten auf Knopfdruck – <br> unser gemeinsames Hobby 🚂</h4>
