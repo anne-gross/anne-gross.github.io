@@ -1,0 +1,23 @@
+.fslightboxb {
+    box-shadow: unset;
+    border-radius: unset;
+    height: unset;
+    padding: unset;
+    border: 0;
+    background: rgba(35, 35, 35, .65);
+    cursor: pointer;
+}
+
+.fslightbox-slide-btn {
+    padding: 9px;
+}
+
+.fslightbox-container * {
+    box-sizing: border-box;
+}
+
+.fslightbox-flex-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

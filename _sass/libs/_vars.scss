@@ -18,6 +18,13 @@
 		inner:				65em
 	);
 
+	$grid-spacing: 20px;
+
+	$break-phone-l: 480px;
+	$break-tablet-p: 736px;
+	$break-tablet-l: 980px;
+	$break-laptop: 1280px;
+
 // Font.
 	$font: (
 		family:				('Source Sans Pro', Helvetica, sans-serif),
