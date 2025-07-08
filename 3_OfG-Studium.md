@@ -30,6 +30,7 @@ nav-menu: true
 		</div>
 		<hr class="major" />
 		<img src="{% link assets/images/3-OfG-Studium/Ziel_Kurse-OfG.png %}" alt="" data-position="top center" />
+		<hr class="major" />
 	</div>
 </section>
 
