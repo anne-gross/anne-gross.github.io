@@ -12,10 +12,10 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Mein großer Traum und der Weg dahin</h2>
+		<p>Nach intensiver Suche über verschiedene Fernstudien-Schulen mit Richtung Gestaltung und Design, habe ich in der Online-Schule für Gestaltung (kurz OfG) meinen idealen Partner gefunden. Hier kann ich flexibel und nach meinem eigenen Tempo lernen - von Grundlagen über spezialisierte Masterclasses bis hin zu den spannenden Fernstudien aller meiner drei Hauptthemenbereiche (Grafik-, Web- und UX/UI-Design).<br/> Sobald ich einen Kurs erfolgreich abgeschlossen habe, werde ich die staatlich anerkannten Zertifikate hier online präsentieren. Das Bild veranschaulicht zudem meinen langfristigen Plan und begleitet mich auf meinem Weg zum Grafik-, Web- und UX/UI-Designer – ein klarer Fahrplan für den gesamten Prozess.</p>
+		<header class="none">
+			<h3>Staatlich anerkannte Zertifikate</h3>
 		</header>
-		<p>Kreativ bin ich seit ich denken kann. Viele meiner Hobbies sind kreativ. Aber wie das Leben halt so läuft, man mann dann doch erst einmal etwas anderes. </p>
 		<div class="web-certificates">
 			<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_grafiksoftware_29324.png&quot;); background-repeat: no-repeat;">
 				<a href="{% link assets/images/3-OfG-Studium/0_Certificates/OfG Certificate Grafiksoftware_DE.jpeg %}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none;border-bottom: none">
@@ -28,6 +28,8 @@ nav-menu: true
 				</a>
 			</div>
 		</div>
+		<hr class="major" />
+		<img src="{% link assets/images/3-OfG-Studium/Ziel_Kurse-OfG.png %}" alt="" data-position="top center" />
 	</div>
 </section>
 
@@ -40,9 +42,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Grundlagen Grafiksoftware</h3>
+					<h4>Grundlagen Grafiksoftware</h4>
 				</header>
-				<p>Mein Weg zur sicheren Anwendung von Adobe Grafiksoftware 🎨 <br> Um meine Fähigkeiten im Umgang mit den wichtigsten Programmen von Adobe – Photoshop, Illustrator und InDesign – auszubauen, habe ich eine umfassende Online-Weiterbildung absolviert. Dabei lag der Fokus auf praktischen Aufgaben, die sich direkt im beruflichen Alltag umsetzen lassen. <br> Die Weiterbildung war flexibel aufgebaut, komplett online und zeitlich gut in den Alltag integrierbar. Besonders hilfreich fand ich die praxisnahe Vermittlung von Bildbearbeitung, Vektorgrafik und Layoutgestaltung – genau die Tools, die im kreativen Alltag ständig gebraucht werden. <br> Mittlerweile setze ich Photoshop, Illustrator und InDesign sicher ein – egal ob für die Gestaltung von Logos, Social-Media-Posts, Flyern oder anderen Projekten. <br> Falls du selbst darüber nachdenkst, deine Grafikkenntnisse auf ein neues Level zu bringen, kann ich so einen strukturierten Kurs absolut empfehlen.</p>
+				<p>Grundlegenden Kenntnisse der drei großen Adobe-Programmen Photoshop, Illustrator und InDesign</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button small">Erfahre mehr</a></li>
 				</ul>
@@ -58,7 +60,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Adobe Illustrator Masterclass</h3>
 				</header>
-				<p>Adobe Illustrator Weiterbildung – Mein Erfahrungsbericht ✏️ <br> Um den sicheren Umgang mit Adobe Illustrator zu lernen, habe ich eine gezielte Online-Weiterbildung gemacht. Dabei lag der Fokus auf den Grundlagen und dem Aufbau von Vektorgrafiken – vom ersten Pfad bis zur professionellen Illustration. <br> Die Inhalte waren gut strukturiert, ich konnte sie flexibel neben der Arbeit bearbeiten, ganz ohne Präsenztermine. Besonders hilfreich fand ich die praxisnahen Aufgaben, durch die ich Illustrator schnell in meinen kreativen Workflow integrieren konnte. <br>Heute setze ich Illustrator souverän ein – egal ob für Logos, Icons oder komplexe Illustrationen. Wenn du Vektorgrafiken gestalten lernen möchtest, kann ich eine solche strukturierte Weiterbildung nur empfehlen.</p>
+				<p>Tiefergehende Kenntnisse und spezielle Fähigkeiten für Adobe Illustrator</p>
 				<ul class="actions">
 					<li> <a href="{% link 3b_Ai-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 				</ul>
@@ -74,7 +76,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Adobe Photoshop Masterclass</h3>
 				</header>
-				<p>Mein Einstieg in die Bildbearbeitung mit Adobe Photoshop 🖌️ <br>Für den professionellen Umgang mit Adobe Photoshop habe ich eine Online-Weiterbildung absolviert. Schritt für Schritt wurden Bildbearbeitung, Retusche, Fotomontagen und kreative Effekte verständlich erklärt und praktisch angewendet. <br>Das Beste daran: Ich konnte komplett flexibel lernen, ohne feste Termine, und die Übungen direkt auf eigene Projekte übertragen. <br> Mittlerweile nutze ich Photoshop sicher – ob für Social-Media-Grafiken, Fotobearbeitung oder kreative Designs. Wer einen Einstieg oder eine Vertiefung in Photoshop sucht, für den ist so ein praxisnaher Kurs auf jeden Fall eine gute Option.</p>
+				<p>Tiefergehende Kenntnisse und spezielle Fähigkeiten für Adobe Photoshop</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button small">Erfahre mehr</a></li>
 				</ul>
