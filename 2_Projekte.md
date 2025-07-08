@@ -2,7 +2,7 @@
 layout: post
 title: Projekte
 description: Meine Arbeit
-image: assets/images/pic11.jpg
+image: assets/images/2-Projekte/Title-Projects.jpg
 nav-menu: true
 ---
 
