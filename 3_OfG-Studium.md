@@ -2,7 +2,7 @@
 title: OfG-Studium
 layout: landing
 description: 'Mein Studium bei der Online-Schule für Gestaltung'
-image: assets/images/pic07.jpg
+image: assets/images/3-OfG-Studium/Title-OfG-Studium.jpg
 nav-menu: true
 ---
 
@@ -47,14 +47,14 @@ nav-menu: true
 				</header>
 				<p>Grundlegenden Kenntnisse der drei großen Adobe-Programmen Photoshop, Illustrator und InDesign</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button small">Erfahre mehr</a></li>
+					<li><a href="{% link 3a_Grundlagen-Grafiksoftware.md %}" class="button small">Erfahre mehr</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/3-OfG-Studium/0_Kursbilder/2_Kursbild-Illustrator.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/3-OfG-Studium/0_Kursbilder/2_Kursbild-Illustrator.png %}" alt="" data-position="top center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
