@@ -19,13 +19,9 @@ nav-menu: true
 <h2 id="content">Greativ - Organisiert - Quereinsteiger</h2>
 <p>Ich bin kreative Quereinsteigerin mit strukturiertem Kopf und einem ambitionierten Ziel: Ich möchte Crossmedia-Designerin werden!</p>
 
-<p>Nach vielen Jahren in der pharmazeutischen Entwicklung eines großen Chemie- und Pharmaunternehmen, in der präzises Arbeiten, Projektverantwortung und internationale Zusammenarbeit mein Alltag waren, habe ich mich entschieden, meiner Leidenschaft für Gestaltung zu folgen. </p>
+<p>Nach vielen Jahren in der pharmazeutischen Entwicklung eines großen Chemie- und Pharmaunternehmen, in der präzises Arbeiten, Projektverantwortung und internationale Zusammenarbeit mein Alltag waren, habe ich mich entschieden, meiner Leidenschaft für Gestaltung zu folgen.<br>Die Geburt meiner Tochter war nicht nur für mich privat, sondern auch beruflich ein großer Meilenstein bzw. Wendepunkt. Ich habe mich endgültig entschieden, meinem langgehegtem Traum von Grafik-, Web- und UX/UI-Design in die Wirklichkeit umzusetzen.</p>
 
-<p>Die Geburt meiner Tochter war nicht nur für mich privat, sondern auch beruflich ein großer Meilenstein bzw. Wendepunkt. Ich habe mich endgültig entschieden, meinem langgehegtem Traum von Grafik-, Web- und UX/UI-Design in die Wirklichkeit umzusetzen.</p>
-
-<p>Dafür lege ich aktuell das theoretische Fundament mit unterschiedlichen, staatlich anerkannten Fernstudien und Online-Kursen bei der OfG, der Online-Schule für Gestaltung. Außerdem setze ich dazu parallel das Gelernte mit den geforderten Modulaufgaben direkt in die Praxis um.</p>
-
-<p>Diese Webseite hier dient als digitale Visitenkarte und als Schaufenster meiner kreativen Arbeiten. Hier findest Du Einblicke in erste reale Projekte, wachsende Designs und meine Schritte in die Welt der visuellen Kommunikation.</p>
+<p>Dafür lege ich aktuell das theoretische Fundament mit unterschiedlichen, staatlich anerkannten Fernstudien und Online-Kursen bei der OfG, der Online-Schule für Gestaltung. Außerdem setze ich dazu parallel das Gelernte mit den geforderten Modulaufgaben direkt in die Praxis um.<br>Diese Webseite hier dient als digitale Visitenkarte und als Schaufenster meiner kreativen Arbeiten. Hier findest Du Einblicke in erste reale Projekte, wachsende Designs und meine Schritte in die Welt der visuellen Kommunikation.</p>
 
 <p>Als jemand, der nicht den klassischen Weg gegangen ist, bringe ich frische Perspektiven, Neugier und jede Menge Eigeninitiative mit.</p>
 
@@ -39,10 +35,10 @@ nav-menu: true
 	<li>Neugier, Engagement und der Mut, neue Herausforderungen anzunehmen</li>
 </ul>
 
-<p>Ich freue mich, wenn Du mehr über mich und meine Design-Reise erfahren möchtest.</p>
+<h4>Ich freue mich, wenn Du mehr über mich und meine Design-Reise erfahren möchtest.</h4>
 <hr class="major" />
 <!-- Break -->
-<h2 style="text-align: center;">Persönliche Interessen</h2>
+<h2 style="text-align: center;">Meine persönlichen Interessen</h2>
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h4>Miniaturwelten auf Knopfdruck – <br> unser gemeinsames Hobby 🚂</h4>
