@@ -8,9 +8,14 @@ customElements.define(
       }
     }
   );
-  
   function createGallery() {
-    const glide = new Glide(".glide", {
+    const id = this.getAttribute("id");
+    this.removeAttribute("id");
+    const images = this.querySelectorAll("img");
+    const gallery = wrapGallery(images, id);
+    this.appendChild(gallery);
+  
+    const glide = new Glide(gallery, {
       type: "carousel",
       perView: 4,
       focusAt: "center",
@@ -24,5 +29,56 @@ customElements.define(
       },
     });
     glide.mount();
+
+    refreshFsLightbox();
   }
   
+  function wrapGallery(images, id) {
+    const glide = document.createElement("div");
+    glide.classList.add("glide");
+    glide.classList.add(id);
+  
+    const glideTrack = document.createElement("div");
+    glideTrack.classList.add("glide__track");
+    glideTrack.setAttribute("data-glide-el", "track");
+    glide.appendChild(glideTrack);
+  
+    const glideSlides = document.createElement("ul");
+    glideSlides.classList.add("glide__slides");
+    glideTrack.appendChild(glideSlides);
+  
+    images.forEach(img => glideSlides.appendChild(wrapImage(img, id)));
+  
+    const glideBullets = document.createElement("div");
+    glideBullets.classList.add("glide__bullets");
+    glideBullets.setAttribute("data-glide-el", "controls[nav]");
+    glide.appendChild(glideBullets);
+  
+    images.forEach((_, index) => {
+      glideBullets.appendChild(createBullet(index));
+    });
+  
+    return glide;
+  }
+  
+  function wrapImage(img, id) {
+    const slide = document.createElement("li");
+    slide.classList.add("glide__slide");
+  
+    const lightboxLink = document.createElement("a");
+    lightboxLink.setAttribute("data-fslightbox", id);
+    lightboxLink.style = "border-bottom: none";
+    lightboxLink.setAttribute("href", img.attributes["src"].value);
+    lightboxLink.appendChild(img);
+    slide.appendChild(lightboxLink);
+  
+    return slide;
+  }
+  
+  function createBullet(index) {
+    const bullet = document.createElement("button");
+    bullet.classList.add("glide__bullet");
+    bullet.setAttribute("data-fslightbox", `=${index}`);
+  
+    return bullet;
+  }
