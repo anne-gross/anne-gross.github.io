@@ -36,7 +36,7 @@ nav-menu: true
   <h2>Projekt 1: Steuerberaterin Anne Weiß - Geschäftsausstattung mit Feingefühl</h2>
   <p>Zwischen Februar und September 2024 war ich als Büroassistenz bei der Steuerberaterin Anne Weiß tätig. In dieser Zeit durfte ich nicht nur im organisatorischen Bereich unterstützen, sondern auch kreativ tätig werden: Ich entwickelte eine maßgeschneiderte Geschäftsausstattung für die Mandantenkommunikation, abgestimmt auf das bestehende Corporate Design der Kanzlei.</p>
   <p>Entstanden ist eine Serie hochwertiger Faltkarten für verschiedene Anlässe – von der herzlichen Begrüßung neuer Mandant:innen über Glückwünsche zu Jubiläen und Geburtstagen bis hin zu sensibel gestalteten Karten für schwierige Lebensphasen. Ergänzt wurde das Set durch stilvolle Postkarten für festliche Grüße, passende Adressaufkleber und Briefumschläge im einheitlichen Design.</p>
-  <p>So kann die Kanzlei nicht nur professionell, sondern auch persönlich und wertschätzend in Kontakt mit ihren Mandant:innen treten.<br>Mehr über Anne Weiß und ihre Steuerberatung findest du hier: <a href="https://steuern-weiss.de/">www.steuern-weiss.de</a></p>
+  <p>So kann die Kanzlei nicht nur professionell, sondern auch persönlich und wertschätzend in Kontakt mit ihren Mandant:innen treten.<br>Mehr über Anne Weiß und ihre Steuerberatung findest du hier: <a href="https://steuern-weiss.de/" target="_blank_">www.steuern-weiss.de</a></p>
       <glider-gallery>
         <div class="glide">
             <div class="glide__track" data-glide-el="track">
@@ -87,7 +87,7 @@ nav-menu: true
         <li>Neugestaltung einer Broschüre für den Software Health Check</li>
         <li>Erstellung einer Info-Grafik für die Kampagne "Code Quality Insights"</li>
     </ul>
-    <p>Mehr über MaibornWolff und die Projekte findest du auf der offiziellen Website: <a href="https://www.maibornwolff.de/">www.maibornwolff.de</a></p>
+    <p>Mehr über MaibornWolff und die Projekte findest du auf der offiziellen Website: <a href="https://www.maibornwolff.de/" target="_blank_">www.maibornwolff.de</a></p>
       <glider-gallery>
         <div class="glide">
             <div class="glide__track" data-glide-el="track">
