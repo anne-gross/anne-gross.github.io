@@ -9,7 +9,9 @@ show_tile: false
 
 <!-- One -->
 <section id="Einleitung Ai-Masterclass">
-  <p>Einleitung</p>
+  <h4>Zwischen Technik und Ausdruck - Visuelle Gestaltung mit Vektorgrafiken</h4>
+  <p>Dieser Abschnitt dokumentiert meinen Lernprozess im Rahmen der Adobe Illustrator Masterclass. In drei Modulen habe ich mich intensiv mit verschiedenen Aspekten zum Thema Vektorgrafiken beschäftigt – von urbanen Karten über architektonische Illustrationen bis hin zu dynamischen Gestaltungstechniken.<br>Jeder Abschnitt dieser Seite zeigt, was ich in den jeweiligen Modulen gelernt, ausprobiert und entwickelt habe. Dabei standen nicht nur technische Fähigkeiten im Vordergrund, sondern auch mein persönlicher Zugang zu Form, Farbe und Raum.</p>
+  <p>Die Masterclass war für mich ein wichtiger Schritt, um Illustrator nicht nur als Werkzeug, sondern als kreatives Ausdrucksmittel zu begreifen – strukturiert, herausfordernd und überraschend vielseitig.</p>
 </section>
 
 <!-- Two -->
