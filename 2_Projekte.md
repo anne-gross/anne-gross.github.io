@@ -88,36 +88,26 @@ nav-menu: true
         <li>Erstellung einer Info-Grafik für die Kampagne "Code Quality Insights"</li>
     </ul>
     <p>Mehr über MaibornWolff und die Projekte findest du auf der offiziellen Website: <a href="https://www.maibornwolff.de/">www.maibornwolff.de</a></p>
-
-    <glider-gallery>
+      <glider-gallery>
         <div class="glide">
-          <div class="glide__track" data-glide-el="track">
-            <ul class="glide__slides">
-              <li class="glide__slide">
-                <img
-                  src="assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-01.png"
-                  sizes="70vmin"
-                />
-              </li>
-              <li class="glide__slide">
-                <img
-                  src="assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-02.png"
-                  sizes="70vmin"
-                />
-              </li>
-              <li class="glide__slide">
-                <img
-                  src="assets/images/2-Projekte/MaibornWolff/MW_Postkarte-Insights.png"
-                  sizes="70vmin"
-                />
-              </li>
-            </ul>
-          </div>
-          <div class="glide__bullets" data-glide-el="controls[nav]">
-            <button class="glide__bullet" data-glide-dir="=0"></button>
-            <button class="glide__bullet" data-glide-dir="=1"></button>
-            <button class="glide__bullet" data-glide-dir="=2"></button>
-          </div>
+            <div class="glide__track" data-glide-el="track">
+                <ul class="glide__slides">
+                    <li class="glide__slide">
+                        <img src="assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-01.png" sizes="70vmin"/>
+                    </li>
+                    <li class="glide__slide">
+                        <img src="assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-02.png" sizes="70vmin"/>
+                    </li>
+                    <li class="glide__slide">
+                        <img src="assets/images/2-Projekte/MaibornWolff/MW_Postkarte-Insights.png" sizes="70vmin"/>
+                    </li>
+                </ul>
+            </div>
+            <div class="glide__bullets" data-glide-el="controls[nav]">
+                <button class="glide__bullet" data-glide-dir="=0"></button>
+                <button class="glide__bullet" data-glide-dir="=1"></button>
+                <button class="glide__bullet" data-glide-dir="=2"></button>
+            </div>
         </div>
-      </glider-gallery>
+    </glider-gallery>
 </section>
