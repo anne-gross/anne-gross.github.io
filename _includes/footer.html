@@ -98,8 +98,17 @@
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
 	<!-- Image compare, see also https://image-compare-component.netlify.app/ -->
 	<script src="https://unpkg.com/@cloudfour/image-compare/dist/index.min.js"></script>
+	<script type="importmap">
+		{
+			"imports": {
+			  	"@glidejs/glide": "{{ "assets/js/vendor/glide.esm.js" | absolute_url }}"
+			}
+		}
+	</script>
 	<!-- Masonry-gallery and plugins -->
 	<script src="{{ "assets/js/vendor/fslightbox.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/vendor/masonry.pkgd.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/vendor/imagesloaded.pkgd.min.js" | absolute_url }}"></script>
+
 	<script src="{{ "assets/js/masonry-gallery.mjs" | absolute_url }}" type="module"></script>
+	<script src="{{ "assets/js/glider-gallery.mjs" | absolute_url }}" type="module"></script>
