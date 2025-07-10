@@ -29,7 +29,7 @@ nav-menu: true
 			</div>
 		</div>
 		<hr class="major" />
-		<img src="{% link assets/images/3-OfG-Studium/Ziel_Kurse-OfG.jpg %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/3-OfG-Studium/Ziel_Kurse-OfG.png %}" alt="" data-position="top center" />
 		<hr class="major" />
 	</div>
 </section>
@@ -70,7 +70,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
