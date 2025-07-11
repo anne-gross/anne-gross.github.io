@@ -34,7 +34,7 @@ nav-menu: true
 	<li>Kreatives Denken kombiniert mit Organisationstalent</li>
 	<li>Kombination aus Kreativität und technischem Verständnis</li>
 	<li>Strukturierte, organisierte Arbeitsweise durch jahrelange Projektarbeit in der Industrie</li>
-	<li>ohe Eigeninitiative und schnelle Auffassungsgabe - ideal für den dynamischen Designbereich</li>
+	<li>hohe Eigeninitiative und schnelle Auffassungsgabe - ideal für den dynamischen Designbereich</li>
 	<li>Detaillierter Blick für Ästhetik</li>
 	<li>Neugier, Engagement und der Mut, neue Herausforderungen anzunehmen</li>
 </ul>
