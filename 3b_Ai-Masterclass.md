@@ -2,7 +2,9 @@
 title: Adobe Illustrator Masterclass
 layout: landing2
 description: 
-image: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass.jpg
+image-400w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-400w.jpg
+image-800w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-800w.jpg
+image-1200w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-1200w.jpg
 nav-menu: false
 show_tile: false
 ---
@@ -18,7 +20,10 @@ show_tile: false
 <section class="bricks">
 	<article class="style1">
 		<span class="image">
-			<img src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01.png" alt="">
+			<img 
+        src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01-1080w.jpg" 
+        alt=""
+      >
 		</span>
 		<a href="#modul-1">
 			<h2>Stadtplan</h2>
@@ -26,7 +31,7 @@ show_tile: false
 	</article>
 	<article class="style2">
 		<span class="image">
-			<img src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02.png" alt="">
+			<img src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02-1080w.jpg" alt="">
 		</span>
 		<a href="#modul-2">
 			<h2>Architektur</h2>
@@ -37,7 +42,7 @@ show_tile: false
 	</article>
 	<article class="style3">
 		<span class="image">
-			<img src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03.png" alt="">
+			<img src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03-1080w.jpg" alt="">
 		</span>
 		<a href="#modul-3">
 			<h2>Bewegung</h2>
@@ -50,13 +55,35 @@ show_tile: false
 <hr />
 
 <!-- Three -->
-<section id="modul-1">
+<section id="modul-1" class="anchor">
   <h2>Modul 1: Stadtplan – Illustrator trifft Orientierung</h2>
   <p>Im Rahmen der ersten Monatsaufgabe entstand ein digitaler Stadtplanausschnitt, der zeigt, wie kreative Gestaltung und technische Präzision ineinandergreifen. Ziel war es, eine flexible Grundgrafik zu entwickeln, die sich durch gezielten Einsatz von Ebenen in die zwei verschiedenen Stilrichtungen übersetzen lässt. Die Gestaltung basiert also auf einer einzigen, präzise aufgebauten Illustrator-Datei mit klar getrennten Ebenen. So lassen sich unterschiedliche Varianten schnell und effizient durch das ein- bzw. ausblenden von Ebenen visualieren. Zum Einsatz kamen hier Tools wie der Pathfinder und andere Formerstellungsmethoden, das Arbeiten mit Ebenen und Schnittmasken, die Verwendung von Farbverläufen und Texteffekten, sowie Verzerrungs-Werkzeuge. Gestaltung die Orientierung schafft - vielseitig, technisch gut umsetzbar und mit Blick fürs Detail.</p>
   <h3 style="text-align: left;">Meine zwei Umsetzungen:</h3>
   <image-compare class="image" data-position="center center">
-      <img slot="image-1" alt="Alt Text" src="{% link assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1.png %}"/>
-      <img slot="image-2" alt="Alt text" src="{% link assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2.png %}"/>
+      <img 
+        slot="image-1" 
+        alt="Alt Text" 
+        src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %}"
+				srcset="
+					{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-100w.jpg %} 100w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %} 1200w
+				"
+				sizes="90vw"
+      />
+      <img 
+        slot="image-2" 
+        alt="Alt text" 
+        src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %}"
+				srcset="
+					{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-100w.jpg %} 100w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %} 1200w
+				"
+				sizes="90vw"
+      />
   </image-compare>
   <div class="row">
     <div class="6u 12u$(medium)">
@@ -73,13 +100,35 @@ show_tile: false
 <hr />
 
 <!-- Four -->
-<section id="modul-2">
+<section id="modul-2" class="anchor">
   <h2>Modul 2: Architektur - Perspektive im digitalen Raum</h2>
   <p>In der zweiten Monatsaufgabe war eine ganzseitige Illustration zum Thema "Architektur" oder Science Finction" gewünscht. Meine Wahl fiel auf das Thema Architektur: ein Feld, das mich sowohl technisch als auch emotional begeistert. Der Umgang mit dem Perspektive-Werkzeug fiel mir anfangs sehr schwer. Um die Technik zu meistern, habe ich zunächst eine bestehende Grafik rekonstruiert – ein lehrreicher Zwischenschritt mit nachhaltigem Effekt. Weitere technische Tools wie die Erstellung von Symbolen und Mustern, die Verwendung von Pinsel/Tropfenpinseln und Rahmenformen, sowie 3D-Formen gehörten ebenfalls zu dieser Aufgabe.</p>
   <h3 style="text-align: left;">Meine zwei Konzepte:</h3>
   <image-compare class="image" data-position="center center">
-      <img slot="image-1" alt="Alt Text" src="{% link assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1.png %}"/>
-      <img slot="image-2" alt="Alt text" src="{% link assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2.png %}"/>
+      <img 
+        slot="image-1" 
+        alt="Alt text" 
+        src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %}"
+				srcset="
+					{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-100w.jpg %} 100w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %} 1200w
+				"
+				sizes="90vw"
+      />
+      <img 
+        slot="image-2" 
+        alt="Alt text" 
+        src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %}"
+				srcset="
+					{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-100w.jpg %} 100w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %} 1200w
+				"
+				sizes="90vw"
+      />
   </image-compare>
   <div class="row">
     <div class="6u 12u$(medium)">
@@ -96,13 +145,35 @@ show_tile: false
 <hr />
 
 <!-- Five -->
-<section id="modul-3">
+<section id="modul-3" class="anchor">
   <h2>Modul 3: Bewegung – technisches Zeichnen mit Vektor-Drive</h2>
   <p>In der dritten und letzten Monatsaufgabe drehte sich alles um die Themen „Bewegung“ oder „Dynamik“ – interpretiert durch digitale Illustration, kreative Verzerrung und den geschickten Einsatz von Masken, Pinseln und Effekten. Meine Idee zur Umsetzung waren technische Zeichnungen im Stil von Blaupausen bzw. auf Millimeterpapier – wo Bewegung durch Präzision, Linienführung und Komposition spürbar wird. Weitere verwendete Werkzeuge waren hier u.a. Grafikstile, Verzerrungs- & Transformationsfilter, Formgitter & Verkrümmungen, der Bildnachzeichner und Deckkraftmasken.</p>
   <h3 style="text-align: left;">Meine zwei Realisierungen:</h3>
   <image-compare class="image" data-position="center center">
-      <img slot="image-1" alt="Alt Text" src="{% link assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1.png %}"/>
-      <img slot="image-2" alt="Alt text" src="{% link assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2.png %}"/>
+      <img 
+        slot="image-1" 
+        alt="Alt Text" 
+        src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %}"
+				srcset="
+					{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-100w.jpg %} 100w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %} 1200w
+				"
+				sizes="90vw"
+      />
+      <img 
+        slot="image-2" 
+        alt="Alt text" 
+        src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %}"
+				srcset="
+					{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-100w.jpg %} 100w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %} 1200w
+				"
+				sizes="90vw"
+      />
   </image-compare>
   <div class="row">
     <div class="6u 12u$(medium)">

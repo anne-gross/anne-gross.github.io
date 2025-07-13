@@ -2,7 +2,9 @@
 title: OfG-Studium
 layout: landing
 description: 'Mein Studium bei der Online-Schule für Gestaltung'
-image: assets/images/3-OfG-Studium/Title-OfG-Studium.jpg
+image-400w: /assets/images/3-OfG-Studium/Title-OfG-Studium-400w.jpg
+image-800w: /assets/images/3-OfG-Studium/Title-OfG-Studium-800w.jpg
+image-1200w: /assets/images/3-OfG-Studium/Title-OfG-Studium-1200w.jpg
 nav-menu: true
 ---
 
@@ -18,18 +20,22 @@ nav-menu: true
 		</header>
 		<div class="web-certificates">
 			<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_grafiksoftware_29324.png&quot;); background-repeat: no-repeat;">
-				<a href="{% link assets/images/3-OfG-Studium/0_Certificates/OfG Certificate Grafiksoftware_DE.jpeg %}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none;border-bottom: none">
+				<a href="{{ 'assets/images/3-OfG-Studium/0_Certificates/OfG-Certificate-Grafiksoftware_DE-1200w.jpg' | relative_url }}" target="_blank" title="Online Schule für Gestaltung - Grafiksoftware" style="outline: medium none;border-bottom: none">
 					<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Grafiksoftware" alt="Online Schule für Gestaltung - Online-Fernkurs für Photoshop / Illustrator / InDesign" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
 				</a>
 			</div>
 			<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_illustrator_29740.png&quot;); background-repeat: no-repeat;">
-				<a href="{% link assets/images/3-OfG-Studium/0_Certificates/OfG Certificate Illustrator Masterclass_DE.jpg %}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none;border-bottom: none">
+				<a href="{{ 'assets/images/3-OfG-Studium/0_Certificates/OfG-Certificate-Illustrator-Masterclass_DE-1200w.jpg' | relative_url }}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none;border-bottom: none">
 					<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
 				</a>
 			</div>
 		</div>
 		<hr class="major" />
-		<img src="{% link assets/images/3-OfG-Studium/Ziel_Kurse-OfG.png %}" alt="" data-position="top center" />
+		<img 
+			src="{{ 'assets/images/3-OfG-Studium/Ziel_Kurse-OfG.png' | relative_url }}" 
+			alt="" 
+			data-position="top center" 
+		/>
 		<hr class="major" />
 	</div>
 </section>
@@ -38,7 +44,16 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 			<a href="generic.html" class="image">
-			<img src="{% link assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen.jpg %}" alt="" data-position="top center" />
+			<img
+				alt="Alt Text" 
+				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %}" 
+				srcset="
+					{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %} 1200w
+				"
+				sizes="33vw"
+				data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -54,7 +69,15 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/3-OfG-Studium/0_Kursbilder/2_Kursbild-Illustrator.jpg %}" alt="" data-position="top center"/>
+			<img 
+				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %}" 
+				srcset="
+					{% link /assets/images/3-OfG-Studium/0_Kursbilder/2_Kursbild-Illustrator-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/0_Kursbilder/2_Kursbild-Illustrator-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/0_Kursbilder/2_Kursbild-Illustrator-1200w.jpg %} 1200w
+				"
+				sizes="33vw"
+				data-position="top center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -70,7 +93,16 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop.jpg %}" alt="" data-position="25% 25%" />
+			<img 
+				alt="" 
+				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop-1200w.jpg %}" 
+				srcset="
+					{% link /assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop-1200w.jpg %} 1200w
+				"
+				sizes="33vw"
+				data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

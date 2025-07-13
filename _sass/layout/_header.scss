@@ -11,6 +11,10 @@
 		100% { top: 0; opacity: 1; }
 	}
 
+	.anchor { 
+		scroll-margin-top: 3.25em;
+	}
+
 	#header {
 		@include vendor('display', 'flex');
 		background-color: _palette(bg-alt);

@@ -15,7 +15,15 @@
     <section id="banner" class="style2">
         <div class="inner">
             <span class="image">
-                <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                <img 
+                    src="{{ page.image-1200w }}" 
+                    srcset="
+                        {{ page.image-400w }} 400w
+                        , {{ page.image-800w }} 800w
+                        , {{ page.image-1200w }} 1200w
+                    "
+                    sizes="98vw"
+                >
             </span>
             <header>
 

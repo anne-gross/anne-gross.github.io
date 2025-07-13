@@ -22,7 +22,19 @@
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+		{% if page.image-1200w %}
+		<span class="image main">
+			<img 
+				src="{{ page.image-1200w }}" 
+				srcset="
+					{{ page.image-400w }} 400w
+					, {{ page.image-800w }} 800w
+					, {{ page.image-1200w }} 1200w
+				"
+				sizes="98vw"
+			>
+		</span>
+		{% endif %}
 		{{ content }}
 	</div>
 </section>

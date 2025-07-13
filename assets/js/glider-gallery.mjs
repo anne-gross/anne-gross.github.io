@@ -9,10 +9,10 @@ customElements.define(
     }
   );
   function createGallery() {
-    const id = this.getAttribute("id");
-    this.removeAttribute("id");
+    const lightboxId = this.getAttribute("lightbox-id");
+    this.removeAttribute("lightbox-id");
     const images = this.querySelectorAll("img");
-    const gallery = wrapGallery(images, id);
+    const gallery = wrapGallery(images, lightboxId);
     this.appendChild(gallery);
   
     const glide = new Glide(gallery, {
@@ -33,10 +33,9 @@ customElements.define(
     refreshFsLightbox();
   }
   
-  function wrapGallery(images, id) {
+  function wrapGallery(images, lightboxId) {
     const glide = document.createElement("div");
     glide.classList.add("glide");
-    glide.classList.add(id);
   
     const glideTrack = document.createElement("div");
     glideTrack.classList.add("glide__track");
@@ -47,7 +46,7 @@ customElements.define(
     glideSlides.classList.add("glide__slides");
     glideTrack.appendChild(glideSlides);
   
-    images.forEach(img => glideSlides.appendChild(wrapImage(img, id)));
+    images.forEach(img => glideSlides.appendChild(wrapImage(img, lightboxId)));
   
     const glideBullets = document.createElement("div");
     glideBullets.classList.add("glide__bullets");
@@ -61,12 +60,12 @@ customElements.define(
     return glide;
   }
   
-  function wrapImage(img, id) {
+  function wrapImage(img, lightboxId) {
     const slide = document.createElement("li");
     slide.classList.add("glide__slide");
   
     const lightboxLink = document.createElement("a");
-    lightboxLink.setAttribute("data-fslightbox", id);
+    lightboxLink.setAttribute("data-fslightbox", lightboxId);
     lightboxLink.style = "border-bottom: none";
     lightboxLink.setAttribute("href", img.attributes["src"].value);
     lightboxLink.appendChild(img);

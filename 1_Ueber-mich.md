@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Über mich
-image: assets/images/1-Ueber-Mich/Anne-rechtszentriert.jpg
+image-400w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-400w.jpg
+image-800w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-800w.jpg
+image-1200w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-1200w.jpg
 nav-menu: true
 ---
 
@@ -25,7 +27,19 @@ nav-menu: true
 		<p>Als jemand, der nicht den klassischen Weg gegangen ist, bringe ich frische Perspektiven, Neugier und jede Menge Eigeninitiative mit.</p>
 	</div>
 	<div class="6u 12u$(medium)">
-	<img src="{% link assets/images/1-Ueber-Mich/Anne-frontal.jpg %}" alt="" data-position="right" width="325" height="500"/>
+	<img 
+		src="{{ 'assets/images/1-Ueber-Mich/Anne-frontal-1200w.jpg' | relative_url }}" 
+		srcset="
+			{{ 'assets/images/1-Ueber-Mich/Anne-frontal-100w.jpg' | relative_url }} 100w
+			, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-400w.jpg' | relative_url }} 400w
+			, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-800w.jpg' | relative_url }} 800w
+			, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-1200w.jpg' | relative_url }} 1200w
+		"
+		sizes="33vw"
+		alt="Ein Bild von mir, Anne Gross. Ich sitze auf meinem Bürostuhl und lächel in die Kamera." 
+		data-position="right" 
+		width="325" 
+		height="500"/>
 	</div>
 </div>
 
