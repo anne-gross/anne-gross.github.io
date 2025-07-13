@@ -49,7 +49,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-			<a href="generic.html" class="image">
+		<a href="{% link 3a_Grundlagen-Grafiksoftware.md %}" class="image">
 			<img
 				alt="Alt Text" 
 				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %}" 
@@ -74,7 +74,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{% link 3b_Ai-Masterclass.md %}" class="image">
 			<img 
 				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %}" 
 				srcset="
@@ -98,7 +98,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{% link 3c_Ps-Masterclass.md %}" class="image">
 			<img 
 				alt="" 
 				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop-1200w.jpg %}" 
@@ -117,7 +117,7 @@ nav-menu: true
 				</header>
 				<p>Tiefergehende Kenntnisse und spezielle Fähigkeiten für Adobe Photoshop</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button small">Erfahre mehr</a></li>
+					<li><a href="{% link 3c_Ps-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 				</ul>
 			</div>
 		</div>
