@@ -12,36 +12,34 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Hej, ich bin Anne</h1>
-		</header>
+<div class="inner">
 
+<header class="major">
+	<h1>Hej, ich bin Anne</h1>
+</header>
 <!-- Content -->
-<div class="row">
-	<div class="6u 12u$(medium)">
-		<h2 id="content">Greativ - Organisiert - Quereinsteiger</h2>
-		<p>Ich bin kreative Quereinsteigerin mit strukturiertem Kopf und einem ambitionierten Ziel: Ich möchte Crossmedia-Designerin werden!</p>
-		<p>Nach vielen Jahren in der pharmazeutischen Entwicklung eines großen Chemie- und Pharmaunternehmen, in der präzises Arbeiten, Projektverantwortung und internationale Zusammenarbeit mein Alltag waren, habe ich mich entschieden, meiner Leidenschaft für Gestaltung zu folgen.<br>Die Geburt meiner Tochter war nicht nur für mich privat, sondern auch beruflich ein großer Meilenstein bzw. Wendepunkt. Ich habe mich endgültig entschieden, meinem langgehegtem Traum von Grafik-, Web- und UX/UI-Design in die Wirklichkeit umzusetzen.</p>
-		<p>Dafür lege ich aktuell das theoretische Fundament mit unterschiedlichen, staatlich anerkannten Fernstudien und Online-Kursen bei der OfG, der Online-Schule für Gestaltung. Außerdem setze ich dazu parallel das Gelernte mit den geforderten Modulaufgaben direkt in die Praxis um.<br>Diese Webseite hier dient als digitale Visitenkarte und als Schaufenster meiner kreativen Arbeiten. Hier findest Du Einblicke in erste reale Projekte, wachsende Designs und meine Schritte in die Welt der visuellen Kommunikation.</p>
-		<p>Als jemand, der nicht den klassischen Weg gegangen ist, bringe ich frische Perspektiven, Neugier und jede Menge Eigeninitiative mit.</p>
-	</div>
-	<div class="6u 12u$(medium)">
-	<img 
-		src="{{ 'assets/images/1-Ueber-Mich/Anne-frontal-1200w.jpg' | relative_url }}" 
-		srcset="
-			{{ 'assets/images/1-Ueber-Mich/Anne-frontal-100w.jpg' | relative_url }} 100w
-			, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-400w.jpg' | relative_url }} 400w
-			, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-800w.jpg' | relative_url }} 800w
-			, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-1200w.jpg' | relative_url }} 1200w
-		"
-		sizes="33vw"
-		alt="Ein Bild von mir, Anne Gross. Ich sitze auf meinem Bürostuhl und lächel in die Kamera." 
-		data-position="right" 
-		width="325" 
-		height="500"/>
-	</div>
-</div>
+<h2 id="content">Greativ - Organisiert - Quereinsteiger</h2>
+<img 
+	src="{{ 'assets/images/1-Ueber-Mich/Anne-frontal-1200w.jpg' | relative_url }}" 
+	srcset="
+		{{ 'assets/images/1-Ueber-Mich/Anne-frontal-100w.jpg' | relative_url }} 100w
+		, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-400w.jpg' | relative_url }} 400w
+		, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-800w.jpg' | relative_url }} 800w
+		, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-1200w.jpg' | relative_url }} 1200w
+	"
+	sizes="
+		33vw
+	"
+	alt="Ein Bild von mir, Anne Gross. Ich sitze auf meinem Bürostuhl und lächel in die Kamera." 
+	width="325" 
+	height="500"
+	class="float-img-inline-end"
+/>
+<p>Ich bin kreative Quereinsteigerin mit strukturiertem Kopf und einem ambitionierten Ziel: Ich möchte Crossmedia-Designerin werden!</p>
+<p>Nach vielen Jahren in der pharmazeutischen Entwicklung eines großen Chemie- und Pharmaunternehmen, in der präzises Arbeiten, Projektverantwortung und internationale Zusammenarbeit mein Alltag waren, habe ich mich entschieden, meiner Leidenschaft für Gestaltung zu folgen.<br>Die Geburt meiner Tochter war nicht nur für mich privat, sondern auch beruflich ein großer Meilenstein bzw. Wendepunkt. Ich habe mich endgültig entschieden, meinem langgehegtem Traum von Grafik-, Web- und UX/UI-Design in die Wirklichkeit umzusetzen.</p>
+<p>Dafür lege ich aktuell das theoretische Fundament mit unterschiedlichen, staatlich anerkannten Fernstudien und Online-Kursen bei der OfG, der Online-Schule für Gestaltung. Außerdem setze ich dazu parallel das Gelernte mit den geforderten Modulaufgaben direkt in die Praxis um.<br>Diese Webseite hier dient als digitale Visitenkarte und als Schaufenster meiner kreativen Arbeiten. Hier findest Du Einblicke in erste reale Projekte, wachsende Designs und meine Schritte in die Welt der visuellen Kommunikation.</p>
+<p>Als jemand, der nicht den klassischen Weg gegangen ist, bringe ich frische Perspektiven, Neugier und jede Menge Eigeninitiative mit.</p>
+
 
 <h4>Was zeichnet mich aus?</h4>
 <ul>
