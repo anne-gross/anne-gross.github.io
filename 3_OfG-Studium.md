@@ -32,8 +32,14 @@ nav-menu: true
 		</div>
 		<hr class="major" />
 		<img 
-			src="{{ 'assets/images/3-OfG-Studium/Ziel_Kurse-OfG.png' | relative_url }}" 
 			alt="" 
+			src="{% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-1200w.jpg %}" 
+			srcset="
+					{% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-400w.jpg %} 400w
+					, {% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-800w.jpg %} 800w
+					, {% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-1200w.jpg %} 1200w
+				"
+				sizes="90vw"
 			data-position="top center" 
 		/>
 		<hr class="major" />
