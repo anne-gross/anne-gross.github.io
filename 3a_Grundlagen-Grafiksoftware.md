@@ -78,7 +78,7 @@ show_tile: false
   <h2>Modul 1: Adobe Photoshop</h2>
   <p>Text</p>
   <h3 style="text-align: left;">Title:</h3>
-  <image-compare class="image" data-position="center center">
+  <image-compare class="image image__center" data-position="center center">
       <img 
         slot="image-1" 
         alt="Alt Text" 
@@ -125,6 +125,7 @@ show_tile: false
           , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-02_Vektor-Biene-1200w.jpg %} 1200w
       "
       sizes="80vw"
+      class="image image__center" 
     />
   <h4>Meine Umsetzung:</h4>
   <p>Text</p>

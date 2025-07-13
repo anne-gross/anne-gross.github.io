@@ -59,7 +59,7 @@ show_tile: false
   <h2>Modul 1: Stadtplan – Illustrator trifft Orientierung</h2>
   <p>Im Rahmen der ersten Monatsaufgabe entstand ein digitaler Stadtplanausschnitt, der zeigt, wie kreative Gestaltung und technische Präzision ineinandergreifen. Ziel war es, eine flexible Grundgrafik zu entwickeln, die sich durch gezielten Einsatz von Ebenen in die zwei verschiedenen Stilrichtungen übersetzen lässt. Die Gestaltung basiert also auf einer einzigen, präzise aufgebauten Illustrator-Datei mit klar getrennten Ebenen. So lassen sich unterschiedliche Varianten schnell und effizient durch das ein- bzw. ausblenden von Ebenen visualieren. Zum Einsatz kamen hier Tools wie der Pathfinder und andere Formerstellungsmethoden, das Arbeiten mit Ebenen und Schnittmasken, die Verwendung von Farbverläufen und Texteffekten, sowie Verzerrungs-Werkzeuge. Gestaltung die Orientierung schafft - vielseitig, technisch gut umsetzbar und mit Blick fürs Detail.</p>
   <h3 style="text-align: left;">Meine zwei Umsetzungen:</h3>
-  <image-compare class="image" data-position="center center">
+  <image-compare class="image image__center" data-position="center center">
       <img 
         slot="image-1" 
         alt="Alt Text" 
@@ -70,7 +70,7 @@ show_tile: false
 					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-800w.jpg %} 800w
 					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %} 1200w
 				"
-				sizes="90vw"
+				sizes="50vw"
       />
       <img 
         slot="image-2" 
@@ -82,7 +82,7 @@ show_tile: false
 					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-800w.jpg %} 800w
 					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %} 1200w
 				"
-				sizes="90vw"
+				sizes="50vw"
       />
   </image-compare>
   <div class="row">
@@ -104,7 +104,7 @@ show_tile: false
   <h2>Modul 2: Architektur - Perspektive im digitalen Raum</h2>
   <p>In der zweiten Monatsaufgabe war eine ganzseitige Illustration zum Thema "Architektur" oder Science Finction" gewünscht. Meine Wahl fiel auf das Thema Architektur: ein Feld, das mich sowohl technisch als auch emotional begeistert. Der Umgang mit dem Perspektive-Werkzeug fiel mir anfangs sehr schwer. Um die Technik zu meistern, habe ich zunächst eine bestehende Grafik rekonstruiert – ein lehrreicher Zwischenschritt mit nachhaltigem Effekt. Weitere technische Tools wie die Erstellung von Symbolen und Mustern, die Verwendung von Pinsel/Tropfenpinseln und Rahmenformen, sowie 3D-Formen gehörten ebenfalls zu dieser Aufgabe.</p>
   <h3 style="text-align: left;">Meine zwei Konzepte:</h3>
-  <image-compare class="image" data-position="center center">
+  <image-compare class="image image__center" data-position="center center">
       <img 
         slot="image-1" 
         alt="Alt text" 
@@ -115,7 +115,7 @@ show_tile: false
 					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-800w.jpg %} 800w
 					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %} 1200w
 				"
-				sizes="90vw"
+				sizes="40vw"
       />
       <img 
         slot="image-2" 
@@ -127,7 +127,7 @@ show_tile: false
 					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-800w.jpg %} 800w
 					, {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %} 1200w
 				"
-				sizes="90vw"
+				sizes="40vw"
       />
   </image-compare>
   <div class="row">
