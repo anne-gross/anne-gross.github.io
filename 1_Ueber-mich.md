@@ -69,3 +69,30 @@ nav-menu: true
 		<p>Was ich noch nicht kann, das bringe ich mir gerne selbst bei – ob mit Fachbüchern oder E-Learning-Videos. Ich liebe es, neue Dinge auszuprobieren, vor allem wenn es kreativ wird! Freunde sagen, in mir steckt ein verkannter Innenarchitekt – ich designe u.a. in "Die Sims 4" regelmäßig Traumhäuser oder gestalte per ProCreate App Wohnräume für mich, Familie oder Bekannte. Geschenke und Grußkarten bastel ich nur noch selbst dank meines Plotters. Ich backe mit Begeisterung kleine Torten-Kunstwerke. Außerdem sammle ich seltene Lego Icon Sets und erweitere jedes Jahr meine Lego-Straße. <br> Kurz gesagt: Kreativität, ein Auge fürs Detail und ein Hang zu kleinen Welten ziehen sich durch alles, was ich mache.</p>
 	</div>
 </div>
+
+<glider-gallery lightbox-id="visitenkarten">
+      <img 
+        slot="image-1" 
+        alt="Alt Text" 
+        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-1200w.jpg %}" 
+        srcset="
+            {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
+        "
+        sizes="80vw"
+      />
+      <img 
+        slot="image-2" 
+        alt="Alt text" 
+        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-1200w.jpg %}" 
+        srcset="
+            {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
+        "
+        sizes="80vw"
+      />
+  </glider-gallery>
