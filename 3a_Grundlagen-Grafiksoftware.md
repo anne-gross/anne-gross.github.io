@@ -62,32 +62,45 @@ show_tile: false
     <h2>Modul 1: Adobe Photoshop - Mein Einstieg in die Bildmontage</h2>
     <p>Die erste Aufgabe im Kurs war die Erstellung zweier Bildmontagen – eine nach Vorlage und eine frei gestaltete. Nach dem Üben mit der ersten Bildmonatge nach Vorlage kam die Inspiration für meine eigene über Nacht: Eine starke visuelle Botschaft zum Thema Umweltverschmutzung, angeregt durch die Gründung einer nachhaltigen Marketing-Agentur eines Freundes.<br>Entstanden ist eine eindrückliche Fotomontage mit tiefblauem Ozean, Müll am Meeresgrund, klarer Headline und Logo – ein Motiv, das ich mir gut als Kampagne an Strandpromenaden vorstellen kann. Der kreative Prozess war spontan, die Umsetzung durchdacht – und das Ergebnis kann sich sehen lassen.</p>
     <h3 style="text-align: left;">Mein erster eigener Eyecatcher mit Message:</h3>
-    <image-compare class="image image__center" data-position="center center">
-        <img 
-          slot="image-1" 
-          alt="Alt Text" 
-          src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %}" 
-          srcset="
-              {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-100w.jpg %} 100w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-400w.jpg %} 400w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-800w.jpg %} 800w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %} 1200w
-          "
-          sizes="80vw"
-        />
-        <img 
-          slot="image-2" 
-          alt="Alt text" 
-          src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
-          srcset="
-              {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
-          "
-          sizes="80vw"
-        />
-    </image-compare>
+      <glider-gallery lightbox-id="visitenkarten">
+          <img 
+            slot="image-2" 
+            alt="Alt text" 
+            title="Tooltip"
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            slot="image-2" 
+            alt="Alt text" 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            slot="image-2" 
+            alt="Alt text" 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+      </glider-gallery>
   </section>
 
   <hr />
@@ -99,12 +112,12 @@ show_tile: false
     <h3 style="text-align: left;">Ein schönes Stück Fleißarbeit mit Herz, Struktur und Honignote:</h3>
     <img 
         alt="Alt text" 
-        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-1200w.jpg %}" 
+        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-1200w.jpg %}" 
         srcset="
-            {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-1200w.jpg %} 1200w
         "
         sizes="80vw"
         class="image image__center" 
@@ -127,7 +140,7 @@ show_tile: false
         <p>Feminin und reduziert, mit eleganter Farbgebung, einem schrägen Eyecatcher oben und weichen, harmonischen Schriften – leise, aber präsent</p>
       </div>
     </div>
-    <image-compare class="image" data-position="center center">
+    <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
           alt="Alt Text" 
@@ -138,7 +151,7 @@ show_tile: false
             , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
             , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
           "
-          sizes="90vw"
+          sizes="50vw"
         />
         <img 
           slot="image-2" 
@@ -150,14 +163,14 @@ show_tile: false
             , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
             , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
           "
-          sizes="90vw"
+          sizes="50vw"
         />
     </image-compare>
     <br>
     <br>
       <h3>Mehr als nur Visitenkarten – ein Designprozess mit Wirkung</h3>
       <p>Die erste Hürde war nicht das Programm, sondern der Inhalt: Für wen gestalte ich die Karten? Erst versuchte ich mich an einer fiktiven Architektur-Firma, aber nichts fühlte sich richtig an. Also richtete ich den Fokus auf mich – und stand direkt vor der nächsten Herausforderung: meinem Künstlernamen.<br>Mein bisheriger Name war kreativ, aber erklärungsbedürftig – und das machte mich beim Präsentieren jedes mal unsicher. Nach Tagen des Grübelns kam schließlich die Eingebung: eine kleine, aber entscheidende Namensänderung. Plötzlich passte alles. Die Gestaltung floss förmlich. Und aus der Hochformat-Karte entwickelte sich direkt mehr: Visitenkarte, Logo-Idee, Briefpapier, neue Perspektive.</p>
-            <glider-gallery lightbox-id="visitenkarten">
+      <glider-gallery lightbox-id="visitenkarten">
           <img 
             slot="image-2" 
             alt="Alt text" 
@@ -220,6 +233,6 @@ show_tile: false
           />
       </glider-gallery>
       <br>
-      <p>Mein Fazit: Dieses letzte Modul war nicht nur technisch eine Herausforderung, sondern auch persönlich ein Wendepunkt. Gestaltung kann Identität sichtbar machen – wenn man bereit ist, sich ehrlich damit auseinanderzusetzen.</p>
+      <p><strong>Mein Fazit:</strong> Dieses letzte Modul war nicht nur technisch eine Herausforderung, sondern auch persönlich ein Wendepunkt. Gestaltung kann Identität sichtbar machen – wenn man bereit ist, sich ehrlich damit auseinanderzusetzen.</p>
   </section>
 </div>
