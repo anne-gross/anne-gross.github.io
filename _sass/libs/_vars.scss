@@ -21,9 +21,9 @@
 	$grid-spacing: 20px;
 
 	$break-phone-l: 480px;
-	$break-tablet-p: 736px;
-	$break-tablet-l: 980px;
-	$break-laptop: 1280px;
+	$break-tablet-p: 768px; // small, 48rem
+	$break-tablet-l: 980px; // medium
+	$break-laptop: 1280px; // large, 80rem
 
 // Font.
 	$font: (
