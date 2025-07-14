@@ -1,7 +1,7 @@
 ---
 title: Grundlagen Grafiksoftware
 layout: landing
-description: 'Title'
+description: 'Mein Einstieg in die Welt der Grafiksoftware'
 image-400w: /assets/images/3-OfG-Studium/1_Grundlagen/Title-Grundlagen-400w.jpg
 image-800w: /assets/images/3-OfG-Studium/1_Grundlagen/Title-Grundlagen-800w.jpg
 image-1200w: /assets/images/3-OfG-Studium/1_Grundlagen/Title-Grundlagen-1200w.jpg
@@ -14,7 +14,8 @@ show_tile: false
 
   <!-- One -->
   <section id="Einleitung Grundlagen Grafiksoftware">
-    <p>Einleitung</p>
+    <p>Der Kurs Grundlagen Grafiksoftware markierte meinen ersten Schritt an der OfG – und was für ein Start! In drei intensiven Monaten tauchte ich in die kreative Welt von Photoshop, Illustrator und InDesign ein. Jeder Monat stand ganz im Zeichen eines dieser Adobe-Programme und vermittelte die wichtigsten Grundlagen für den souveränen Umgang damit. Die Lernkurve war steil – von null auf kreativ in kurzer Zeit. Vom ersten zaghaften Klick bis zum selbstbewussten Arbeiten in den Programmen: Mit jeder Modulaufgabe wuchs mein Verständnis und meine Begeisterung.</p>
+    <p>Die folgenden Abschnitte zeigen meine Ergebnisse aus den einzelnen Modulen – ein spannender Auftakt zu meiner Reise in Richtung Crossmedia-Design.</p>
   </section>
 
   <!-- Two -->
@@ -58,9 +59,9 @@ show_tile: false
 
   <!-- Three -->
   <section id="modul-1" class="anchor">
-    <h2>Modul 1: Adobe Photoshop</h2>
-    <p>Text</p>
-    <h3 style="text-align: left;">Title:</h3>
+    <h2>Modul 1: Adobe Photoshop - Mein Einstieg in die Bildmontage</h2>
+    <p>Die erste Aufgabe im Kurs war die Erstellung zweier Bildmontagen – eine nach Vorlage und eine frei gestaltete. Nach dem Üben mit der ersten Bildmonatge nach Vorlage kam die Inspiration für meine eigene über Nacht: Eine starke visuelle Botschaft zum Thema Umweltverschmutzung, angeregt durch die Gründung einer nachhaltigen Marketing-Agentur eines Freundes.<br>Entstanden ist eine eindrückliche Fotomontage mit tiefblauem Ozean, Müll am Meeresgrund, klarer Headline und Logo – ein Motiv, das ich mir gut als Kampagne an Strandpromenaden vorstellen kann. Der kreative Prozess war spontan, die Umsetzung durchdacht – und das Ergebnis kann sich sehen lassen.</p>
+    <h3 style="text-align: left;">Mein erster eigener Eyecatcher mit Message:</h3>
     <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
@@ -87,17 +88,15 @@ show_tile: false
           sizes="80vw"
         />
     </image-compare>
-    <h4>Meine Botschaft:</h4>
-    <p>Text</p>
   </section>
 
   <hr />
 
   <!-- Four -->
   <section id="modul-2" class="anchor">
-    <h2>Modul 2: Adobe Illustrator</h2>
-    <p>Text</p>
-    <h3 style="text-align: left;">Title:</h3>
+    <h2>Modul 2: Adobe Illustrator – Von Bienen, Mustern und Millimeterarbeit</h2>
+    <p>Inspiriert vom Lieblingskuchen meines Mannes – einer Art Bienenwaben-Torte – entstand die Idee für mein eigenes Vektormotiv: ein stilisiertes Bienenvolk mit Königin im Zentrum, eingebettet in ein symmetrisches, aber lebendiges Muster. Die Herausforderung: ein komplexes Icon bauen und anschließend ein Motiv gestalten, das Wiederholung, Formgefühl und Farbkonzept miteinander vereint.<br>Die Umsetzung war detailverliebt und zeitintensiv – mein Perfektionismus hat da ordentlich mitgemischt. Doch genau das war auch das Learning: Illustrator braucht Zeit, Übung und irgendwann den Mut zum finalen Klick auf „Abgeben“.</p>
+    <h3 style="text-align: left;">Ein schönes Stück Fleißarbeit mit Herz, Struktur und Honignote:</h3>
     <img 
         alt="Alt text" 
         src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-1200w.jpg %}" 
@@ -110,52 +109,117 @@ show_tile: false
         sizes="80vw"
         class="image image__center" 
       />
-    <h4>Meine Umsetzung:</h4>
-    <p>Text</p>
   </section>
 
   <hr />
 
   <!-- Five -->
   <section id="modul-3" class="anchor">
-    <h2>Modul 3: Adobe InDesign</h2>
-    <p>Text</p>
-    <h3 style="text-align: left;">Meine zwei Realisierungen:</h3>
-    <glider-gallery lightbox-id="visitenkarten">
+    <h2>Modul 3: Adobe InDesign – Klarheit, Kreativität und ein neuer Name</h2>
+    <p>Die letzte Aufgabe im Kurs war klar definiert, aber fordernd: Zwei Visitenkarten-Designs - gestalterisch komplett unterschiedlich, ohne Logo, dafür mit starkem typografischem Konzept. Die technische Umsetzung in InDesign lief dank des vorangegangenen Kurses reibungslos. Die größere Herausforderung: eine Idee finden, mit der ich mich wirklich identifizieren konnte. Am Ende stand nicht nur ein gelungenes Layout – sondern auch ein neues Selbstverständnis. Eine Visitenkarte, die zu mir passt. Und ein kreatives Finale für den Grundlagenkurs.<br>Hier erst einmal meine zwei visuell wie konzeptionell unterschiedlichen Visitenkarten:</p>
+    <div class="row">
+      <div class="6u 12u$(medium)">
+        <h4>Variante 1: Querformat</h4>
+        <p>Plakative Schrift im Hintergrund, schwungvolle Schreibschrift darüber, kontrastreich gesetztes Adressfeld – laut, mutig, selbstbewusst</p>
+      </div>
+      <div class="6u 12u$(medium)">
+        <h4>Variante 2: Hochformat</h4>
+        <p>Feminin und reduziert, mit eleganter Farbgebung, einem schrägen Eyecatcher oben und weichen, harmonischen Schriften – leise, aber präsent</p>
+      </div>
+    </div>
+    <image-compare class="image" data-position="center center">
         <img 
           slot="image-1" 
           alt="Alt Text" 
-          src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %}" 
+          src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %}"
           srcset="
-              {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-100w.jpg %} 100w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-400w.jpg %} 400w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
           "
-          sizes="80vw"
+          sizes="90vw"
         />
         <img 
           slot="image-2" 
           alt="Alt text" 
-          src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %}" 
+          src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %}"
           srcset="
-              {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-100w.jpg %} 100w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-400w.jpg %} 400w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
-              , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
           "
-          sizes="80vw"
+          sizes="90vw"
         />
-    </glider-gallery>
-    <div class="row">
-      <div class="6u 12u$(medium)">
-        <h4>Variante 1 – Visitenkarte 1:</h4>
-        <p>Text</p>
-      </div>
-      <div class="6u 12u$(medium)">
-        <h4>Variante 2 – Visitenkarte 2:</h4>
-        <p>Text</p>
-      </div>
-    </div>
+    </image-compare>
+    <br>
+    <br>
+      <h3>Mehr als nur Visitenkarten – ein Designprozess mit Wirkung</h3>
+      <p>Die erste Hürde war nicht das Programm, sondern der Inhalt: Für wen gestalte ich die Karten? Erst versuchte ich mich an einer fiktiven Architektur-Firma, aber nichts fühlte sich richtig an. Also richtete ich den Fokus auf mich – und stand direkt vor der nächsten Herausforderung: meinem Künstlernamen.<br>Mein bisheriger Name war kreativ, aber erklärungsbedürftig – und das machte mich beim Präsentieren jedes mal unsicher. Nach Tagen des Grübelns kam schließlich die Eingebung: eine kleine, aber entscheidende Namensänderung. Plötzlich passte alles. Die Gestaltung floss förmlich. Und aus der Hochformat-Karte entwickelte sich direkt mehr: Visitenkarte, Logo-Idee, Briefpapier, neue Perspektive.</p>
+            <glider-gallery lightbox-id="visitenkarten">
+          <img 
+            slot="image-2" 
+            alt="Alt text" 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            slot="image-2" 
+            alt="Alt text" 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            slot="image-2" 
+            alt="Alt text" 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            slot="image-2" 
+            alt="Alt text" 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            slot="image-2" 
+            alt="Alt text" 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+      </glider-gallery>
+      <br>
+      <p>Mein Fazit: Dieses letzte Modul war nicht nur technisch eine Herausforderung, sondern auch persönlich ein Wendepunkt. Gestaltung kann Identität sichtbar machen – wenn man bereit ist, sich ehrlich damit auseinanderzusetzen.</p>
   </section>
 </div>
