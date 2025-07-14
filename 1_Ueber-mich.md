@@ -74,24 +74,24 @@ nav-menu: true
       <img 
         slot="image-1" 
         alt="Alt Text" 
-        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-1200w.jpg %}" 
+        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %}" 
         srcset="
-            {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
         "
         sizes="80vw"
       />
       <img 
         slot="image-2" 
         alt="Alt text" 
-        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-1200w.jpg %}" 
+        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %}" 
         srcset="
-            {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen-Grafiksoftware/Grundlagen-Grafiksoftware_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
         "
         sizes="80vw"
       />
