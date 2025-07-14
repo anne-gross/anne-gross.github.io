@@ -170,9 +170,8 @@ show_tile: false
     <br>
       <h3>Mehr als nur Visitenkarten – ein Designprozess mit Wirkung</h3>
       <p>Die erste Hürde war nicht das Programm, sondern der Inhalt: Für wen gestalte ich die Karten? Erst versuchte ich mich an einer fiktiven Architektur-Firma, aber nichts fühlte sich richtig an. Also richtete ich den Fokus auf mich – und stand direkt vor der nächsten Herausforderung: meinem Künstlernamen.<br>Mein bisheriger Name war kreativ, aber erklärungsbedürftig – und das machte mich beim Präsentieren jedes mal unsicher. Nach Tagen des Grübelns kam schließlich die Eingebung: eine kleine, aber entscheidende Namensänderung. Plötzlich passte alles. Die Gestaltung floss förmlich. Und aus der Hochformat-Karte entwickelte sich direkt mehr: Visitenkarte, Logo-Idee, Briefpapier, neue Perspektive.</p>
-      <glider-gallery lightbox-id="visitenkarten">
+      <glider-gallery lightbox-id="visitenkarten" per-view-max="4">
           <img 
-            slot="image-2" 
             alt="Alt text" 
             src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-1200w.jpg %}" 
             srcset="
@@ -184,7 +183,6 @@ show_tile: false
             sizes="80vw"
           />
           <img 
-            slot="image-2" 
             alt="Alt text" 
             src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-1200w.jpg %}" 
             srcset="
@@ -196,7 +194,6 @@ show_tile: false
             sizes="80vw"
           />
           <img 
-            slot="image-2" 
             alt="Alt text" 
             src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-1200w.jpg %}" 
             srcset="
@@ -208,7 +205,6 @@ show_tile: false
             sizes="80vw"
           />
           <img 
-            slot="image-2" 
             alt="Alt text" 
             src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-1200w.jpg %}" 
             srcset="
@@ -220,7 +216,6 @@ show_tile: false
             sizes="80vw"
           />
           <img 
-            slot="image-2" 
             alt="Alt text" 
             src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-1200w.jpg %}" 
             srcset="
