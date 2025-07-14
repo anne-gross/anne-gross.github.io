@@ -19,22 +19,27 @@ nav-menu: true
 </header>
 <!-- Content -->
 <h2 id="content">Greativ - Organisiert - Quereinsteiger</h2>
-<img 
-	src="{{ 'assets/images/1-Ueber-Mich/Anne-frontal-1200w.jpg' | relative_url }}" 
-	srcset="
-		{{ 'assets/images/1-Ueber-Mich/Anne-frontal-100w.jpg' | relative_url }} 100w
-		, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-400w.jpg' | relative_url }} 400w
-		, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-800w.jpg' | relative_url }} 800w
-		, {{ 'assets/images/1-Ueber-Mich/Anne-frontal-1200w.jpg' | relative_url }} 1200w
-	"
-	sizes="
-		33vw
-	"
-	alt="Ein Bild von mir, Anne Gross. Ich sitze auf meinem Bürostuhl und lächel in die Kamera." 
-	width="325" 
-	height="500"
-	class="float-img-inline-end"
-/>
+<glider-gallery lightbox-id="Ueber-mich" per-view-max="3">
+      <img 
+        alt="Alt Text"
+        class="image__objectfit" 
+        src="{% link /assets/images/1-Ueber-Mich/1200-1500/1.jpg %}" 
+        sizes="80vw"
+      />
+      <img 
+        alt="Alt text" 
+        class="image__objectfit" 
+        src="{% link /assets/images/1-Ueber-Mich/1500-1500/1.jpg %}" 
+        sizes="80vw"
+      />
+      <img 
+        alt="Alt text" 
+        class="image__objectfit" 
+        src="{% link /assets/images/1-Ueber-Mich/2100-1500/1.jpg %}" 
+        sizes="80vw"
+      />
+  </glider-gallery>
+<br>
 <p>Ich bin kreative Quereinsteigerin mit strukturiertem Kopf und einem ambitionierten Ziel: Ich möchte Crossmedia-Designerin werden!</p>
 <p>Nach vielen Jahren in der pharmazeutischen Entwicklung eines großen Chemie- und Pharmaunternehmen, in der präzises Arbeiten, Projektverantwortung und internationale Zusammenarbeit mein Alltag waren, habe ich mich entschieden, meiner Leidenschaft für Gestaltung zu folgen.<br>Die Geburt meiner Tochter war nicht nur für mich privat, sondern auch beruflich ein großer Meilenstein bzw. Wendepunkt. Ich habe mich endgültig entschieden, meinem langgehegtem Traum von Grafik-, Web- und UX/UI-Design in die Wirklichkeit umzusetzen.</p>
 <p>Dafür lege ich aktuell das theoretische Fundament mit unterschiedlichen, staatlich anerkannten Fernstudien und Online-Kursen bei der OfG, der Online-Schule für Gestaltung. Außerdem setze ich dazu parallel das Gelernte mit den geforderten Modulaufgaben direkt in die Praxis um.<br>Diese Webseite hier dient als digitale Visitenkarte und als Schaufenster meiner kreativen Arbeiten. Hier findest Du Einblicke in erste reale Projekte, wachsende Designs und meine Schritte in die Welt der visuellen Kommunikation.</p>
