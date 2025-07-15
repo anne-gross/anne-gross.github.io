@@ -5,6 +5,7 @@ description: 'Zwischen Technik und Ausdruck - Visuelle Gestaltung mit Vektorgraf
 image-400w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-400w.jpg
 image-800w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-800w.jpg
 image-1200w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-1200w.jpg
+alt-image: "Titelgrafik der AI-Masterclass mit verschiedenen Designprojekten – visuelle Vorschau auf modulare Kreativarbeiten im digitalen Portfolio."
 nav-menu: false
 show_tile: false
 ---
@@ -22,10 +23,8 @@ show_tile: false
   <section class="bricks">
     <article class="style1">
       <span class="image">
-        <img 
-          src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01-375w.jpg" 
-          alt=""
-        >
+        <img alt="Modul 1: Teilausschnitt eines stilisierten Stadtplans – Projektvorschau für kreative Kartografie im Portfolio."
+          src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01-375w.jpg" >
       </span>
       <a href="#modul-1">
         <h2>Stadtplan</h2>
@@ -33,8 +32,8 @@ show_tile: false
     </article>
     <article class="style2">
       <span class="image">
-        <img src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02-375w.jpg" 
-        alt="">
+        <img alt="Modul 2: Vignette mit Architekturzeichnung und Hand – Fokus auf Entwurfsprozesse und Skizzentechniken im Architekturkontext."
+          src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02-375w.jpg" >
       </span>
       <a href="#modul-2">
         <h2>Architektur</h2>
@@ -42,8 +41,8 @@ show_tile: false
     </article>
     <article class="style3">
       <span class="image">
-        <img src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03-375w.jpg" 
-        alt="">
+        <img alt="Modul 3: Vignette mit Lichtspur-Foto auf Straße – Symbol für Dynamik und Mobilität im Designprojekt."
+          src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03-375w.jpg" >
       </span>
       <a href="#modul-3">
         <h2>Bewegung</h2>
@@ -60,7 +59,7 @@ show_tile: false
     <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
-          alt="Alt Text" 
+          alt="Künstlerischer Stadtplan von Rollwald mit Graffiti-Typografie und farbiger Flächenbetonung – Teil eines kreativen Mapping-Projekts." 
           src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-100w.jpg %} 100w
@@ -72,7 +71,7 @@ show_tile: false
         />
         <img 
           slot="image-2" 
-          alt="Alt text" 
+          alt="Illustrative Stadtkarte von Rollwald mit Icons für wichtige Orte wie Kirche, Schule und Bahnhof – visuelle Informationsgestaltung mit lokalem Bezug." 
           src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-100w.jpg %} 100w
@@ -105,7 +104,7 @@ show_tile: false
     <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
-          alt="Alt text" 
+          alt="Illustratives Plakat für eine Architektur-Ausstellung im Museumsquartier Wien – grafische Darstellung eines modernen Gebäudes in Grüntönen." 
           src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-100w.jpg %} 100w
@@ -117,7 +116,7 @@ show_tile: false
         />
         <img 
           slot="image-2" 
-          alt="Alt text" 
+          alt="Poster einer futuristischen Ausstellung im Wien Space Science Center – verspielte Typografie und Sci-Fi-Gebäudedesign als visuelle Konzeption." 
           src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-100w.jpg %} 100w
@@ -150,7 +149,7 @@ show_tile: false
     <image-compare class="image" data-position="center center">
         <img 
           slot="image-1" 
-          alt="Alt Text" 
+          alt="Blueprint-Illustration eines Fiat 1600S Cabriolet mit technischen Skizzen und Designstudien – visuelle Hommage an Oldtimer-Ästhetik." 
           src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-100w.jpg %} 100w
@@ -162,7 +161,7 @@ show_tile: false
         />
         <img 
           slot="image-2" 
-          alt="Alt text" 
+          alt="Illustration auf Millimeterpapier eines Oldtimers mit Bleistift, Kaffeetasse und Skizzen – Projekt zur Verbindung von analogem Arbeiten und digitalem Design." 
           src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-100w.jpg %} 100w
