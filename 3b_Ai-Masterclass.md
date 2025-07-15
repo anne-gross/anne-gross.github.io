@@ -2,9 +2,9 @@
 title: Adobe Illustrator Masterclass
 layout: landing
 description: 'Zwischen Technik und Ausdruck - Visuelle Gestaltung mit Vektorgrafiken'
-image-400w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-400w.jpg
-image-800w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-800w.jpg
-image-1200w: assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-1200w.jpg
+image-400w: /assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-400w.jpg
+image-800w: /assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-800w.jpg
+image-1200w: /assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-1200w.jpg
 alt-image: "Titelgrafik der AI-Masterclass mit verschiedenen Designprojekten – visuelle Vorschau auf modulare Kreativarbeiten im digitalen Portfolio."
 nav-menu: false
 show_tile: false
