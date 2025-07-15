@@ -23,7 +23,7 @@ show_title: true
 <h2 id="content">Greativ - Organisiert - Quereinsteiger</h2>
   <glider-gallery lightbox-id="Ueber-mich" per-view-max="4">
     <img 
-      alt="Alt Text" 
+      alt="Eine Fotocollage über mich: Ich stehe auf der Aussichtsplattform des Pyramidenkogel am Wörthsee (2022, links oben). Ein Selfie von mir bei einer Bootstour entlang des Hudson River in New York City (2018, links unten). Ich esse Burger im Restaurant Szimpla Kertmozi in Budapest (2019, rechts oben). Ein schönes Business Foto von mir an meinem Schreibtisch zu Hause mit grünen Pflanzen im Hintergrund (2023, rechts unten)." 
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-1-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-1-100w.jpg %} 100w
@@ -34,7 +34,7 @@ show_title: true
       sizes="80vw"
     />
         <img 
-      alt="Alt Text" 
+      alt="Eine Fotocollage über mich: Ich halte mit meinen Händen liebevoll meine Babykugel beim Babybauch-Shooting (2023, links). Ich fotografiere mit meiner alten Kamera in einem tropischen Tierhaus im Central Park Zoo in New York (2018, rechts oben). Ich trage einen lustigen Kraken-Hut im Verkaufsshop des New England Aquarium in Boston (2018, rechts unten)." 
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-2-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-2-100w.jpg %} 100w
@@ -45,7 +45,7 @@ show_title: true
       sizes="80vw"
     />
         <img 
-      alt="Alt Text" 
+      alt="Eine Fotocollage über mich: Zwei der Bilder sind im Selfie-Museum in Budapest entstanden: Ich stehe in hunderten von hängenden pinken und gelben Plastik-Bananen (2019, links oben) und ich sitze rückwärts auf einem weißen Einhorn vor einem farbenfrohen Wand (2019, rechts unten). Ein weiteres Bild von mir auf der Aussichtsplattform des Pyramidenkogels am Wörthersee, man sieht mir meine Höhenangst an (2022, links unten). Ein weiteres Business-Bild von mir in meinem Büro mit grünen Pflanzen im Hintergrund (2023, rechts oben)." 
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-3-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-3-100w.jpg %} 100w
@@ -56,7 +56,7 @@ show_title: true
       sizes="80vw"
     />
         <img 
-      alt="Alt Text" 
+      alt="Eine Fotocollage über mich: Ich sitze auf einem Mosterroller vor der Burg von Buda in Budapest (2019, links oben). Ein schönes Selfie-Bild, welches ich nach einem Mack-Up Kurs aufgenommen hatte (2018, links unten). Ein weiteres Business-Bild von mir in meinem Büro, diesmal vor dem Fenster und einigen Grünpflanzen im Hintergrund (2023, rechts)." 
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-4-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-4-100w.jpg %} 100w
@@ -103,7 +103,7 @@ show_title: true
 
 <glider-gallery lightbox-id="Persoenliche-Interessen" per-view-max="4">
   <img 
-    alt="Eine Fotocollage mit 6 Bildern. Die Fotos zeigen meine Lego Icon Straße (links oben und unten), sowie das Harry-Potter-Schloß aus Lego (rechts oben). Außerdem ist ein Vorher und Nachher Bild von meinem Gäste-WC zu sehen (links mitte). Desweiteren ein Bild von meinem aktuellen Hobby, der Perlenstickerei (rechts unten)." 
+    alt="Eine Fotocollage mit 6 Bildern. Die Fotos zeigen meine Lego Icon Straße (links unten), sowie das Harry-Potter-Schloß aus Lego (rechts oben). Eine Auswahl meiner Fachbücher zum Thema Grafik-, Web- und UX/UI-Design (links oben). Außerdem ist ein Vorher und Nachher Bild von meinem Gäste-WC zu sehen (links mitte). Desweiteren ein Bild von meinem aktuellen Hobby, der Perlenstickerei (rechts unten)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-1-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-1-100w.jpg %} 100w
