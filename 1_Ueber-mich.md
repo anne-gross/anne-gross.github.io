@@ -93,7 +93,7 @@ show_title: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h4>Mein neues Geduldsprojekt – Perlenstickerei mit Suchtpotenzial</h4>
-		<p>Im November habe ich auf einer Messe dieses wunderschöne Perlenstickbild am Stand von Aleksandras Lieblingsperlen entdeckt – und es war sofort um mich geschehen. Seitdem sitze ich immer mal wieder abends da und setze Reihe für Reihe, Perle für Perle, auf dem Weg zum fertigen Bild. <br> Aleksandra meinte, sie schafft ein Bild dieser Größe circa in einem Jahr. Ich ahne allerdings: Bei mir wird das wohl doch länger dauern. Aber egal – es macht riesigen Spaß, ist total entspannend (zumindest solange man sich nicht in der Reihe vertut) und ich bin schon jetzt gespannt auf das Ergebnis.</p>
+		<p>Im November habe ich auf einer Messe ein wunderschönes Perlenstickbild von einem Löwenkopf mit goldenem Blitz entdeckt – und es war sofort um mich geschehen. Seitdem sitze ich immer mal wieder abends da und setze Reihe für Reihe, Perle für Perle, auf dem Weg zum fertigen Bild. <br> Die Verkäuferin vom Messe-Stand meinte, sie schafft ein Bild dieser Größe circa in einem Jahr. Ich ahne allerdings: Bei mir wird das wohl doch länger dauern. Aber egal – es macht riesigen Spaß, ist total entspannend (zumindest solange man sich nicht in der Reihe vertut) und ich bin schon jetzt gespannt auf das Ergebnis.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h4>Kreativ, detailverliebt und immer neugierig</h4>
