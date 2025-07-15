@@ -128,6 +128,7 @@
 		}
 
 		@include breakpoint(small) {
+			@include vendor('background-image', 'url("../images/banner-400w.jpg")');
 			@include padding(3em, 0, (2em, 0, 0, 0));
 			height: auto;
 			margin-bottom: -2.75em;
