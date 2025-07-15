@@ -62,11 +62,9 @@ show_tile: false
     <h2>Modul 1: Adobe Photoshop - Mein Einstieg in die Bildmontage</h2>
     <p>Die erste Aufgabe im Kurs war die Erstellung zweier Bildmontagen – eine nach Vorlage und eine frei gestaltete. Nach dem Üben mit der ersten Bildmonatge nach Vorlage kam die Inspiration für meine eigene über Nacht: Eine starke visuelle Botschaft zum Thema Umweltverschmutzung, angeregt durch die Gründung einer nachhaltigen Marketing-Agentur eines Freundes.<br>Entstanden ist eine eindrückliche Fotomontage mit tiefblauem Ozean, Müll am Meeresgrund, klarer Headline und Logo – ein Motiv, das ich mir gut als Kampagne an Strandpromenaden vorstellen kann. Der kreative Prozess war spontan, die Umsetzung durchdacht – und das Ergebnis kann sich sehen lassen.</p>
     <h3 style="text-align: left;">Mein erster eigener Eyecatcher mit Message:</h3>
-      <glider-gallery lightbox-id="visitenkarten">
+      <glider-gallery lightbox-id="Grundlagen Photoshop">
           <img 
-            slot="image-2" 
             alt="Alt text" 
-            title="Tooltip"
             src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %}" 
             srcset="
                 {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-100w.jpg %} 100w
@@ -77,8 +75,11 @@ show_tile: false
             sizes="80vw"
           />
           <img 
-            slot="image-2" 
             alt="Alt text" 
+            title="Credits: 
+            Ozean - Unsplash.de Christopher Politano
+            Strand mit Müll - Unsplash.de Cristian Palmer
+            Logo - Iconfinder.com Planet Earth"
             src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-1200w.jpg %}" 
             srcset="
                 {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-100w.jpg %} 100w
@@ -89,7 +90,6 @@ show_tile: false
             sizes="80vw"
           />
           <img 
-            slot="image-2" 
             alt="Alt text" 
             src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
             srcset="
@@ -110,7 +110,7 @@ show_tile: false
     <h2>Modul 2: Adobe Illustrator – Von Bienen, Mustern und Millimeterarbeit</h2>
     <p>Inspiriert vom Lieblingskuchen meines Mannes – einer Art Bienenwaben-Torte – entstand die Idee für mein eigenes Vektormotiv: ein stilisiertes Bienenvolk mit Königin im Zentrum, eingebettet in ein symmetrisches, aber lebendiges Muster. Die Herausforderung: ein komplexes Icon bauen und anschließend ein Motiv gestalten, das Wiederholung, Formgefühl und Farbkonzept miteinander vereint.<br>Die Umsetzung war detailverliebt und zeitintensiv – mein Perfektionismus hat da ordentlich mitgemischt. Doch genau das war auch das Learning: Illustrator braucht Zeit, Übung und irgendwann den Mut zum finalen Klick auf „Abgeben“.</p>
     <h3 style="text-align: left;">Ein schönes Stück Fleißarbeit mit Herz, Struktur und Honignote:</h3>
-    <img 
+    <img
         alt="Alt text" 
         src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-1200w.jpg %}" 
         srcset="
