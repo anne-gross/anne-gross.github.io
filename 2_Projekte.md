@@ -24,7 +24,7 @@ show_tile: true
                         alt="Das Logo der Steuerberaterin Anne Weiß."
                     >
                 </span>
-                <a href="#Steuerberaterin Anne Weiss">
+                <a href="#Steuerberaterin-Anne-Weiss">
                 </a>
             </article>
             <article class="style5">
@@ -40,13 +40,13 @@ show_tile: true
         </section>
         <hr />
         <!-- Three -->
-        <section id="Steuerberaterin Anne Weiss" class="anchor">
+        <section id="Steuerberaterin-Anne-Weiss" class="anchor">
             <h2>Projekt 1: Steuerberaterin Anne Weiß - Geschäftsausstattung mit Feingefühl</h2>
             <p>Zwischen Februar und September 2024 war ich als Büroassistenz bei der Steuerberaterin Anne Weiß tätig. In dieser Zeit durfte ich nicht nur im organisatorischen Bereich unterstützen, sondern auch kreativ tätig werden: Ich entwickelte eine maßgeschneiderte Geschäftsausstattung für die Mandantenkommunikation, abgestimmt auf das bestehende Corporate Design der Kanzlei.</p>
             <p>Entstanden ist eine Serie hochwertiger Faltkarten für verschiedene Anlässe – von der herzlichen Begrüßung neuer Mandant:innen über Glückwünsche zu Jubiläen und Geburtstagen bis hin zu sensibel gestalteten Karten für schwierige Lebensphasen. Ergänzt wurde das Set durch stilvolle Postkarten für festliche Grüße, passende Adressaufkleber und Briefumschläge, sowie Schlüsselanhänger im einheitlichen Design.</p>
             <p>So kann die Kanzlei nicht nur professionell, sondern auch persönlich und wertschätzend in Kontakt mit ihren Mandant:innen treten.<br>Mehr über Anne Weiß und ihre Steuerberatung findest du hier: <a href="https://steuern-weiss.de/" target="_blank_">www.steuern-weiss.de</a></p>
             <glider-gallery lightbox-id="steuerkanzlei-weiss-projects" per-view-max="4">
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-01-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-01-100w.jpg' | relative_url }} 100w
@@ -56,7 +56,7 @@ show_tile: true
                     "
                     sizes="20vw"
                 />
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-02-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-02-100w.jpg' | relative_url }} 100w
@@ -66,7 +66,7 @@ show_tile: true
                     "
                     sizes="20vw"
                 />
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-03-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-03-100w.jpg' | relative_url }} 100w
@@ -76,7 +76,7 @@ show_tile: true
                     "
                     sizes="20vw"
                 />
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-04-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-04-100w.jpg' | relative_url }} 100w
@@ -86,7 +86,7 @@ show_tile: true
                     "
                     sizes="20vw"
                 />
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-05-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Karte-05-100w.jpg' | relative_url }} 100w
@@ -96,7 +96,7 @@ show_tile: true
                     "
                     sizes="20vw"
                 />
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Flyer-Sommerfest-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Flyer-Sommerfest-100w.jpg' | relative_url }} 100w
@@ -106,7 +106,7 @@ show_tile: true
                     "
                     sizes="20vw"
                 />
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Anhaenger-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Anhaenger-100w.jpg' | relative_url }} 100w
@@ -116,7 +116,7 @@ show_tile: true
                     "
                     sizes="20vw"
                 />
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Adressaufkleber-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Adressaufkleber-100w.jpg' | relative_url }} 100w
@@ -126,7 +126,7 @@ show_tile: true
                     "
                     sizes="20vw"
                 />
-                <img 
+                <img alt="Alt Text"
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Untersetzer-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Untersetzer-100w.jpg' | relative_url }} 100w
@@ -150,7 +150,7 @@ show_tile: true
             </ul>
             <p>Mehr über MaibornWolff und deren Projekte findest du auf der offiziellen Website: <a href="https://www.maibornwolff.de/" target="_blank_">www.maibornwolff.de</a></p>
             <glider-gallery lightbox-id="maibornwolff-projects" per-view-max="4">
-                    <img 
+                    <img alt="Die Vorder- und Rückseite der gestalteteten Broschüre für den Software-Health-Check von MaibornWollf auf einem weißem Hintergrund(2024)."
                         src="{{ 'assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-01-1200w.jpg' | relative_url }}" 
                         srcset="
                             {{ 'assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-01-100w.jpg' | relative_url }} 100w
@@ -160,7 +160,7 @@ show_tile: true
                         "
                         sizes="40vw"
                     />
-                    <img 
+                    <img alt="Die beiden innen liegenden Seiten der gestalteteten Broschüre für den Software-Health-Check von MaibornWollf auf einem weißem Hintergrund(2024)."
                         src="{{ 'assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-02-1200w.jpg' | relative_url }}" 
                         srcset="
                             {{ 'assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-02-100w.jpg' | relative_url }} 100w
@@ -170,7 +170,7 @@ show_tile: true
                         "
                         sizes="40vw"
                     />
-                    <img 
+                    <img alt="Die gestaltete Infografik zur Code Quality Insights Kampagne im Postkarten-Format mit einem dadrunter liegenden Briefumschlag auf einem weißen Tisch mit Keksen, einer Kaffeetasse und Büroklammern (2024)."
                         src="{{ 'assets/images/2-Projekte/MaibornWolff/MW_Postkarte-Insights-1200w.jpg' | relative_url }}" 
                         srcset="
                             {{ 'assets/images/2-Projekte/MaibornWolff/MW_Postkarte-Insights-100w.jpg' | relative_url }} 100w
