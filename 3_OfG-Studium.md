@@ -15,7 +15,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p>Nach intensiver Suche über verschiedene Fernstudien-Schulen mit Richtung Gestaltung und Design, habe ich in der Online-Schule für Gestaltung (kurz OfG) meinen idealen Partner gefunden. Hier kann ich flexibel und nach meinem eigenen Tempo lernen - von Grundlagen über spezialisierte Masterclasses bis hin zu den spannenden Fernstudien aller meiner drei Hauptthemenbereiche (Grafik-, Web- und UX/UI-Design).<br/> Sobald ich einen Kurs erfolgreich abgeschlossen habe, werde ich die staatlich anerkannten Zertifikate hier online präsentieren. Das Bild veranschaulicht zudem meinen langfristigen Plan und begleitet mich auf meinem Weg zum Grafik-, Web- und UX/UI-Designer – ein klarer Fahrplan für den gesamten Prozess.</p>
+		<p>Nach intensiver Suche über verschiedene Fernstudien-Schulen mit Richtung Gestaltung und Design, habe ich in der Online-Schule für Gestaltung (kurz OfG) meinen idealen Partner gefunden. Hier kann ich flexibel und nach meinem eigenen Tempo lernen - von Grundlagen über spezialisierte Masterclasses bis hin zu den spannenden Fernstudien aller meiner drei Hauptthemenbereiche (Grafik-, Web- und UX/UI-Design). Hier erfährst Du alles über die OfG und deren Kursangebot: <a href="https://ofg-studium.de/" target="_blank_">www.ofg-studium.de</a><br/> Sobald ich einen Kurs erfolgreich abgeschlossen habe, werde ich die staatlich anerkannten Zertifikate hier online präsentieren. Das Bild veranschaulicht zudem meinen langfristigen Plan und begleitet mich auf meinem Weg zum Grafik-, Web- und UX/UI-Designer – ein klarer Fahrplan für den gesamten Prozess.</p>
 		<header class="none">
 			<h3>Staatlich anerkannte Zertifikate</h3>
 		</header>
