@@ -39,7 +39,7 @@ nav-menu: true
         </section>
         <hr />
         <!-- Three -->
-        <section id="Steuerberaterin Anne Weiss">
+        <section id="Steuerberaterin Anne Weiss" class="anchor">
             <h2>Projekt 1: Steuerberaterin Anne Weiß - Geschäftsausstattung mit Feingefühl</h2>
             <p>Zwischen Februar und September 2024 war ich als Büroassistenz bei der Steuerberaterin Anne Weiß tätig. In dieser Zeit durfte ich nicht nur im organisatorischen Bereich unterstützen, sondern auch kreativ tätig werden: Ich entwickelte eine maßgeschneiderte Geschäftsausstattung für die Mandantenkommunikation, abgestimmt auf das bestehende Corporate Design der Kanzlei.</p>
             <p>Entstanden ist eine Serie hochwertiger Faltkarten für verschiedene Anlässe – von der herzlichen Begrüßung neuer Mandant:innen über Glückwünsche zu Jubiläen und Geburtstagen bis hin zu sensibel gestalteten Karten für schwierige Lebensphasen. Ergänzt wurde das Set durch stilvolle Postkarten für festliche Grüße, passende Adressaufkleber und Briefumschläge, sowie Schlüsselanhänger im einheitlichen Design.</p>
@@ -139,7 +139,7 @@ nav-menu: true
         </section>
         <hr />
         <!-- Four -->
-        <section id="MaibornWolff">
+        <section id="MaibornWolff" class="anchor">
         <h2>Projekt 2: MaibornWolff - Einblicke in IT-Marketing & PreSales</h2>
         <p>Von Juli bis Dezember 2024 war ich als Trainee Marketing Expert Teil eines Pilotprojekts innerhalb der PreSales Unit des Bereichs ITS bei MaibornWolff.<br>In dieser Zeit konnte ich wertvolle erste Erfahrungen im Bereich Marketing sammeln – sowohl im Austausch mit der internen Marketingabteilung als auch durch die enge Zusammenarbeit mit erfahrenen Kolleg:innen aus dem PreSales-Umfeld. Besonders spannend war für mich die Verbindung aus technischer Expertise und strategischer Kommunikation.</p>
         <h5>Ich durfte aktiv an zwei konkreten Projekten mitwirken:</h5>
