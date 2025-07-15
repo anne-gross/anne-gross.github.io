@@ -5,7 +5,8 @@ description: Erste Einblicke - Meine bisherigen Projekte
 image-400w: /assets/images/2-Projekte/Title-Projects-400w.jpg
 image-800w: /assets/images/2-Projekte/Title-Projects-800w.jpg
 image-1200w: /assets/images/2-Projekte/Title-Projects-1200w.jpg
-nav-menu: true
+nav-menu: false
+show_tile: true
 ---
 
 <div id="main">
