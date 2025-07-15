@@ -5,6 +5,7 @@ description: 'Mein Studium bei der Online-Schule für Gestaltung'
 image-400w: /assets/images/3-OfG-Studium/Title-OfG-Studium-400w.jpg
 image-800w: /assets/images/3-OfG-Studium/Title-OfG-Studium-800w.jpg
 image-1200w: /assets/images/3-OfG-Studium/Title-OfG-Studium-1200w.jpg
+image-alt: "Kreativer Schreibtisch mit Laptop, Grafiktablet, Skizzenbuch und Designmaterialien – typischer Arbeitsplatz im digitalen Gestaltungsprozess von Grafik-, Web- und UX/UI-Designer."
 nav-menu: true
 ---
 
@@ -31,17 +32,19 @@ nav-menu: true
 			</div>
 		</div>
 		<hr class="major" />
-		<img 
-			alt="" 
-			src="{% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-1200w.jpg %}" 
-			srcset="
-					{% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-400w.jpg %} 400w
-					, {% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-800w.jpg %} 800w
-					, {% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-1200w.jpg %} 1200w
-				"
-				sizes="90vw"
-			data-position="top center" 
-		/>
+		<image-lightbox>
+			<img 
+				alt="Grafische Übersicht des Studienplans von Crossmedia-Designerin Anne Gross an der Online-Schule für Gestaltung: Abgeschlossene und geplante Kurse in Grafik-, Web- und UX/UI-Design." 
+				src="{% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-1200w.jpg %}" 
+				srcset="
+						{% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-400w.jpg %} 400w
+						, {% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-800w.jpg %} 800w
+						, {% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-1200w.jpg %} 1200w
+					"
+					sizes="70vw"
+					class="image image__center" 
+			/>
+		</image-lightbox>	
 		<hr class="major" />
 	</div>
 </section>
@@ -51,7 +54,7 @@ nav-menu: true
 	<section>
 		<a href="{% link 3a_Grundlagen-Grafiksoftware.md %}" class="image">
 			<img
-				alt="Alt Text" 
+				alt="Bild vom 'Onlinekurs Grafiksoftware-Grundlagen mit ZFU-Zertifizierung – praxisnaher Einstieg in Design-Tools wie Photoshop, Illustrator und InDesign' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch." 
 				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %}" 
 				srcset="
 					{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-400w.jpg %} 400w
@@ -75,7 +78,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="{% link 3b_Ai-Masterclass.md %}" class="image">
-			<img 
+			<img alt="Bild vom 'Illustrator Masterclass mit offizieller ZFU-Zulassung – lernen, Vektorgrafiken und Logos professionell zu gestalten' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch.."
 				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %}" 
 				srcset="
 					{% link /assets/images/3-OfG-Studium/0_Kursbilder/2_Kursbild-Illustrator-400w.jpg %} 400w
@@ -100,7 +103,7 @@ nav-menu: true
 	<section>
 		<a href="{% link 3c_Ps-Masterclass.md %}" class="image">
 			<img 
-				alt="" 
+				alt="Bild vom 'Photoshop Masterclass mit ZFU-Siegel – Bildbearbeitung, Composings und kreative Retuschetechniken professionell lernen' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch." 
 				src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop-1200w.jpg %}" 
 				srcset="
 					{% link /assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop-400w.jpg %} 400w
