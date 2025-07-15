@@ -4,6 +4,7 @@ title: Über mich
 image-400w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-400w.jpg
 image-800w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-800w.jpg
 image-1200w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-1200w.jpg
+image-alt: "Porträt von Crossmedia-Designerin Anne Gross in ihrem Büro, freundlich lächelnd am Schreibtisch mit Pflanzen im Hintergrund."
 nav-menu: true
 show_title: true
 ---
@@ -125,7 +126,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Modelleisenbahn-Bilder von Designerin Anne Gross: liebevoll gestalteter Wildpark-Eingang, Groß-Meiers-Herbstplatte mit Marktständen und Zugstrecke sowie eine realistische Baustellenszene." 
+    alt="Modelleisenbahn-Bilder von Designerin Anne Gross: liebevoll gestalteter Wildpark-Eingang, Gross-Meiers-Herbstplatte mit Marktständen und Zugstrecke sowie eine realistische Baustellenszene." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-3-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-3-100w.jpg %} 100w
@@ -158,7 +159,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Weihnachtliche Miniaturszenen von Designerin Anne Gros: Santa Claus auf dem Marktplatz, Gross-Meiers-Adventplatte mit Eisbahn und Kirche sowie eine ländliche Szene mit Traktor und Kuh auf dem LPG-Hof." 
+    alt="Weihnachtliche Miniaturszenen von Designerin Anne Gross: Santa Claus auf dem Marktplatz, Gross-Meiers-Adventplatte mit Eisbahn und Kirche sowie eine ländliche Szene mit Traktor und Kuh auf dem LPG-Hof." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-6-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-6-100w.jpg %} 100w
@@ -202,7 +203,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Innenarchitektur im Computerspiel Die Sims 4 von Designerin Anne Gross: stimmungsvoller Gartenbereich mit Whirlpool, Wartebereich, Garderobe und Empfangstresen einer Praxis, sowie moderner Ess- und Küchenbereich in Schwarz, Weiß und Holz." 
+    alt="Innenarchitektur im Computerspiel Die Sims 4 von Designerin Anne Gross: stimmungsvoller Gartenbereich mit Whirlpool, Wartebereich, Garderobe und Empfangstresen einer Praxis, sowie moderner Ess- und Küchenbereich in Schwarz, Weiss und Holz." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-10-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-10-100w.jpg %} 100w
