@@ -5,6 +5,7 @@ image-400w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-400w.jpg
 image-800w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-800w.jpg
 image-1200w: /assets/images/1-Ueber-Mich/Anne-rechtszentriert-1200w.jpg
 nav-menu: true
+show_title: true
 ---
 
 <!-- Main -->
@@ -102,7 +103,7 @@ nav-menu: true
 
 <glider-gallery lightbox-id="Persoenliche-Interessen" per-view-max="4">
   <img 
-    alt="Alt Text" 
+    alt="Eine Fotocollage mit 6 Bildern. Die Fotos zeigen meine Lego Icon Straße (links oben und unten), sowie das Harry-Potter-Schloß aus Lego (rechts oben). Außerdem ist ein Vorher und Nachher Bild von meinem Gäste-WC zu sehen (links mitte). Desweiteren ein Bild von meinem aktuellen Hobby, der Perlenstickerei (rechts unten)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-1-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-1-100w.jpg %} 100w
@@ -113,7 +114,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Eine Foto-Collage über meine Torten-Kreationen. Eine Hochzeitstorte in Schwarz mit leuchtenden weißen Sternen und einer Ente als Hommage an den Bräutigam (rechts oben). Zwei Fondant-Figuren aus einem Torten-Kurs, einmal ein sitzendes Schaf (links oben) und ein modellierter Bumblebee-Kopf (unten mitte). Sowie zwei Torten, einmal mit Rosmarin-Cassies Füllung dekoriert mit Mikado-Stäbchen und essbaren Blüten (links unten), zweitens mit Kirschen und Vanille-Pudding im Honigwaben-Stil (rechts unten)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-2-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-2-100w.jpg %} 100w
@@ -124,7 +125,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Bilder von meinem Modelleisenbahn-Hobby: Der Eingang zum Gross-Meiers-Wildpark (links oben), die gesamte Gross-Meiers-Herbst-Platte (links unten) und die Baustelle von Gross-Meiers-Heimat (rechts)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-3-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-3-100w.jpg %} 100w
@@ -135,7 +136,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Bilder von meinem Modelleisenbahn-Hobby: Paket-Übergabe auf einem Postauto (links oben), eine Kriminalverbrechen an der alten Scheune mit Leichenfund und dem Sensemann (rechts oben), der großen Apfelernte (rechts unten) und der Ankunft/Abfahrts-Tafel vom Bahnhof (links unten). Alle Bilder stammen von der Gross-Meiers-Heimat Platte." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-4-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-4-100w.jpg %} 100w
@@ -146,7 +147,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Bilder vom meinem Modelleisenbahn-Hobby: Ein Einblick aus dem Dorf-Geschehen vor dem Konsum (links oben) und dem Zeitungs-Kiosk am Bahnhof (links unten), beides von der Gross-Meiers-Heimat Platte. Das imposante Geisterhaus mit leuchtenden Kürbissen und Spinnenweben auf der Gross-Meiers-Herbst Platte (rechts)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-5-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-5-100w.jpg %} 100w
@@ -157,7 +158,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Bilder vom meinem Modelleisenbahn-Hobby: Die Bühne auf dem Marktplatz mit dem Weihnachtsmann und einer Mama mit Kind davor von der Gross-Meiers-Advent PLatte (links oben), sowie die gesamte Gross-Meiers-Advent Platte (rechts oben). Ein Landwirt auf dem Traktor, gefolgt von einem weiteren Mann mit einer Kuh an der Kette aus dem LPG-Gewerbehof von der Gross-Meiers-Heimat Platte (unten)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-6-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-6-100w.jpg %} 100w
@@ -168,7 +169,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Bilder vom meinem Modelleisenbahn-Hobby: Ein Bild vom Bauernhof Geschehen auf der Gross-Meiers-Heimat Platte (oben). Ein Kinderchor singt Weihnachtslieder vor der Kirche auf der Gross-Meiers-Advent Platte (links unten) und die große Uhr mit Blumenrondell im Gross-Meiers-Wildpark (rechts unten)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-7-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-7-100w.jpg %} 100w
@@ -179,7 +180,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Bilder vom meinem Modelleisenbahn-Hobby: Die Burgruine im Hintergrund vor den Weinbergen auf der Gross-Meiers-Herbst Platte (links), sowie die Gesamt Gross-Meiers-Herbst Platte (rechts unten). Ein altes TRafo-Häuschen an den Gleisen mit Schafen in der Landschaft und einem Roller-Fahrer auf der Gross-Meiers-Heimat Platte (rechts oben)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-8-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-8-100w.jpg %} 100w
@@ -190,7 +191,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Bilder aus dem Computer-Spiel Die Sims 4: Ein modernes Haus mit großen Fensterflächen im Hafengebiet von außen (links oben). Ein großer Pool mit einem kleinem Spielbereich im Garten (rechts oben). Eine große Tierklinik mit Einlieger-Wohnung von außen (mitte). Ein schöner Eingangsbereich mit Haustür und grünem Vorgarten (links unten) und ein weiteres modernes Haus mit Beton-Optik von außen (rechts unten)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-9-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-9-100w.jpg %} 100w
@@ -201,7 +202,7 @@ nav-menu: true
     sizes="80vw"
   />
     <img 
-    alt="Alt Text" 
+    alt="Bilder aus dem Computer-Spiel Die Sims 4: Ein Whirlpool mit zwei Gartenliegen umringt von viel Grün (links oben). Drei Bilder aus dem Innenbereichs einer Praxis mit den Farbtönen Salbeigrün und rosé - der Wartebereich mit Stühlen (rechts oben), die Garderobe (links mitte) und der Empfangstresen (links unten). Ein Blick aus dem Esszimmer mit einem großen Esstisch und Stühlen in die offene Wohnküche, alles in Schwarz/Weiß-Tönen mit einigen schönen Eiche-Holzakzenten gestaltet, aus dem modernen Haus mit den großen Fensterflächen vom Hafengebiet (rechts unten)." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-10-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-10-100w.jpg %} 100w
