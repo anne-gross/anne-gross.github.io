@@ -42,7 +42,7 @@ nav-menu: true
         <section id="Steuerberaterin Anne Weiss">
             <h2>Projekt 1: Steuerberaterin Anne Weiß - Geschäftsausstattung mit Feingefühl</h2>
             <p>Zwischen Februar und September 2024 war ich als Büroassistenz bei der Steuerberaterin Anne Weiß tätig. In dieser Zeit durfte ich nicht nur im organisatorischen Bereich unterstützen, sondern auch kreativ tätig werden: Ich entwickelte eine maßgeschneiderte Geschäftsausstattung für die Mandantenkommunikation, abgestimmt auf das bestehende Corporate Design der Kanzlei.</p>
-            <p>Entstanden ist eine Serie hochwertiger Faltkarten für verschiedene Anlässe – von der herzlichen Begrüßung neuer Mandant:innen über Glückwünsche zu Jubiläen und Geburtstagen bis hin zu sensibel gestalteten Karten für schwierige Lebensphasen. Ergänzt wurde das Set durch stilvolle Postkarten für festliche Grüße, passende Adressaufkleber und Briefumschläge im einheitlichen Design.</p>
+            <p>Entstanden ist eine Serie hochwertiger Faltkarten für verschiedene Anlässe – von der herzlichen Begrüßung neuer Mandant:innen über Glückwünsche zu Jubiläen und Geburtstagen bis hin zu sensibel gestalteten Karten für schwierige Lebensphasen. Ergänzt wurde das Set durch stilvolle Postkarten für festliche Grüße, passende Adressaufkleber und Briefumschläge, sowie Schlüsselanhänger im einheitlichen Design.</p>
             <p>So kann die Kanzlei nicht nur professionell, sondern auch persönlich und wertschätzend in Kontakt mit ihren Mandant:innen treten.<br>Mehr über Anne Weiß und ihre Steuerberatung findest du hier: <a href="https://steuern-weiss.de/" target="_blank_">www.steuern-weiss.de</a></p>
             <glider-gallery lightbox-id="steuerkanzlei-weiss-projects" per-view-max="4">
                 <img 
@@ -106,6 +106,16 @@ nav-menu: true
                     sizes="20vw"
                 />
                 <img 
+                    src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Anhaenger-1200w.jpg' | relative_url }}" 
+                    srcset="
+                        {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Anhaenger-100w.jpg' | relative_url }} 100w
+                        , {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Anhaenger-400w.jpg' | relative_url }} 400w
+                        , {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Anhaenger-800w.jpg' | relative_url }} 800w
+                        , {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Anhaenger-1200w.jpg' | relative_url }} 1200w
+                    "
+                    sizes="20vw"
+                />
+                <img 
                     src="{{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Adressaufkleber-1200w.jpg' | relative_url }}" 
                     srcset="
                         {{ 'assets/images/2-Projekte/Steuerkanzlei-Weiss/SK-Weiss_Adressaufkleber-100w.jpg' | relative_url }} 100w
@@ -134,10 +144,10 @@ nav-menu: true
         <p>Von Juli bis Dezember 2024 war ich als Trainee Marketing Expert Teil eines Pilotprojekts innerhalb der PreSales Unit des Bereichs ITS bei MaibornWolff.<br>In dieser Zeit konnte ich wertvolle erste Erfahrungen im Bereich Marketing sammeln – sowohl im Austausch mit der internen Marketingabteilung als auch durch die enge Zusammenarbeit mit erfahrenen Kolleg:innen aus dem PreSales-Umfeld. Besonders spannend war für mich die Verbindung aus technischer Expertise und strategischer Kommunikation.</p>
         <h5>Ich durfte aktiv an zwei konkreten Projekten mitwirken:</h5>
         <ul>
-                <li>Neugestaltung einer Broschüre für den Software Health Check</li>
+                <li>Neugestaltung einer Broschüre für den "Software Health Check"</li>
                 <li>Erstellung einer Info-Grafik für die Kampagne "Code Quality Insights"</li>
             </ul>
-            <p>Mehr über MaibornWolff und die Projekte findest du auf der offiziellen Website: <a href="https://www.maibornwolff.de/" target="_blank_">www.maibornwolff.de</a></p>
+            <p>Mehr über MaibornWolff und deren Projekte findest du auf der offiziellen Website: <a href="https://www.maibornwolff.de/" target="_blank_">www.maibornwolff.de</a></p>
             <glider-gallery lightbox-id="maibornwolff-projects" per-view-max="4">
                     <img 
                         src="{{ 'assets/images/2-Projekte/MaibornWolff/MW_Broschuere-SHC-01-1200w.jpg' | relative_url }}" 
