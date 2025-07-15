@@ -17,27 +17,54 @@ nav-menu: true
 <header class="major">
 	<h1>Hej, ich bin Anne</h1>
 </header>
+
 <!-- Content -->
 <h2 id="content">Greativ - Organisiert - Quereinsteiger</h2>
-<glider-gallery lightbox-id="Ueber-mich" per-view-max="3">
-      <img 
-        alt="Alt Text"
-        class="image__objectfit" 
-        src="{% link /assets/images/1-Ueber-Mich/1200-1500/1.jpg %}" 
-        sizes="80vw"
-      />
-      <img 
-        alt="Alt text" 
-        class="image__objectfit" 
-        src="{% link /assets/images/1-Ueber-Mich/1500-1500/1.jpg %}" 
-        sizes="80vw"
-      />
-      <img 
-        alt="Alt text" 
-        class="image__objectfit" 
-        src="{% link /assets/images/1-Ueber-Mich/2100-1500/1.jpg %}" 
-        sizes="80vw"
-      />
+  <glider-gallery lightbox-id="Ueber-mich" per-view-max="4">
+    <img 
+      alt="Alt Text" 
+      src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-1-1200w.jpg %}" 
+      srcset="
+          {% link /assets/images/1-Ueber-Mich/Anne-Collage-1-100w.jpg %} 100w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-1-400w.jpg %} 400w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-1-800w.jpg %} 800w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-1-1200w.jpg %} 1200w
+      "
+      sizes="80vw"
+    />
+        <img 
+      alt="Alt Text" 
+      src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-2-1200w.jpg %}" 
+      srcset="
+          {% link /assets/images/1-Ueber-Mich/Anne-Collage-2-100w.jpg %} 100w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-2-400w.jpg %} 400w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-2-800w.jpg %} 800w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-2-1200w.jpg %} 1200w
+      "
+      sizes="80vw"
+    />
+        <img 
+      alt="Alt Text" 
+      src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-3-1200w.jpg %}" 
+      srcset="
+          {% link /assets/images/1-Ueber-Mich/Anne-Collage-3-100w.jpg %} 100w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-3-400w.jpg %} 400w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-3-800w.jpg %} 800w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-3-1200w.jpg %} 1200w
+      "
+      sizes="80vw"
+    />
+        <img 
+      alt="Alt Text" 
+      src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-4-1200w.jpg %}" 
+      srcset="
+          {% link /assets/images/1-Ueber-Mich/Anne-Collage-4-100w.jpg %} 100w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-4-400w.jpg %} 400w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-4-800w.jpg %} 800w
+          , {% link /assets/images/1-Ueber-Mich/Anne-Collage-4-1200w.jpg %} 1200w
+      "
+      sizes="80vw"
+    />
   </glider-gallery>
 <br>
 <p>Ich bin kreative Quereinsteigerin mit strukturiertem Kopf und einem ambitionierten Ziel: Ich möchte Crossmedia-Designerin werden!</p>
@@ -45,15 +72,13 @@ nav-menu: true
 <p>Dafür lege ich aktuell das theoretische Fundament mit unterschiedlichen, staatlich anerkannten Fernstudien und Online-Kursen bei der OfG, der Online-Schule für Gestaltung. Außerdem setze ich dazu parallel das Gelernte mit den geforderten Modulaufgaben direkt in die Praxis um.<br>Diese Webseite hier dient als digitale Visitenkarte und als Schaufenster meiner kreativen Arbeiten. Hier findest Du Einblicke in erste reale Projekte, wachsende Designs und meine Schritte in die Welt der visuellen Kommunikation.</p>
 <p>Als jemand, der nicht den klassischen Weg gegangen ist, bringe ich frische Perspektiven, Neugier und jede Menge Eigeninitiative mit.</p>
 
-
-<h4>Was zeichnet mich aus?</h4>
+<h4>Was mich auszeichnet</h4>
 <ul>
-	<li>Kreatives Denken kombiniert mit Organisationstalent</li>
-	<li>Kombination aus Kreativität und technischem Verständnis</li>
-	<li>Strukturierte, organisierte Arbeitsweise durch jahrelange Projektarbeit in der Industrie</li>
-	<li>hohe Eigeninitiative und schnelle Auffassungsgabe - ideal für den dynamischen Designbereich</li>
-	<li>Detaillierter Blick für Ästhetik</li>
-	<li>Neugier, Engagement und der Mut, neue Herausforderungen anzunehmen</li>
+	<li>Kreativität trifft technisches Verständnis</li>
+	<li>Strukturiertes Arbeiten dank Industrieerfahrung</li>
+	<li>Organisationsstark mit Blick fürs Detail</li>
+	<li>Schnelle Auffassungsgabe & hohe Eigeninitiative</li>
+	<li>Neugierig, engagiert und offen für Neues</li>
 </ul>
 
 <h4>Ich freue mich, wenn Du mehr über mich und meine Design-Reise erfahren möchtest.</h4>
@@ -75,29 +100,115 @@ nav-menu: true
 	</div>
 </div>
 
-<glider-gallery lightbox-id="visitenkarten">
-      <img 
-        slot="image-1" 
-        alt="Alt Text" 
-        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %}" 
-        srcset="
-            {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
-        "
-        sizes="80vw"
-      />
-      <img 
-        slot="image-2" 
-        alt="Alt text" 
-        src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %}" 
-        srcset="
-            {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
-        "
-        sizes="80vw"
-      />
-  </glider-gallery>
+<glider-gallery lightbox-id="Persoenliche-Interessen" per-view-max="4">
+  <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-1-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-1-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-1-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-1-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-1-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-2-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-2-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-2-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-2-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-2-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-3-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-3-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-3-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-3-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-3-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-4-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-4-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-4-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-4-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-4-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-5-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-5-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-5-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-5-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-5-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-6-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-6-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-6-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-6-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-6-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-7-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-7-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-7-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-7-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-7-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-8-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-8-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-8-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-8-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-8-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-9-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-9-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-9-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-9-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-9-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+    <img 
+    alt="Alt Text" 
+    src="{% link /assets/images/1-Ueber-Mich/Fotocollage-10-1200w.jpg %}" 
+    srcset="
+        {% link /assets/images/1-Ueber-Mich/Fotocollage-10-100w.jpg %} 100w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-10-400w.jpg %} 400w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-10-800w.jpg %} 800w
+        , {% link /assets/images/1-Ueber-Mich/Fotocollage-10-1200w.jpg %} 1200w
+    "
+    sizes="80vw"
+  />
+</glider-gallery>
