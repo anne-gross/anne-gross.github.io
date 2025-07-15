@@ -9,7 +9,7 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="{{ page.title }}">
 	<meta property="og:description" content="{{ page.description }}">
-	<meta property="og:image" content="{{ page.image-400w }}">
+	<meta property="og:image" content="{{ site.url }}{{ page.image-400w }}">
 	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 
 	<!--  Non-Essential, But Recommended -->
@@ -17,7 +17,7 @@
 
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{{ page.title }}">
-	<meta name="twitter:image" content="{{ page.image-400w }}">
+	<meta name="twitter:image" content="{{ site.url }}{{ page.image-400w }}">
 	<meta name="twitter:image:alt" content="{{ page.image-alt }}">
 
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
