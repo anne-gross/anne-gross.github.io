@@ -23,7 +23,7 @@ show_title: true
 <h2 id="content">Greativ - Organisiert - Quereinsteiger</h2>
   <glider-gallery lightbox-id="Ueber-mich" per-view-max="4">
     <img 
-      alt="Eine Fotocollage über mich: Ich stehe auf der Aussichtsplattform des Pyramidenkogel am Wörthsee (2022, links oben). Ein Selfie von mir bei einer Bootstour entlang des Hudson River in New York City (2018, links unten). Ich esse Burger im Restaurant Szimpla Kertmozi in Budapest (2019, rechts oben). Ein schönes Business Foto von mir an meinem Schreibtisch zu Hause mit grünen Pflanzen im Hintergrund (2023, rechts unten)." 
+      alt="Persönliche Fotocollage von Crossmedia-Designerin Anne Gross: Reiseimpressionen vom Pyramidenkogel in Österreich 2022, einer Bootstour auf dem Hudson River in New York 2018, im Restaurant Szimpla Kertmozi in Budapest 2019 sowie ein professionelles Porträt im Homeoffice 2023." 
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-1-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-1-100w.jpg %} 100w
@@ -34,7 +34,7 @@ show_title: true
       sizes="80vw"
     />
         <img 
-      alt="Eine Fotocollage über mich: Ich halte mit meinen Händen liebevoll meine Babykugel beim Babybauch-Shooting (2023, links). Ich fotografiere mit meiner alten Kamera in einem tropischen Tierhaus im Central Park Zoo in New York (2018, rechts oben). Ich trage einen lustigen Kraken-Hut im Verkaufsshop des New England Aquarium in Boston (2018, rechts unten)." 
+      alt="Persönliche Fotocollage von Crossmedia-Designerin Anne Gross vom Babybauch-Shooting 2023, Naturfotografie im Central Park Zoo in New York 2019 und mit einem Kraken-Hut im New England Aquarium in Boston 2019." 
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-2-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-2-100w.jpg %} 100w
@@ -45,7 +45,7 @@ show_title: true
       sizes="80vw"
     />
         <img 
-      alt="Eine Fotocollage über mich: Zwei der Bilder sind im Selfie-Museum in Budapest entstanden: Ich stehe in hunderten von hängenden pinken und gelben Plastik-Bananen (2019, links oben) und ich sitze rückwärts auf einem weißen Einhorn vor einem farbenfrohen Wand (2019, rechts unten). Ein weiteres Bild von mir auf der Aussichtsplattform des Pyramidenkogels am Wörthersee, man sieht mir meine Höhenangst an (2022, links unten). Ein weiteres Business-Bild von mir in meinem Büro mit grünen Pflanzen im Hintergrund (2023, rechts oben)." 
+      alt="Anne Gross – Crossmedia-Designerin mit Persönlichkeit: Bilder aus dem Selfie-Museum in Budapest 2019, ein Business-Foto im Homeoffice 2023 und ein Moment auf der Aussichtsplattform des Pyramidenkogels am Wörthersee in Österreich 2022." 
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-3-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-3-100w.jpg %} 100w
@@ -56,7 +56,7 @@ show_title: true
       sizes="80vw"
     />
         <img 
-      alt="Eine Fotocollage über mich: Ich sitze auf einem Mosterroller vor der Burg von Buda in Budapest (2019, links oben). Ein schönes Selfie-Bild, welches ich nach einem Mack-Up Kurs aufgenommen hatte (2018, links unten). Ein weiteres Business-Bild von mir in meinem Büro, diesmal vor dem Fenster und einigen Grünpflanzen im Hintergrund (2023, rechts)." 
+      alt="Crossmedia-Designerin Anne Gross – Fotocollage mit Monsterroller-Bild vor der Burg von Buda 2019, auf einem Selfie nach einem Make-up-Kurs 2018 und ein Business-Foto im modernen Homeoffice 2023." 
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-4-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-4-100w.jpg %} 100w
@@ -103,7 +103,7 @@ show_title: true
 
 <glider-gallery lightbox-id="Persoenliche-Interessen" per-view-max="4">
   <img 
-    alt="Eine Fotocollage mit 6 Bildern. Die Fotos zeigen meine Lego Icon Straße (links unten), sowie das Harry-Potter-Schloß aus Lego (rechts oben). Eine Auswahl meiner Fachbücher zum Thema Grafik-, Web- und UX/UI-Design (links oben). Außerdem ist ein Vorher und Nachher Bild von meinem Gäste-WC zu sehen (links mitte). Desweiteren ein Bild von meinem aktuellen Hobby, der Perlenstickerei (rechts unten)." 
+    alt="Fotocollage mit LEGO-Hogwarts-Schloss und einer LEGO-Stadtstraße, einer Auswahl an Fachbüchern zu UX/UI-, Web- und Grafikdesign, Vorher-Nachher-Bildern eines renovierten Gäste-WCs sowie einem kreativen Stickerei-Projekt mit Löwenmotiv und goldenem Blitz." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-1-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-1-100w.jpg %} 100w
@@ -114,7 +114,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Eine Foto-Collage über meine Torten-Kreationen. Eine Hochzeitstorte in Schwarz mit leuchtenden weißen Sternen und einer Ente als Hommage an den Bräutigam (rechts oben). Zwei Fondant-Figuren aus einem Torten-Kurs, einmal ein sitzendes Schaf (links oben) und ein modellierter Bumblebee-Kopf (unten mitte). Sowie zwei Torten, einmal mit Rosmarin-Cassies Füllung dekoriert mit Mikado-Stäbchen und essbaren Blüten (links unten), zweitens mit Kirschen und Vanille-Pudding im Honigwaben-Stil (rechts unten)." 
+    alt="Kreative Torten-Collage von Designerin Anne Gross: Hochzeitstorte mit leuchtenden Sternen und Ente, Fondant-Figuren (Schaf & Bumblebee-Kopf), sowie Obsttorten mit essbaren Deko-Elementen." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-2-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-2-100w.jpg %} 100w
@@ -125,7 +125,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Bilder von meinem Modelleisenbahn-Hobby: Der Eingang zum Gross-Meiers-Wildpark (links oben), die gesamte Gross-Meiers-Herbst-Platte (links unten) und die Baustelle von Gross-Meiers-Heimat (rechts)." 
+    alt="Modelleisenbahn-Bilder von Designerin Anne Gross: liebevoll gestalteter Wildpark-Eingang, Groß-Meiers-Herbstplatte mit Marktständen und Zugstrecke sowie eine realistische Baustellenszene." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-3-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-3-100w.jpg %} 100w
@@ -136,7 +136,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Bilder von meinem Modelleisenbahn-Hobby: Paket-Übergabe auf einem Postauto (links oben), eine Kriminalverbrechen an der alten Scheune mit Leichenfund und dem Sensemann (rechts oben), der großen Apfelernte (rechts unten) und der Ankunft/Abfahrts-Tafel vom Bahnhof (links unten). Alle Bilder stammen von der Gross-Meiers-Heimat Platte." 
+    alt="Miniaturwelten auf der Gross-Meiers-Heimat-Platte: Paketlieferung mit Postauto, Krimi-Szene mit Leichenfund und Sensemann, Apfelernte und Anzeigetafel am Bahnhof." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-4-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-4-100w.jpg %} 100w
@@ -147,7 +147,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Bilder vom meinem Modelleisenbahn-Hobby: Ein Einblick aus dem Dorf-Geschehen vor dem Konsum (links oben) und dem Zeitungs-Kiosk am Bahnhof (links unten), beides von der Gross-Meiers-Heimat Platte. Das imposante Geisterhaus mit leuchtenden Kürbissen und Spinnenweben auf der Gross-Meiers-Herbst Platte (rechts)." 
+    alt="Detaillierte Modelleisenbahn-Szenen von Designerin Anne Gross: Dorfalltag vor dem Konsum, Zeitungskiosk am Bahnhof und das Halloween-Geisterhaus mit leuchtender Kürbisdeko und Spinnweben." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-5-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-5-100w.jpg %} 100w
@@ -158,7 +158,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Bilder vom meinem Modelleisenbahn-Hobby: Die Bühne auf dem Marktplatz mit dem Weihnachtsmann und einer Mama mit Kind davor von der Gross-Meiers-Advent PLatte (links oben), sowie die gesamte Gross-Meiers-Advent Platte (rechts oben). Ein Landwirt auf dem Traktor, gefolgt von einem weiteren Mann mit einer Kuh an der Kette aus dem LPG-Gewerbehof von der Gross-Meiers-Heimat Platte (unten)." 
+    alt="Weihnachtliche Miniaturszenen von Designerin Anne Gros: Santa Claus auf dem Marktplatz, Gross-Meiers-Adventplatte mit Eisbahn und Kirche sowie eine ländliche Szene mit Traktor und Kuh auf dem LPG-Hof." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-6-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-6-100w.jpg %} 100w
@@ -169,7 +169,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Bilder vom meinem Modelleisenbahn-Hobby: Ein Bild vom Bauernhof Geschehen auf der Gross-Meiers-Heimat Platte (oben). Ein Kinderchor singt Weihnachtslieder vor der Kirche auf der Gross-Meiers-Advent Platte (links unten) und die große Uhr mit Blumenrondell im Gross-Meiers-Wildpark (rechts unten)." 
+    alt="Miniaturwelt von Designerin Anne Gross: Alltag auf einem Bauernhof mit Traktor und Tieren, singender Kinderchor im Schnee vor der Dorfkirche und große Blumenuhr mit Besuchern im Wildpark." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-7-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-7-100w.jpg %} 100w
@@ -180,7 +180,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Bilder vom meinem Modelleisenbahn-Hobby: Die Burgruine im Hintergrund vor den Weinbergen auf der Gross-Meiers-Herbst Platte (links), sowie die Gesamt Gross-Meiers-Herbst Platte (rechts unten). Ein altes TRafo-Häuschen an den Gleisen mit Schafen in der Landschaft und einem Roller-Fahrer auf der Gross-Meiers-Heimat Platte (rechts oben)." 
+    alt="Modellbau-Collage von Designerin Anne Gross: Burgruine mit Weinberge, Schafherde bei einem Trafoturm und Gesamtansicht der herbstlich gestalteten Gross-Meiers-Platte." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-8-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-8-100w.jpg %} 100w
@@ -191,7 +191,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Bilder aus dem Computer-Spiel Die Sims 4: Ein modernes Haus mit großen Fensterflächen im Hafengebiet von außen (links oben). Ein großer Pool mit einem kleinem Spielbereich im Garten (rechts oben). Eine große Tierklinik mit Einlieger-Wohnung von außen (mitte). Ein schöner Eingangsbereich mit Haustür und grünem Vorgarten (links unten) und ein weiteres modernes Haus mit Beton-Optik von außen (rechts unten)." 
+    alt="Architektur-Screenshots aus Computerspiel Die Sims 4 von Desigerin Anne Gross: moderne Häuser mit großer Fensterfront, Tierklinik mit Einliegerwohnung, Garten mit Pool und kreative Fassadengestaltung." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-9-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-9-100w.jpg %} 100w
@@ -202,7 +202,7 @@ show_title: true
     sizes="80vw"
   />
     <img 
-    alt="Bilder aus dem Computer-Spiel Die Sims 4: Ein Whirlpool mit zwei Gartenliegen umringt von viel Grün (links oben). Drei Bilder aus dem Innenbereichs einer Praxis mit den Farbtönen Salbeigrün und rosé - der Wartebereich mit Stühlen (rechts oben), die Garderobe (links mitte) und der Empfangstresen (links unten). Ein Blick aus dem Esszimmer mit einem großen Esstisch und Stühlen in die offene Wohnküche, alles in Schwarz/Weiß-Tönen mit einigen schönen Eiche-Holzakzenten gestaltet, aus dem modernen Haus mit den großen Fensterflächen vom Hafengebiet (rechts unten)." 
+    alt="Innenarchitektur im Computerspiel Die Sims 4 von Designerin Anne Gross: stimmungsvoller Gartenbereich mit Whirlpool, Wartebereich, Garderobe und Empfangstresen einer Praxis, sowie moderner Ess- und Küchenbereich in Schwarz, Weiß und Holz." 
     src="{% link /assets/images/1-Ueber-Mich/Fotocollage-10-1200w.jpg %}" 
     srcset="
         {% link /assets/images/1-Ueber-Mich/Fotocollage-10-100w.jpg %} 100w
