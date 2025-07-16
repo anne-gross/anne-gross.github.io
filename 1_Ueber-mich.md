@@ -201,7 +201,7 @@ show_title: true
   />
 </glider-gallery>
 <p></p>
-<!-- Break -->
+<!-- Persönliche Interessen -->
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h4>Miniaturwelten auf Knopfdruck – <br> unser gemeinsames Hobby</h4>
@@ -216,4 +216,13 @@ show_title: true
 		<p>Was ich noch nicht kann, das bringe ich mir gerne selbst bei – ob mit Fachbüchern oder E-Learning-Videos. Ich liebe es, neue Dinge auszuprobieren, vor allem wenn es kreativ wird! Freunde sagen, in mir steckt ein verkannter Innenarchitekt – ich designe u.a. in "Die Sims 4" regelmäßig Traumhäuser oder gestalte per ProCreate App Wohnräume für mich, Familie oder Bekannte. Geschenke und Grußkarten bastel ich nur noch selbst dank meines Plotters. Ich backe mit Begeisterung kleine Torten-Kunstwerke. Außerdem sammle ich seltene Lego Icon Sets und erweitere jedes Jahr meine Lego-Straße. <br> Kurz gesagt: Kreativität, ein Auge fürs Detail und ein Hang zu kleinen Welten ziehen sich durch alles, was ich mache.</p>
 	</div>
 </div>
-
+<hr>
+<!-- Bar -->
+  <div class="bar">
+    <a class="button" href="{% link 2_Projekte.md %}">
+      Projekte
+    </a>
+    <a class="button" href="{% link 3_OfG-Studium.md %}">
+      OfG-Studium 
+    </a>
+  </div>
