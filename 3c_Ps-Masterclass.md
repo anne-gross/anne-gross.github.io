@@ -10,7 +10,11 @@ nav-menu: false
 show_tile: false
 ---
 
+<div id="main">
+    <div class="inner">
 <!-- One -->
-<section id="Einleitung Ps-Masterclass">
-  <p>Hier kommen bald die nächsten Modulaufgaben, wenn sie abgeschlossen sind.</p>
-</section>
+    <section id="Einleitung Ps-Masterclass">
+      <p>Hier kommen bald die nächsten Modulaufgaben, wenn sie abgeschlossen sind.</p>
+    </section>
+  </div>
+</div>
