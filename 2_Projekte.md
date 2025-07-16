@@ -183,5 +183,14 @@ show_tile: true
                     />
             </glider-gallery>
         </section>
-</div>
+    <hr>
+<!-- Six -->
+  <div class="bar">
+    <a class="button previous" href="{% link 1_Ueber-mich.md %}">
+      Über mich
+    </a>
+    <a class="button next" href="{% link 3_OfG-Studium.md %}">
+      OfG-Studium 
+    </a>
+  </div>
 </div>

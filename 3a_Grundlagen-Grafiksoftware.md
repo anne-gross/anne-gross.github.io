@@ -229,4 +229,18 @@ show_tile: false
       <br>
       <p><strong>Mein Fazit:</strong> Dieses letzte Modul war nicht nur technisch eine Herausforderung, sondern auch persönlich ein Wendepunkt. Gestaltung kann Identität sichtbar machen – wenn man bereit ist, sich ehrlich damit auseinanderzusetzen.</p>
   </section>
+<hr>
+
+<!-- Six -->
+  <div class="bar">
+    <a class="button previous" href="{% link 3_OfG-Studium.md %}">
+      OfG-Studium
+    </a>
+    <a class="button" href="{% link 2_Projekte.md %}">
+      Projekte
+    </a>
+    <a class="button next" href="{% link 3b_Ai-Masterclass.md %}">
+      Nächster Kurs 
+    </a>
+  </div>
 </div>
