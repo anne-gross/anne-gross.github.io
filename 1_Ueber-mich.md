@@ -85,23 +85,9 @@ show_title: true
 
 <h4>Ich freue mich, wenn Du mehr über mich und meine Design-Reise erfahren möchtest.</h4>
 <hr class="major" />
-<!-- Break -->
-<h2 style="text-align: center;">Meine persönlichen Interessen</h2>
-<div class="row">
-	<div class="4u 12u$(medium)">
-		<h4>Miniaturwelten auf Knopfdruck – <br> unser gemeinsames Hobby</h4>
-		<p>Zusammen mit meinen Eltern baue ich kleine Miniatur-Welten, in denen es an jeder Ecke etwas zu entdecken gibt. Unser Herz schlägt für Modelleisenbahnen im Maßstab H0 – und seit Corona tüfteln wir besonders an kompakten Anlagen, die auf einer simplen OSB-Platte Platz finden und trotzdem jede Menge Charme versprühen. <br> Das Schönste daran? Die vielen liebevollen Details, versteckten Szenen und natürlich die Knöpfe, mit denen kleine wie große Besucher unsere Miniaturwelten zum Leben erwecken können. <br> Neugierig? Dann schau doch mal auf unserer Instagram-Seite vorbei und entdecke, was auf wenigen Quadratmetern alles möglich ist: <a href="https://www.instagram.com/grossmeiersmodellbahn/">@grossmeiersmodellbahn</a> </p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h4>Mein neues Geduldsprojekt – Perlenstickerei mit Suchtpotenzial</h4>
-		<p>Im November habe ich auf einer Messe ein wunderschönes Perlenstickbild von einem Löwenkopf mit goldenem Blitz entdeckt – und es war sofort um mich geschehen. Seitdem sitze ich immer mal wieder abends da und setze Reihe für Reihe, Perle für Perle, auf dem Weg zum fertigen Bild. <br> Die Verkäuferin vom Messe-Stand meinte, sie schafft ein Bild dieser Größe circa in einem Jahr. Ich ahne allerdings: Bei mir wird das wohl doch länger dauern. Aber egal – es macht riesigen Spaß, ist total entspannend (zumindest solange man sich nicht in der Reihe vertut) und ich bin schon jetzt gespannt auf das Ergebnis.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h4>Kreativ, detailverliebt und immer neugierig</h4>
-		<p>Was ich noch nicht kann, das bringe ich mir gerne selbst bei – ob mit Fachbüchern oder E-Learning-Videos. Ich liebe es, neue Dinge auszuprobieren, vor allem wenn es kreativ wird! Freunde sagen, in mir steckt ein verkannter Innenarchitekt – ich designe u.a. in "Die Sims 4" regelmäßig Traumhäuser oder gestalte per ProCreate App Wohnräume für mich, Familie oder Bekannte. Geschenke und Grußkarten bastel ich nur noch selbst dank meines Plotters. Ich backe mit Begeisterung kleine Torten-Kunstwerke. Außerdem sammle ich seltene Lego Icon Sets und erweitere jedes Jahr meine Lego-Straße. <br> Kurz gesagt: Kreativität, ein Auge fürs Detail und ein Hang zu kleinen Welten ziehen sich durch alles, was ich mache.</p>
-	</div>
-</div>
 
+<h2 style="text-align: center;">Meine persönlichen Interessen</h2>
+<!-- Glider Gallery-->
 <glider-gallery lightbox-id="Persoenliche-Interessen" per-view-max="4">
   <img 
     alt="Fotocollage mit LEGO-Hogwarts-Schloss und einer LEGO-Stadtstraße, einer Auswahl an Fachbüchern zu UX/UI-, Web- und Grafikdesign, Vorher-Nachher-Bildern eines renovierten Gäste-WCs sowie einem kreativen Stickerei-Projekt mit Löwenmotiv und goldenem Blitz." 
@@ -214,3 +200,20 @@ show_title: true
     sizes="80vw"
   />
 </glider-gallery>
+<p></p>
+<!-- Break -->
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h4>Miniaturwelten auf Knopfdruck – <br> unser gemeinsames Hobby</h4>
+		<p>Zusammen mit meinen Eltern baue ich kleine Miniatur-Welten, in denen es an jeder Ecke etwas zu entdecken gibt. Unser Herz schlägt für Modelleisenbahnen im Maßstab H0 – und seit Corona tüfteln wir besonders an kompakten Anlagen, die auf einer simplen OSB-Platte Platz finden und trotzdem jede Menge Charme versprühen. <br> Das Schönste daran? Die vielen liebevollen Details, versteckten Szenen und natürlich die Knöpfe, mit denen kleine wie große Besucher unsere Miniaturwelten zum Leben erwecken können. <br> Neugierig? Dann schau doch mal auf unserer Instagram-Seite vorbei und entdecke, was auf wenigen Quadratmetern alles möglich ist: <a href="https://www.instagram.com/grossmeiersmodellbahn/">@grossmeiersmodellbahn</a> </p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h4>Mein neues Geduldsprojekt – Perlenstickerei mit Suchtpotenzial</h4>
+		<p>Im November habe ich auf einer Messe ein wunderschönes Perlenstickbild von einem Löwenkopf mit goldenem Blitz entdeckt – und es war sofort um mich geschehen. Seitdem sitze ich immer mal wieder abends da und setze Reihe für Reihe, Perle für Perle, auf dem Weg zum fertigen Bild. <br> Die Verkäuferin vom Messe-Stand meinte, sie schafft ein Bild dieser Größe circa in einem Jahr. Ich ahne allerdings: Bei mir wird das wohl doch länger dauern. Aber egal – es macht riesigen Spaß, ist total entspannend (zumindest solange man sich nicht in der Reihe vertut) und ich bin schon jetzt gespannt auf das Ergebnis.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h4>Kreativ, detailverliebt und immer neugierig</h4>
+		<p>Was ich noch nicht kann, das bringe ich mir gerne selbst bei – ob mit Fachbüchern oder E-Learning-Videos. Ich liebe es, neue Dinge auszuprobieren, vor allem wenn es kreativ wird! Freunde sagen, in mir steckt ein verkannter Innenarchitekt – ich designe u.a. in "Die Sims 4" regelmäßig Traumhäuser oder gestalte per ProCreate App Wohnräume für mich, Familie oder Bekannte. Geschenke und Grußkarten bastel ich nur noch selbst dank meines Plotters. Ich backe mit Begeisterung kleine Torten-Kunstwerke. Außerdem sammle ich seltene Lego Icon Sets und erweitere jedes Jahr meine Lego-Straße. <br> Kurz gesagt: Kreativität, ein Auge fürs Detail und ein Hang zu kleinen Welten ziehen sich durch alles, was ich mache.</p>
+	</div>
+</div>
+
