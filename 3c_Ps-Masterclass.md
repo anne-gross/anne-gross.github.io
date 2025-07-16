@@ -17,4 +17,13 @@ show_tile: false
       <p>Hier kommen bald die nächsten Modulaufgaben, wenn sie abgeschlossen sind.</p>
     </section>
   </div>
+<!-- Six -->
+  <div class="bar">
+    <a class="button previous" href="{% link 3b_Ai-Masterclass.md %}">
+      Vorheriger Kurs
+    </a>
+    <a class="button" href="{% link 2_Projekte.md %}">
+      Projekte
+    </a>
+  </div>
 </div>
