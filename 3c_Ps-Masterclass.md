@@ -13,17 +13,18 @@ show_tile: false
 <div id="main">
     <div class="inner">
 <!-- One -->
-    <section id="Einleitung Ps-Masterclass">
-      <p>Hier kommen bald die nächsten Modulaufgaben, wenn sie abgeschlossen sind.</p>
-    </section>
-  </div>
+      <section id="Einleitung Ps-Masterclass">
+        <p>Hier kommen bald die nächsten Modulaufgaben, wenn sie abgeschlossen sind.</p>
+      </section>
+      <hr>
 <!-- Six -->
-  <div class="bar">
-    <a class="button previous" href="{% link 3b_Ai-Masterclass.md %}">
-      Vorheriger Kurs
-    </a>
-    <a class="button" href="{% link 2_Projekte.md %}">
-      Projekte
-    </a>
+    <div class="bar">
+      <a class="button previous" href="{% link 3b_Ai-Masterclass.md %}">
+        Vorheriger Kurs
+      </a>
+      <a class="button" href="{% link 2_Projekte.md %}">
+        Projekte
+      </a>
+    </div>
   </div>
 </div>
