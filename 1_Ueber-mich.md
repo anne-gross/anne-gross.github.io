@@ -205,7 +205,7 @@ show_title: true
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h4>Miniaturwelten auf Knopfdruck – <br> unser gemeinsames Hobby</h4>
-		<p>Zusammen mit meinen Eltern baue ich kleine Miniatur-Welten, in denen es an jeder Ecke etwas zu entdecken gibt. Unser Herz schlägt für Modelleisenbahnen im Maßstab H0 – und seit Corona tüfteln wir besonders an kompakten Anlagen, die auf einer simplen OSB-Platte Platz finden und trotzdem jede Menge Charme versprühen. <br> Das Schönste daran? Die vielen liebevollen Details, versteckten Szenen und natürlich die Knöpfe, mit denen kleine wie große Besucher unsere Miniaturwelten zum Leben erwecken können. <br> Neugierig? Dann schau doch mal auf unserer Instagram-Seite vorbei und entdecke, was auf wenigen Quadratmetern alles möglich ist: <a href="https://www.instagram.com/grossmeiersmodellbahn/">@grossmeiersmodellbahn</a> </p>
+		<p>Zusammen mit meinen Eltern baue ich kleine Miniatur-Welten, in denen es an jeder Ecke etwas zu entdecken gibt. Unser Herz schlägt für Modelleisenbahnen im Maßstab H0 – und seit Corona tüfteln wir besonders an kompakten Anlagen, die auf einer simplen OSB-Platte Platz finden und trotzdem jede Menge Charme versprühen. <br> Das Schönste daran? Die vielen liebevollen Details, versteckten Szenen und natürlich die Knöpfe, mit denen kleine wie große Besucher unsere Miniaturwelten zum Leben erwecken können. <br> Neugierig? Dann schau doch mal auf unserer Instagram-Seite vorbei und entdecke, was auf wenigen Quadratmetern alles möglich ist: <a href="https://www.instagram.com/grossmeiersmodellbahn/" target="_blank_">@grossmeiersmodellbahn</a> </p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h4>Mein neues Geduldsprojekt – Perlenstickerei mit Suchtpotenzial</h4>
