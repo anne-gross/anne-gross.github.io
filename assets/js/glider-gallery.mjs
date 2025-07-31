@@ -1,5 +1,3 @@
-import { randomId } from "shared-kernel";
-
 import Glide from "@glidejs/glide";
 
 customElements.define(
@@ -12,7 +10,7 @@ customElements.define(
 );
 
 function createGallery() {
-  const lightboxId = this.getAttribute("lightbox-id") ?? randomId();
+  const lightboxId = this.getAttribute("lightbox-id");
   this.removeAttribute("lightbox-id");
   const perViewMax = this.getAttribute("per-view-max") ?? 4;
   const perViewXsmall = this.getAttribute("per-view-xsmall") ?? 2;//480
@@ -36,6 +34,8 @@ function createGallery() {
     },
   });
   glide.mount();
+
+  refreshFsLightbox();
 }
 
 function wrapGallery(images, lightboxId) {
@@ -69,11 +69,8 @@ function wrapImage(img, lightboxId) {
   const slide = document.createElement("li");
   slide.classList.add("glide__slide");
 
-  const title = img.getAttribute("title");
   const lightboxLink = document.createElement("a");
-  lightboxLink.setAttribute("data-lightbox", lightboxId);
-  if(title)
-    lightboxLink.setAttribute("data-title", title);
+  lightboxLink.setAttribute("data-fslightbox", lightboxId);
   lightboxLink.style = "border-bottom: none";
   lightboxLink.setAttribute("href", img.attributes["src"].value);
   lightboxLink.appendChild(img);
@@ -85,6 +82,7 @@ function wrapImage(img, lightboxId) {
 function createBullet(index) {
   const bullet = document.createElement("button");
   bullet.classList.add("glide__bullet");
+  bullet.setAttribute("data-fslightbox", `=${index}`);
 
   return bullet;
 }

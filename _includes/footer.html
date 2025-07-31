@@ -110,20 +110,10 @@
 		}
 	</script>
 	<!-- Masonry-gallery and plugins -->
-	<script src="{{ "assets/js/vendor/lightbox2.min.js" | relative_url }}"></script>
+	<script src="{{ "assets/js/vendor/fslightbox.min.js" | relative_url }}"></script>
 	<script src="{{ "assets/js/vendor/masonry.pkgd.min.js" | relative_url }}"></script>
 	<script src="{{ "assets/js/vendor/imagesloaded.pkgd.min.js" | relative_url }}"></script>
 
 	<script src="{{ "assets/js/masonry-gallery.mjs" | relative_url }}" type="module"></script>
 	<script src="{{ "assets/js/glider-gallery.mjs" | relative_url }}" type="module"></script>
 	<script src="{{ "assets/js/image-lightbox.mjs" | relative_url }}" type="module"></script>
-
-	<script>
-		window.addEventListener('DOMContentLoaded', function() {
-			lightbox.option({
-				'imageFadeDuration': 0,
-				showImageNumberLabel: false
-			});
-		});
-	</script>
-

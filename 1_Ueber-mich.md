@@ -25,7 +25,6 @@ show_title: true
   <glider-gallery lightbox-id="Ueber-mich" per-view-max="4">
     <img 
       alt="Persönliche Fotocollage von Crossmedia-Designerin Anne Gross: Reiseimpressionen vom Pyramidenkogel in Österreich 2022, einer Bootstour auf dem Hudson River in New York 2018, im Restaurant Szimpla Kertmozi in Budapest 2019 sowie ein professionelles Porträt im Homeoffice 2023." 
-      title="Persönliche Fotocollage"
       src="{% link /assets/images/1-Ueber-Mich/Anne-Collage-1-1200w.jpg %}" 
       srcset="
           {% link /assets/images/1-Ueber-Mich/Anne-Collage-1-100w.jpg %} 100w

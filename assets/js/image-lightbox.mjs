@@ -2,25 +2,24 @@ import { randomId } from "shared-kernel";
 
 customElements.define("image-lightbox", class extends HTMLElement {
     connectedCallback() {
-        document.addEventListener('DOMContentLoaded', createLightbox.bind(this));
+        imagesLoaded(this, createLightbox.bind(this));
     }
 });
 
 function createLightbox() {
     const img = this.querySelector("img");
     const lightboxId = this.getAttribute("lightbox-id") ?? randomId();
-    const title = img.getAttribute("title");
     this.removeAttribute("lightbox-id");
     
-    const lightboxLink = wrapImage(img, lightboxId, title);
+    const lightboxLink = wrapImage(img, lightboxId);
     this.appendChild(lightboxLink);
+
+    refreshFsLightbox();
 }
 
-function wrapImage(img, lightboxId, title) {
+function wrapImage(img, lightboxId) {
   const lightboxLink = document.createElement("a");
-  lightboxLink.setAttribute("data-lightbox", lightboxId);
-  if(title)
-    lightboxLink.setAttribute("data-title", title);
+  lightboxLink.setAttribute("data-fslightbox", lightboxId);
   lightboxLink.style = "border-bottom: none";
   lightboxLink.setAttribute("href", img.attributes["src"].value);
   lightboxLink.appendChild(img);

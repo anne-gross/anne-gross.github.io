@@ -34,7 +34,6 @@ nav-menu: true
 			<image-lightbox>
 				<img 
 					alt="Grafische Übersicht des Studienplans von Crossmedia-Designerin Anne Gross an der Online-Schule für Gestaltung: Abgeschlossene und geplante Kurse in Grafik-, Web- und UX/UI-Design." 
-					title="Grafische Übersicht des Studienplans"
 					src="{% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-1200w.jpg %}" 
 					srcset="
 							{% link /assets/images/3-OfG-Studium/Ziel_Kurse-OfG-400w.jpg %} 400w
