@@ -99,7 +99,7 @@ show_tile: false
   <!-- Four -->
   <section id="modul-2" class="anchor">
     <h2>Modul 2: Architektur - Perspektive im digitalen Raum</h2>
-    <p>In der zweiten Monatsaufgabe war eine ganzseitige Illustration zum Thema "Architektur" oder Science Finction" gewünscht. Meine Wahl fiel auf das Thema Architektur: ein Feld, das mich sowohl technisch als auch emotional begeistert. Der Umgang mit dem Perspektive-Werkzeug fiel mir anfangs sehr schwer. Um die Technik zu meistern, habe ich zunächst eine bestehende Grafik rekonstruiert – ein lehrreicher Zwischenschritt mit nachhaltigem Effekt. Weitere technische Tools wie die Erstellung von Symbolen und Mustern, die Verwendung von Pinsel/Tropfenpinseln und Rahmenformen, sowie 3D-Formen gehörten ebenfalls zu dieser Aufgabe.</p>
+    <p>In der zweiten Monatsaufgabe war eine ganzseitige Illustration zum Thema "Architektur" oder Science Fiction" gewünscht. Meine Wahl fiel auf das Thema Architektur: ein Feld, das mich sowohl technisch als auch emotional begeistert. Der Umgang mit dem Perspektive-Werkzeug fiel mir anfangs sehr schwer. Um die Technik zu meistern, habe ich zunächst eine bestehende Grafik rekonstruiert – ein lehrreicher Zwischenschritt mit nachhaltigem Effekt. Weitere technische Tools wie die Erstellung von Symbolen und Mustern, die Verwendung von Pinsel/Tropfenpinseln und Rahmenformen, sowie 3D-Formen gehörten ebenfalls zu dieser Aufgabe.</p>
     <h3 style="text-align: left;">Meine zwei Konzepte:</h3>
     <image-compare class="image image__center" data-position="center center">
         <img 
