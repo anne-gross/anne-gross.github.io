@@ -55,44 +55,35 @@ show_tile: false
   <section id="modul-1" class="anchor">
     <h2>Modul 1: Bildmotiv und Bildmontage</h2>
     <p>Im Rahmen der ersten Monatsaufgabe entstand ein digitaler Stadtplanausschnitt, der zeigt, wie kreative Gestaltung und technische Präzision ineinandergreifen. Ziel war es, eine flexible Grundgrafik zu entwickeln, die sich durch gezielten Einsatz von Ebenen in die zwei verschiedenen Stilrichtungen übersetzen lässt. Die Gestaltung basiert also auf einer einzigen, präzise aufgebauten Illustrator-Datei mit klar getrennten Ebenen. So lassen sich unterschiedliche Varianten schnell und effizient durch das ein- bzw. ausblenden von Ebenen visualieren. Zum Einsatz kamen hier Tools wie der Pathfinder und andere Formerstellungsmethoden, das Arbeiten mit Ebenen und Schnittmasken, die Verwendung von Farbverläufen und Texteffekten, sowie Verzerrungs-Werkzeuge. Gestaltung die Orientierung schafft - vielseitig, technisch gut umsetzbar und mit Blick fürs Detail.</p>
-    <h3 style="text-align: left;">Meine zwei Umsetzungen:</h3>
+    <h3 style="text-align: left;">Mein Bildmotiv: Die Burg von Buda</h3>
+    <p>Text über Bildbearbeitung</p>
     <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
           alt="Künstlerischer Stadtplan von Rollwald mit Graffiti-Typografie und farbiger Flächenbetonung – Teil eines kreativen Mapping-Projekts." 
-          src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %}"
+          src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-1200w.jpg %}"
           srcset="
-            {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-1200w.jpg %} 1200w
           "
           sizes="50vw"
         />
         <img 
           slot="image-2" 
           alt="Illustrative Stadtkarte von Rollwald mit Icons für wichtige Orte wie Kirche, Schule und Bahnhof – visuelle Informationsgestaltung mit lokalem Bezug." 
-          src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %}"
+          src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-1200w.jpg %}"
           srcset="
-            {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-1200w.jpg %} 1200w
           "
           sizes="50vw"
         />
     </image-compare>
-    <div class="row">
-      <div class="6u 12u$(medium)">
-        <h4>Variante 1 – Street Art Look:</h4>
-        <p>Ein farbenfroher, dynamischer Stadtplan mit lebendigen Strukturen. Durch den Einsatz von Verzerrungswerkzeugen, individuellen Pfadbearbeitungen und Farbverläufen entsteht ein moderner, urbaner Look, inspiriert vom Street Art-Stil.</p>
-      </div>
-      <div class="6u 12u$(medium)">
-        <h4>Variante 2 – Klar & Informativ:</h4>
-        <p>Minimalistisch, strukturiert, funktional. Die Karte fokussiert auf eine saubere Darstellung mit Icons, Legende und gezielten Hervorhebungen durch dezente Flächen und Linienmuster – für maximale Übersichtlichkeit.</p>
-      </div>
-    </div>
-  </section>
+</section>
 
   <hr />
 
@@ -100,43 +91,34 @@ show_tile: false
   <section id="modul-2" class="anchor">
     <h2>Modul 2: Retusche, Optimierung und Look</h2>
     <p>In der zweiten Monatsaufgabe war eine ganzseitige Illustration zum Thema "Architektur" oder Science Finction" gewünscht. Meine Wahl fiel auf das Thema Architektur: ein Feld, das mich sowohl technisch als auch emotional begeistert. Der Umgang mit dem Perspektive-Werkzeug fiel mir anfangs sehr schwer. Um die Technik zu meistern, habe ich zunächst eine bestehende Grafik rekonstruiert – ein lehrreicher Zwischenschritt mit nachhaltigem Effekt. Weitere technische Tools wie die Erstellung von Symbolen und Mustern, die Verwendung von Pinsel/Tropfenpinseln und Rahmenformen, sowie 3D-Formen gehörten ebenfalls zu dieser Aufgabe.</p>
-    <h3 style="text-align: left;">Meine zwei Konzepte:</h3>
+    <h3 style="text-align: left;">Meine Retusche: Ein Bild von mir</h3>
+    <p>Text zur Bildbearbeitung</p>
     <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
           alt="Illustratives Plakat für eine Architektur-Ausstellung im Museumsquartier Wien – grafische Darstellung eines modernen Gebäudes in Grüntönen." 
-          src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %}"
+          src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-1200w.jpg %}"
           srcset="
-            {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-1200w.jpg %} 1200w
           "
           sizes="40vw"
         />
         <img 
           slot="image-2" 
           alt="Poster einer futuristischen Ausstellung im Wien Space Science Center – verspielte Typografie und Sci-Fi-Gebäudedesign als visuelle Konzeption." 
-          src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %}"
+          src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-1200w.jpg %}"
           srcset="
-            {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-100w.jpg %} 100w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-400w.jpg %} 400w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-800w.jpg %} 800w
+            , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-1200w.jpg %} 1200w
           "
           sizes="40vw"
         />
     </image-compare>
-    <div class="row">
-      <div class="6u 12u$(medium)">
-        <h4>Variante 1 – Architektur Ausstellung:</h4>
-        <p>Ein stilisiertes Hochhaus, gebaut aus perspektivisch eingesetzten Symbolen und mit Tiefe durch gezielte Schattensetzung. Der Text wurde technisch sauber ins perspektivische Raster integriert. Das gesamte Bild wurde durch einen Rahmen akzentuiert, welcher durch das Symbol-Aufsprühen-Werkzeug nochmal Struktur bekam.</p>
-      </div>
-      <div class="6u 12u$(medium)">
-        <h4>Variante 2 – Space Exhibition:</h4>
-        <p>Hier trifft Architektur auf Kosmos. Ankerpunkt blieb das stiliserte Hochhaus im Zentrum des Bildes. Mit einer eigens erstellten Musterbordüre aus Halb- und Vollmonden sowie zwei 3D-Objekten (Saturn & Halbmond) wurde das Ganze visuell ins Weltall katapultiert. Die Typografie folgt der Raumtiefe – um die Ecke gedacht, im wahrsten Sinne.</p>
-      </div>
-    </div>
   </section>
 
   <hr />
@@ -145,43 +127,8 @@ show_tile: false
   <section id="modul-3" class="anchor">
     <h2>Modul 3: Composing</h2>
     <p>In der dritten und letzten Monatsaufgabe drehte sich alles um die Themen „Bewegung“ oder „Dynamik“ – interpretiert durch digitale Illustration, kreative Verzerrung und den geschickten Einsatz von Masken, Pinseln und Effekten. Meine Idee zur Umsetzung waren technische Zeichnungen im Stil von Blaupausen bzw. auf Millimeterpapier – wo Bewegung durch Präzision, Linienführung und Komposition spürbar wird. Weitere verwendete Werkzeuge waren hier u.a. Grafikstile, Verzerrungs- & Transformationsfilter, Formgitter & Verkrümmungen, der Bildnachzeichner und Deckkraftmasken.</p>
-    <h3 style="text-align: left;">Meine zwei Realisierungen:</h3>
-    <image-compare class="image" data-position="center center">
-        <img 
-          slot="image-1" 
-          alt="Blueprint-Illustration eines Fiat 1600S Cabriolet mit technischen Skizzen und Designstudien – visuelle Hommage an Oldtimer-Ästhetik." 
-          src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %}"
-          srcset="
-            {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %} 1200w
-          "
-          sizes="90vw"
-        />
-        <img 
-          slot="image-2" 
-          alt="Illustration auf Millimeterpapier eines Oldtimers mit Bleistift, Kaffeetasse und Skizzen – Projekt zur Verbindung von analogem Arbeiten und digitalem Design." 
-          src="{% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %}"
-          srcset="
-            {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-100w.jpg %} 100w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-400w.jpg %} 400w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-800w.jpg %} 800w
-            , {% link /assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %} 1200w
-          "
-          sizes="90vw"
-        />
-    </image-compare>
-    <div class="row">
-      <div class="6u 12u$(medium)">
-        <h4>Variante 1 – Blaupause mit Charakter:</h4>
-        <p>Eine Oldtimer-Zeichnung – frontal und seitlich – wird zum Träger der Bewegung. Die Formsprache lebt von einem selbst konstruierten Gittermuster, vektorisierten Reifenspuren und illustrativen Schraffuren mit Kohlepinsel. Typografie und Effekte sind eine Mischung aus „Scribble“, Verzerrungsfilter und einem selbst gestalteten Buchstaben-Pinsel, welche dem Schriftzug einen skizzenhaften Charme verleihen. Als zusätzliches Detail wurde ein fotografiertes Modellauto mit Pfaden vektorisiert und per Deckkraftmaske ins Bild integriert.</p>
-      </div>
-      <div class="6u 12u$(medium)">
-        <h4>Variante 2 – Millimeterpapier mit Kaffeeflecken:</h4>
-        <p>Die zweite Illustration ist eine Hommage an analoge Skizzenarbeit. Ein Millimeterpapier mit selbst gemaltem digitalem Gitter, umrahmt von Bleistift- und Fineliner-Optik, welche den Reiz eines solch ehrwürdigen Rohentwurfs verdeutlichen sollen. Die Typografie erinnert an verschmierte Graphit-Schraffuren, ergänzt mit roten Markierungen à la Fine-Liner. Über dem Zeichenblatt liegen illustrative Bilder echter Stifte, ergänzt durch symbolische Kaffeeflecken und der obligatorischen Kaffeetasse – für ein Augenzwinkern inmitten technischer Genauigkeit. </p>
-      </div>
-    </div>
+    <h3 style="text-align: left;">Aus zwei Bildern wird eins:</h3>
+    <p>Text zur Bildbearbeitung</p>
   </section>
 <hr>
 
