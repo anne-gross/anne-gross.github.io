@@ -15,7 +15,7 @@ show_tile: false
 
   <!-- One -->
   <section id="Einleitung Ps-Masterclass">
-    <p>Nun bin ich bereits in meinem dritten OfG-Kurs, frei nach dem Motto: Bilden, bearbeiten, begeistern - mein Weg zur Bildbearbeitung. Die drei Module waren erneut intensiv und vielseitig: von den Grundlagen der Bildebarbeitung mit Tonwertkorrekturen, Gradationskurven und Selektiver Farbauswahl, über Maskieren und Ebenenstile, bis hin zur Retusche, Freistellen und finalen Composing. Die Techniken wurden anhand vieler anschaulicher Beispielbilder erklärt, sodass man wie gewohnt alles direkt am eigenen Bildschirm nachvollziehen und üben konnte. Besonders die Modulaufgaben waren eine wertvolle Gelegenheit, das frisch erlernte Wissen praktisch umzusetzen und zu vertiefen. </p>
+    <p>Nun bin ich bereits in meinem dritten OfG-Kurs - der Photoshop Masterclass. Und diesmal ging es frei nach dem Motto: Bilden, bearbeiten, begeistern - mein Weg zur Bildbearbeitung. Die drei Module waren erneut intensiv und vielseitig: von den Grundlagen der Bildebarbeitung mit Tonwertkorrekturen, Gradationskurven und Selektiver Farbauswahl, über Maskieren und Ebenenstile, bis hin zur Retusche, Freistellen und finalen Composing. Die Techniken wurden anhand vieler anschaulicher Beispielbilder erklärt, sodass man wie gewohnt alles direkt am eigenen Bildschirm nachvollziehen und üben konnte. Besonders die Modulaufgaben waren eine wertvolle Gelegenheit, das frisch erlernte Wissen praktisch umzusetzen und zu vertiefen. </p>
     <p>Auch wenn Photoshop wohl nie zu meinem Lieblingsprogramm innerhalb der Adobe-Welt wird, fasziniert mich immer wieder aufs Neue, welche kreativen Möglichkeiten die Bildbearbeitung eröffnet. Die Masterclass war für mich wieder ein weiterer wichtiger Meilenstein auf meinem Weg zum Crossmedia-Designer!</p>
   </section>
 
@@ -24,7 +24,7 @@ show_tile: false
     <article class="style1">
       <span class="image">
         <img alt="Modul 1: Teilausschnitt eines stilisierten Stadtplans – Projektvorschau für kreative Kartografie im Portfolio."
-          src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01-375w.jpg" >
+          src="assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01-375w.jpg" >
       </span>
       <a href="#modul-1">
         <h2>Bildmotiv & Bildmontage</h2>
@@ -33,7 +33,7 @@ show_tile: false
     <article class="style2">
       <span class="image">
         <img alt="Modul 2: Vignette mit Architekturzeichnung und Hand – Fokus auf Entwurfsprozesse und Skizzentechniken im Architekturkontext."
-          src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02-375w.jpg" >
+          src="assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02-375w.jpg" >
       </span>
       <a href="#modul-2">
         <h2>Retusche & Look</h2>
@@ -42,7 +42,7 @@ show_tile: false
     <article class="style3">
       <span class="image">
         <img alt="Modul 3: Vignette mit Lichtspur-Foto auf Straße – Symbol für Dynamik und Mobilität im Designprojekt."
-          src="assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03-375w.jpg" >
+          src="assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03-375w.jpg" >
       </span>
       <a href="#modul-3">
         <h2>Composing</h2>
@@ -53,7 +53,7 @@ show_tile: false
 
 <!-- Three -->
   <section id="modul-1" class="anchor">
-    <h2>Modul 1: Stadtplan – Illustrator trifft Orientierung</h2>
+    <h2>Modul 1: Bildmotiv und Bildmontage</h2>
     <p>Im Rahmen der ersten Monatsaufgabe entstand ein digitaler Stadtplanausschnitt, der zeigt, wie kreative Gestaltung und technische Präzision ineinandergreifen. Ziel war es, eine flexible Grundgrafik zu entwickeln, die sich durch gezielten Einsatz von Ebenen in die zwei verschiedenen Stilrichtungen übersetzen lässt. Die Gestaltung basiert also auf einer einzigen, präzise aufgebauten Illustrator-Datei mit klar getrennten Ebenen. So lassen sich unterschiedliche Varianten schnell und effizient durch das ein- bzw. ausblenden von Ebenen visualieren. Zum Einsatz kamen hier Tools wie der Pathfinder und andere Formerstellungsmethoden, das Arbeiten mit Ebenen und Schnittmasken, die Verwendung von Farbverläufen und Texteffekten, sowie Verzerrungs-Werkzeuge. Gestaltung die Orientierung schafft - vielseitig, technisch gut umsetzbar und mit Blick fürs Detail.</p>
     <h3 style="text-align: left;">Meine zwei Umsetzungen:</h3>
     <image-compare class="image image__center" data-position="center center">
@@ -98,7 +98,7 @@ show_tile: false
 
   <!-- Four -->
   <section id="modul-2" class="anchor">
-    <h2>Modul 2: Architektur - Perspektive im digitalen Raum</h2>
+    <h2>Modul 2: Retusche, Optimierung und Look</h2>
     <p>In der zweiten Monatsaufgabe war eine ganzseitige Illustration zum Thema "Architektur" oder Science Finction" gewünscht. Meine Wahl fiel auf das Thema Architektur: ein Feld, das mich sowohl technisch als auch emotional begeistert. Der Umgang mit dem Perspektive-Werkzeug fiel mir anfangs sehr schwer. Um die Technik zu meistern, habe ich zunächst eine bestehende Grafik rekonstruiert – ein lehrreicher Zwischenschritt mit nachhaltigem Effekt. Weitere technische Tools wie die Erstellung von Symbolen und Mustern, die Verwendung von Pinsel/Tropfenpinseln und Rahmenformen, sowie 3D-Formen gehörten ebenfalls zu dieser Aufgabe.</p>
     <h3 style="text-align: left;">Meine zwei Konzepte:</h3>
     <image-compare class="image image__center" data-position="center center">
@@ -143,7 +143,7 @@ show_tile: false
 
   <!-- Five -->
   <section id="modul-3" class="anchor">
-    <h2>Modul 3: Bewegung – technisches Zeichnen mit Vektor-Drive</h2>
+    <h2>Modul 3: Composing</h2>
     <p>In der dritten und letzten Monatsaufgabe drehte sich alles um die Themen „Bewegung“ oder „Dynamik“ – interpretiert durch digitale Illustration, kreative Verzerrung und den geschickten Einsatz von Masken, Pinseln und Effekten. Meine Idee zur Umsetzung waren technische Zeichnungen im Stil von Blaupausen bzw. auf Millimeterpapier – wo Bewegung durch Präzision, Linienführung und Komposition spürbar wird. Weitere verwendete Werkzeuge waren hier u.a. Grafikstile, Verzerrungs- & Transformationsfilter, Formgitter & Verkrümmungen, der Bildnachzeichner und Deckkraftmasken.</p>
     <h3 style="text-align: left;">Meine zwei Realisierungen:</h3>
     <image-compare class="image" data-position="center center">
