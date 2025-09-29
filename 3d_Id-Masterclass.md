@@ -15,7 +15,7 @@ show_tile: false
 
   <!-- One -->
   <section id="Einleitung Id-Masterclass">
-    <p>Weiter geht es mit der letzten der drei Masterclasses bei der OfG - InDesign. Auf die habe ich mich richtig gefreut, eventuell da InDesign mir bisher immer am meisten Spaß gemacht hat.</p>
+    <p>Weiter geht es mit der letzten der drei Masterclasses bei der OfG - Adobe InDesign. Auf die habe ich mich richtig gefreut, eventuell da InDesign mir bisher immer am meisten Spaß gemacht hat.</p>
   </section>
 
   <!-- Two -->
