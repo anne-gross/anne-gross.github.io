@@ -47,6 +47,7 @@ nav-menu: true
 			<hr class="major" />
 		</section>
 <!-- Two -->
+<!-- Two 1-->
 		<section id="two" class="spotlights">
 			<section>
 				<a href="{% link 3a_Grundlagen-Grafiksoftware.md %}" class="image">
@@ -73,6 +74,7 @@ nav-menu: true
 					</div>
 				</div>
 			</section>
+<!-- Two 2 -->
 			<section>
 				<a href="{% link 3b_Ai-Masterclass.md %}" class="image">
 					<img alt="Bild vom 'Illustrator Masterclass mit offizieller ZFU-Zulassung – lernen, Vektorgrafiken und Logos professionell zu gestalten' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch.."
@@ -97,6 +99,7 @@ nav-menu: true
 					</div>
 				</div>
 			</section>
+<!-- Two 3 -->
 			<section>
 				<a href="{% link 3c_Ps-Masterclass.md %}" class="image">
 					<img 
@@ -118,6 +121,31 @@ nav-menu: true
 						<p>Tiefergehende Kenntnisse und spezielle Fähigkeiten für Adobe Photoshop</p>
 						<ul class="actions">
 							<li><a href="{% link 3c_Ps-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
+						</ul>
+					</div>
+				</div>
+			</section>
+<!-- Two 4 -->
+		<section>
+				<a href="{% link 3d_Id-Masterclass.md %}" class="image">
+					<img alt="Bild vom 'InDesign Masterclass mit offizieller ZFU-Zulassung – lernen, Layouts und Druckdaten professionell zu gestalten' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch.."
+						src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/4_Kursbild-InDesign-1200w.jpg %}" 
+						srcset="
+							{% link /assets/images/3-OfG-Studium/0_Kursbilder/4_Kursbild-InDesign-400w.jpg %} 400w
+							, {% link /assets/images/3-OfG-Studium/0_Kursbilder/4_Kursbild-InDesign-800w.jpg %} 800w
+							, {% link /assets/images/3-OfG-Studium/0_Kursbilder/4_Kursbild-InDesign-1200w.jpg %} 1200w
+						"
+						sizes="33vw"
+						data-position="top center"/>
+				</a>
+				<div class="content">
+					<div class="inner">
+						<header class="major">
+							<h3>Adobe InDesign Masterclass</h3>
+						</header>
+						<p>Tiefergehende Kenntnisse und spezielle Fähigkeiten für Adobe InDesign</p>
+						<ul class="actions">
+							<li> <a href="{% link 3d_Id-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
 					</div>
 				</div>
