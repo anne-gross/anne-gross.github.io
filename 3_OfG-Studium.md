@@ -65,7 +65,7 @@ nav-menu: true
 				<div class="content">
 					<div class="inner">
 						<header class="major">
-							<h4>Grundlagen Grafiksoftware</h4>
+							<h3>Grundlagen Grafiksoftware</h3>
 						</header>
 						<p>Grundlegenden Kenntnisse der drei großen Adobe-Programmen Photoshop, Illustrator und InDesign</p>
 						<ul class="actions">
