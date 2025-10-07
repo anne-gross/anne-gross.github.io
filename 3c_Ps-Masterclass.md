@@ -54,13 +54,13 @@ show_tile: false
 <!-- Three -->
   <section id="modul-1" class="anchor">
     <h2>Modul 1: Bildmotiv und Bildmontage</h2>
-    <p>Für das erste Modul wurden zwei Teilaufgaben gefordert: zum einen musste eine Bildoptimierung eines selbst fotografierten Motivs durchgeführt werden. Dazu gehörten z.B. eine Farbkorrektur, Kontrast- und Belichtungs-Optimierungen und mindestens eine Korrektur mit Hilfe einer Bereichs-Maske. Außerdem musste eine einfach Bildmontage angefertigt werden. Dazu musste ein Objekt sauber freigestellt und mit passendem Größen- und Lichtverhältnissen in ein zweites Foto montiert werden.</p>
+    <p>Für das erste Modul wurden zwei Teilaufgaben gefordert: zum einen musste eine Bildoptimierung eines selbst fotografierten Motivs durchgeführt werden. Dazu gehörten z.B. eine Farbkorrektur, Kontrast- und Belichtungs-Optimierungen und mindestens eine Korrektur mit Hilfe einer Bereichs-Maske. Außerdem musste eine einfache Bildmontage angefertigt werden. Dazu musste ein Objekt sauber freigestellt und mit passendem Größen- und Lichtverhältnissen in ein zweites Foto montiert werden.</p>
     <h3 style="text-align: left;">Mein Bildmotiv: Die Burg von Buda</h3>
-    <p>In der ersten Aufgabe stand die Optimierung eines selbst fotografierten Motivs im Mittelpunkt. Ziel war es, das Bild durch gezielte Anpassungen in Farbe, Kontrast und Belichtung zu verbessern und mithilfe einer Bereichsmaske präzise Korrekturen vorzunehmen. Mein gewähltes Motiv zeigt die Burg von Buda in Budapest. Ausgehend von meinem Ausgangsfoto habe ich zunächst die Grundwerte angepasst, um mehr Tiefe und Dynamik zu erzeugen. Anschließend habe ich mit einer Maske bestimmte Bereiche gezielt aufgehellt. Das Ergebnis wirkt nun ausgewogener in der Belichtung und hat eine deutlich lebendigere Bildwirkung. Auf den ersten Blick sieht man den Unterschied hier nicht sofort, verwende den Schieberegler um beide Bilder im Vergleich zu sehen.</p>
+    <p>In der ersten Aufgabe stand die Optimierung eines selbst fotografierten Motivs im Mittelpunkt. Ziel war es, das Bild durch gezielte Anpassungen in Farbe, Kontrast und Belichtung zu verbessern und mithilfe einer Bereichsmaske präzise Korrekturen vorzunehmen. Mein gewähltes Motiv zeigt die Burg von Buda in Budapest. Ausgehend von meinem Ausgangsfoto habe ich zunächst die Grundwerte angepasst, um mehr Tiefe und Dynamik zu erzeugen. Anschließend habe ich mit einer Maske den Himmel gezielt mit etwas mehr Kontrast versehen. Das Ergebnis wirkt nun ausgewogener in der Belichtung und hat eine deutlich lebendigere Bildwirkung, was vor allem in dem satteren Grün der Bäume herauskommt. Auf den ersten Blick sieht man den Unterschied hier nicht sofort, verwende den Schieberegler um beide Bilder im direkten Vergleich zu sehen. Links befindet sich die Original-Aufnahme und rechts das überarbeitete Bildmotiv.</p>
     <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
-          alt="Künstlerischer Stadtplan von Rollwald mit Graffiti-Typografie und farbiger Flächenbetonung – Teil eines kreativen Mapping-Projekts." 
+          alt="Original Aufnahme aus Budapest zeigt die Burg von Buda von Weitem mit der Donau im Vordergrund" 
           src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-100w.jpg %} 100w
@@ -72,7 +72,7 @@ show_tile: false
         />
         <img 
           slot="image-2" 
-          alt="Illustrative Stadtkarte von Rollwald mit Icons für wichtige Orte wie Kirche, Schule und Bahnhof – visuelle Informationsgestaltung mit lokalem Bezug." 
+          alt="Überarbeitete Aufnahme der Burg von Buda mit Tonwertkorrekturen und Belichtungs-Optimierungen." 
           src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-100w.jpg %} 100w
@@ -90,13 +90,13 @@ show_tile: false
   <!-- Four -->
   <section id="modul-2" class="anchor">
     <h2>Modul 2: Retusche, Optimierung und Look</h2>
-    <p>In der zweiten Monatsaufgabe war eine ganzseitige Illustration zum Thema "Architektur" oder Science Finction" gewünscht. Meine Wahl fiel auf das Thema Architektur: ein Feld, das mich sowohl technisch als auch emotional begeistert. Der Umgang mit dem Perspektive-Werkzeug fiel mir anfangs sehr schwer. Um die Technik zu meistern, habe ich zunächst eine bestehende Grafik rekonstruiert – ein lehrreicher Zwischenschritt mit nachhaltigem Effekt. Weitere technische Tools wie die Erstellung von Symbolen und Mustern, die Verwendung von Pinsel/Tropfenpinseln und Rahmenformen, sowie 3D-Formen gehörten ebenfalls zu dieser Aufgabe.</p>
-    <h3 style="text-align: left;">Meine Retusche: Ein Bild von mir</h3>
-    <p>Text zur Bildbearbeitung</p>
+    <p>Im zweiten Modul waren ebenfalls zwei Teilaufgaben gefragt. Es war eine Bearbeitung und Retusche eines Portraitfotos gefordert. Dazu zählten u.a. die Entfernen störender Bildbereiche und die Retusche des Bildes mit deutlichen Verbesserungen. Als zweite Aufgabe fiel meine Wahl auf die konzeptionelle Umsetzung. Schon während des Durcharbeiten der Theorie fand ich die Erstellung eines alten Polaroid-Bildes sehr spannend.</p>
+    <h3 style="text-align: left;">Meine Retusche: Ein Portraitbild von mir</h3>
+    <p>Bei meiner ersten Retusche wollte ich mich behutsam an das Thema herantasten und bewusst einen natürlichen Look beibehalten. Das verwendete Foto stammt von einem Vorher-Bild, das meine Kosmetikerin für ein Babybauch-Shooting aufgenommen hatte. Durch den angepassten Weißabgleich und gezielte selektive Farbkorrekturen konnte ich den leichten Gelbstich neutralisieren. Zudem wurden kleine Fusseln auf dem schwarzen T-Shirt entfernt und mithilfe verschiedener Filter Haut und Gesichtspartien dezent optimiert. Besonders gelungen finde ich den natürlichen, harmonischen Farbton der Lippen. Hier könnt ihr wieder den Schieberegler verwenden um den direkten Vergleich zu haben: links die Original-Aufnahme und rechts das retuschierte Bild.</p>
     <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
-          alt="Illustratives Plakat für eine Architektur-Ausstellung im Museumsquartier Wien – grafische Darstellung eines modernen Gebäudes in Grüntönen." 
+          alt="Ein frontales Portrait von mir selbst vor einer weißen Wand mit beigen Farn rechts hinter dem Modell." 
           src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-100w.jpg %} 100w
@@ -108,7 +108,7 @@ show_tile: false
         />
         <img 
           slot="image-2" 
-          alt="Poster einer futuristischen Ausstellung im Wien Space Science Center – verspielte Typografie und Sci-Fi-Gebäudedesign als visuelle Konzeption." 
+          alt="Das gleiche Portraitbild von mir nach der Retusche. Bildoptimierungen mit Weißabgleich, Selektiver Farbwahl und Gesichtsretusche mit verschiedenen Filtern und Masken." 
           src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-1200w.jpg %}"
           srcset="
             {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-100w.jpg %} 100w
