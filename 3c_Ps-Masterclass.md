@@ -15,7 +15,7 @@ show_tile: false
 
   <!-- One -->
   <section id="Einleitung Ps-Masterclass">
-    <p>Nun bin ich bereits in meinem dritten OfG-Kurs - der Photoshop Masterclass. Und diesmal ging es frei nach dem Motto: Bilden, bearbeiten, begeistern - mein Weg zur Bildbearbeitung. Die drei Module waren erneut intensiv und vielseitig: von den Grundlagen der Bildebarbeitung mit Tonwertkorrekturen, Gradationskurven und Selektiver Farbauswahl, über Maskieren und Ebenenstile, bis hin zur Retusche, Freistellen und finalen Composing. Die Techniken wurden anhand vieler anschaulicher Beispielbilder erklärt, sodass man wie gewohnt alles direkt am eigenen Bildschirm nachvollziehen und üben konnte. Besonders die Modulaufgaben waren eine wertvolle Gelegenheit, das frisch erlernte Wissen praktisch umzusetzen und zu vertiefen. </p>
+    <p>Nun bin ich bereits in meinem dritten OfG-Kurs, der Adobe Photoshop Masterclass, angekommen. Und diesmal ging es frei nach dem Motto: Bilden, bearbeiten, begeistern - mein Weg zur Bildbearbeitung. Die drei Module waren erneut intensiv und vielseitig: von den Grundlagen der Bildebarbeitung mit Tonwertkorrekturen, Gradationskurven und Selektiver Farbauswahl, über Maskieren und Ebenenstile, bis hin zur Retusche, Freistellen und finalen Composing. Die Techniken wurden anhand vieler anschaulicher Beispielbilder erklärt, sodass man wie gewohnt alles direkt am eigenen Bildschirm nachvollziehen und üben konnte. Besonders die Modulaufgaben waren eine wertvolle Gelegenheit, das frisch erlernte Wissen praktisch umzusetzen und zu vertiefen. </p>
     <p>Auch wenn Photoshop wohl nie zu meinem Lieblingsprogramm innerhalb der Adobe-Welt wird, fasziniert mich immer wieder aufs Neue, welche kreativen Möglichkeiten die Bildbearbeitung eröffnet. Die Masterclass war für mich wieder ein weiterer wichtiger Meilenstein auf meinem Weg zum Crossmedia-Designer!</p>
   </section>
 
@@ -23,7 +23,7 @@ show_tile: false
   <section class="bricks">
     <article class="style1">
       <span class="image">
-        <img alt="Modul 1: Teilausschnitt eines stilisierten Stadtplans – Projektvorschau für kreative Kartografie im Portfolio."
+        <img alt="Modul 1: Person arbeitet am Computer mit Photoshop-Benutzeroberfläche"
           src="assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01-375w.jpg" >
       </span>
       <a href="#modul-1">
@@ -32,7 +32,7 @@ show_tile: false
     </article>
     <article class="style2">
       <span class="image">
-        <img alt="Modul 2: Vignette mit Architekturzeichnung und Hand – Fokus auf Entwurfsprozesse und Skizzentechniken im Architekturkontext."
+        <img alt="Modul 2: Designerin arbeitet mit Grafiktablett an Modefotos auf dem Bildschirm"
           src="assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02-375w.jpg" >
       </span>
       <a href="#modul-2">
@@ -41,7 +41,7 @@ show_tile: false
     </article>
     <article class="style3">
       <span class="image">
-        <img alt="Modul 3: Vignette mit Lichtspur-Foto auf Straße – Symbol für Dynamik und Mobilität im Designprojekt."
+        <img alt="Modul 3: Kreativer Arbeitsplatz mit Monitoren und Bildbearbeitungssoftware im Dunkeln"
           src="assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03-375w.jpg" >
       </span>
       <a href="#modul-3">
@@ -54,9 +54,9 @@ show_tile: false
 <!-- Three -->
   <section id="modul-1" class="anchor">
     <h2>Modul 1: Bildmotiv und Bildmontage</h2>
-    <p>Im Rahmen der ersten Monatsaufgabe entstand ein digitaler Stadtplanausschnitt, der zeigt, wie kreative Gestaltung und technische Präzision ineinandergreifen. Ziel war es, eine flexible Grundgrafik zu entwickeln, die sich durch gezielten Einsatz von Ebenen in die zwei verschiedenen Stilrichtungen übersetzen lässt. Die Gestaltung basiert also auf einer einzigen, präzise aufgebauten Illustrator-Datei mit klar getrennten Ebenen. So lassen sich unterschiedliche Varianten schnell und effizient durch das ein- bzw. ausblenden von Ebenen visualieren. Zum Einsatz kamen hier Tools wie der Pathfinder und andere Formerstellungsmethoden, das Arbeiten mit Ebenen und Schnittmasken, die Verwendung von Farbverläufen und Texteffekten, sowie Verzerrungs-Werkzeuge. Gestaltung die Orientierung schafft - vielseitig, technisch gut umsetzbar und mit Blick fürs Detail.</p>
+    <p>Für das erste Modul wurden zwei Teilaufgaben gefordert: zum einen musste eine Bildoptimierung eines selbst fotografierten Motivs durchgeführt werden. Dazu gehörten z.B. eine Farbkorrektur, Kontrast- und Belichtungs-Optimierungen und mindestens eine Korrektur mit Hilfe einer Bereichs-Maske. Außerdem musste eine einfach Bildmontage angefertigt werden. Dazu musste ein Objekt sauber freigestellt und mit passendem Größen- und Lichtverhältnissen in ein zweites Foto montiert werden.</p>
     <h3 style="text-align: left;">Mein Bildmotiv: Die Burg von Buda</h3>
-    <p>Text über Bildbearbeitung</p>
+    <p>In der ersten Aufgabe stand die Optimierung eines selbst fotografierten Motivs im Mittelpunkt. Ziel war es, das Bild durch gezielte Anpassungen in Farbe, Kontrast und Belichtung zu verbessern und mithilfe einer Bereichsmaske präzise Korrekturen vorzunehmen. Mein gewähltes Motiv zeigt die Burg von Buda in Budapest. Ausgehend von meinem Ausgangsfoto habe ich zunächst die Grundwerte angepasst, um mehr Tiefe und Dynamik zu erzeugen. Anschließend habe ich mit einer Maske bestimmte Bereiche gezielt aufgehellt. Das Ergebnis wirkt nun ausgewogener in der Belichtung und hat eine deutlich lebendigere Bildwirkung. Auf den ersten Blick sieht man den Unterschied hier nicht sofort, verwende den Schieberegler um beide Bilder im Vergleich zu sehen.</p>
     <image-compare class="image image__center" data-position="center center">
         <img 
           slot="image-1" 
