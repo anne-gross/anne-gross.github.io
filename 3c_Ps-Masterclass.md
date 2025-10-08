@@ -1,11 +1,11 @@
 ---
 title: Adobe Photoshop Masterclass
 layout: landing
-description: 
-image-400w: /assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-400w.jpg
-image-800w: /assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-800w.jpg
-image-1200w: /assets/images/3-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-1200w.jpg
-image-alt: FooBlubb
+description: 'Feinretusche und Composing – Digitale Gestaltung mit Ausdruck'
+image-400w: /assets/images/3-OfG-Studium/3_Ps-Masterclass/Title-Ps-Masterclass-400w.jpg
+image-800w: /assets/images/3-OfG-Studium/3_Ps-Masterclass/Title-Ps-Masterclass-800w.jpg
+image-1200w: /assets/images/3-OfG-Studium/3_Ps-Masterclass/Title-Ps-Masterclass-1200w.jpg
+image-alt: "Titelbild der Photoshop Masterclass: Fotoretusche und Farbkorrekturen an zwei großen Monitoren – Entstehung neuer Fotoideen in der digitalen Bildbearbeitung."
 nav-menu: false
 show_tile: false
 ---
