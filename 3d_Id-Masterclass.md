@@ -5,7 +5,7 @@ description: 'Präzision im Detail – Gestaltung mit Typografie und Raster'
 image-400w: /assets/images/3-OfG-Studium/4_Id-Masterclass/Title-Id-Masterclass-400w.jpg
 image-800w: /assets/images/3-OfG-Studium/4_Id-Masterclass/Title-Id-Masterclass-800w.jpg
 image-1200w: /assets/images/3-OfG-Studium/4_Id-Masterclass/Title-Id-Masterclass-1200w.jpg
-alt-image: "Titelgrafik der AI-Masterclass mit verschiedenen Designprojekten – visuelle Vorschau auf modulare Kreativarbeiten im digitalen Portfolio."
+alt-image: "Titelgrafik der InDesign Masterclass: Arbeitsplatz eines typischen InDesign Grafikers mit typografischen Illustrationen und einem Grid-Muster auf dem Laptop-Bildschirm."
 nav-menu: false
 show_tile: false
 ---
