@@ -83,7 +83,23 @@ show_tile: false
           sizes="50vw"
         />
     </image-compare>
-</section>
+    <h3 style="text-align: left;">Meine Bildmontage: Birthday Girl</h3>
+    <p>Text</p>
+    <image-lightbox>
+      <img
+          alt="Wabenmuster mit stilisierten Bienen – Vektorgrafik-Übung zur Wiederholung, Symmetrie und Mustererstellung in Adobe Illustrator. Sowie diese Illustration des „Queen Bee“-Musters in einem modernen Posterrahmen – Präsentation im Raumkontext für professionelle Wirkung." 
+          src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-1200w.jpg %}" 
+          srcset="
+              {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-100w.jpg %} 100w
+              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-400w.jpg %} 400w
+              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-800w.jpg %} 800w
+              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-1200w.jpg %} 1200w
+          "
+          sizes="80vw"
+          class="image image__center" 
+        />
+      </image-lightbox>
+  </section>
 
   <hr />
 
