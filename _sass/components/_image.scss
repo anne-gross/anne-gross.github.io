@@ -12,6 +12,7 @@ img {
 
 .image {
 	border: 0;
+	margin: 2em auto;
 	display: inline-block;
 	position: relative;
 
@@ -82,7 +83,7 @@ img {
 
 .image__center {
 	display: block;
-	margin: 0 auto;
+	margin: 2em auto;
 	max-width: 50%;
 }
 
