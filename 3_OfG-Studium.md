@@ -29,6 +29,11 @@ nav-menu: true
 						<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
 					</a>
 				</div>
+				<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_illustrator_29740.png&quot;); background-repeat: no-repeat;">
+					<a href="{{ 'assets/images/3-OfG-Studium/0_Certificates/OfG-Certificate-Illustrator-Masterclass_DE-1200w.jpg' | relative_url }}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none;border-bottom: none">
+						<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
+					</a>
+				</div>
 			</div>
 			<hr class="major" />
 			<image-lightbox>
@@ -67,7 +72,7 @@ nav-menu: true
 						<header class="major">
 							<h3>Grundlagen Grafiksoftware</h3>
 						</header>
-						<p>Grundlegenden Kenntnisse der drei großen Adobe-Programmen Photoshop, Illustrator und InDesign</p>
+						<p>Der Basis-Einsteigerkurs zum Erlernen aller wichtigen grundlegenden Kenntnisse in den drei Adobe-Programmen Illustrator, Photoshop und InDesign. In den Modulaufgaben entstanden anschließend meine erste Bildmontage, eine Illustration und Visitenkarten.</p>
 						<ul class="actions">
 							<li><a href="{% link 3a_Grundlagen-Grafiksoftware.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
@@ -92,7 +97,7 @@ nav-menu: true
 						<header class="major">
 							<h3>Adobe Illustrator Masterclass</h3>
 						</header>
-						<p>Tiefergehende Kenntnisse und spezielle Fähigkeiten für Adobe Illustrator</p>
+						<p>Aneignung spezieller Fähigkeiten im Umgang mit verschiedenen Werkzeugen, sowie Schnittmasken, Ebenen, Symbole, Perspektive und interaktives Malen, außerdem die Grundlagen zur Produktionsvorbereitung. In den Modulaufgaben habe ich ganzseitige Illustrationen zu verschiedenen Themen erstellt.</p>
 						<ul class="actions">
 							<li> <a href="{% link 3b_Ai-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
@@ -118,7 +123,7 @@ nav-menu: true
 						<header class="major">
 							<h3>Adobe Photoshop Masterclass</h3>
 						</header>
-						<p>Tiefergehende Kenntnisse und spezielle Fähigkeiten für Adobe Photoshop</p>
+						<p>Tiefergehende Grundlagen der Bildbearbeitung, Fotokorrektur und Retusche sowie der Einsatz von Profi-Tools und Automationsfunktionen. In den Modulaufgaben habe ich verschiedene Bildbearbeitungen und Retuschen umgesetzt und zudem eigene Bildmontagen erstellt.</p>
 						<ul class="actions">
 							<li><a href="{% link 3c_Ps-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
@@ -143,7 +148,7 @@ nav-menu: true
 						<header class="major">
 							<h3>Adobe InDesign Masterclass</h3>
 						</header>
-						<p>Tiefergehende Kenntnisse und spezielle Fähigkeiten für Adobe InDesign</p>
+						<p>Vertiefende Kenntnisse im Printbereich, in der Automatisierung von InDesign und in der Gestaltung interaktiver Dokumente. Im Rahmen der Module habe ich unter anderem einen Flyer, eine Einladungskarte und ein Magazin gestaltet – ein schöner Mix an kreativen Aufgaben.</p>
 						<ul class="actions">
 							<li> <a href="{% link 3d_Id-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
