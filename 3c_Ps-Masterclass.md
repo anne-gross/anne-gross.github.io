@@ -84,21 +84,45 @@ show_tile: false
         />
     </image-compare>
     <h3 style="text-align: left;">Meine Bildmontage: Birthday Girl</h3>
-    <p>Text</p>
-    <image-lightbox>
-      <img
-          alt="Wabenmuster mit stilisierten Bienen – Vektorgrafik-Übung zur Wiederholung, Symmetrie und Mustererstellung in Adobe Illustrator. Sowie diese Illustration des „Queen Bee“-Musters in einem modernen Posterrahmen – Präsentation im Raumkontext für professionelle Wirkung." 
-          src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-1200w.jpg %}" 
-          srcset="
-              {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-100w.jpg %} 100w
-              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-400w.jpg %} 400w
-              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-800w.jpg %} 800w
-              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmontage-Version2-1200w.jpg %} 1200w
-          "
-          sizes="80vw"
-          class="image image__center" 
-        />
-      </image-lightbox>
+    <p>Für meine Bildmontage habe ich ein Foto meiner Tochter verwendet und sie in ein Freepik-Motiv von Alena Zamotaeva eingepasst. Das fertige Bild sieht nun so aus, als hätte sie wirklich vor dieser Wand gesessen und wäre dort fotografiert worden. Damit die Montage realistisch wirkt, habe ich besonders auf die Lichtverhältnisse geachtet und selbst passende Schatten ergänzt.</p>
+    <glider-gallery lightbox-id="Grundlagen Photoshop">
+          <img 
+            alt="Gestaltete Bildmontage eines Geburtstagsbabys vor einer großen Luftballon-Wand mit Kuchen und Schild mit Namen und Jahreszahl." 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            alt="Photoshop-Bildmontage Birthday Girl sitzt vor einer großen Luftballon-Wand mit Kuchen und einem Geburtstagsschild mit Namen und Jahreszahl." 
+            title="Credits: 
+            Fotgrafin - Laura Specht
+            Freepik - Alena Zamotaeva"
+            src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            alt="Die fertige Bildmontage in ein schönes Mockup gestellt zur besseren Vorstellung." 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+      </glider-gallery>
   </section>
 
   <hr />
@@ -135,6 +159,22 @@ show_tile: false
           sizes="40vw"
         />
     </image-compare>
+    <h3 style="text-align: left;">Meine konzeptionelle Umsetzung: Polaroid-Look der Dohány utcai Zsinagóga</h3>
+    <p>Bei unserem Budapest-Urlaub habe ich ein Foto der Dohány-Synagoge gemacht. Die Architektur fand ich unglaublich spannend und der Bildausschnitt hat sich perfekt für eine konzeptionelle Umsetzung angeboten. Schritt für Schritt habe ich daraus einen alten, leicht ausgeblichenen Polaroid-Look entwickelt. Besonders zusammen mit dem Mockup wirkt das Polaroid auf dem Fotoalbum richtig stimmig und kommt super zur Geltung.</p>
+    <image-lightbox>
+      <img
+          alt="Polaroid-Foto der Dohany Synagoge auf einem weißem Fotoalbum, welches mit goldener Schrift auf den Budapest-Urlaub 2019 hinweist, dazu ein paar Blümchen am Rand." 
+          src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-1200w.jpg %}" 
+          srcset="
+              {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-100w.jpg %} 100w
+              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-400w.jpg %} 400w
+              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-800w.jpg %} 800w
+              , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-1200w.jpg %} 1200w
+          "
+          sizes="80vw"
+          class="image image__center" 
+        />
+      </image-lightbox>
   </section>
 
   <hr />
@@ -145,6 +185,44 @@ show_tile: false
     <p>In der dritten und letzten Monatsaufgabe drehte sich alles um die Themen „Bewegung“ oder „Dynamik“ – interpretiert durch digitale Illustration, kreative Verzerrung und den geschickten Einsatz von Masken, Pinseln und Effekten. Meine Idee zur Umsetzung waren technische Zeichnungen im Stil von Blaupausen bzw. auf Millimeterpapier – wo Bewegung durch Präzision, Linienführung und Komposition spürbar wird. Weitere verwendete Werkzeuge waren hier u.a. Grafikstile, Verzerrungs- & Transformationsfilter, Formgitter & Verkrümmungen, der Bildnachzeichner und Deckkraftmasken.</p>
     <h3 style="text-align: left;">Aus zwei Bildern wird eins:</h3>
     <p>Text zur Bildbearbeitung</p>
+    <glider-gallery lightbox-id="Grundlagen Photoshop">
+          <img 
+            alt="Gestaltete Bildmontage eines Geburtstagsbabys vor einer großen Luftballon-Wand mit Kuchen und Schild mit Namen und Jahreszahl." 
+            src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            alt="Photoshop-Bildmontage Birthday Girl sitzt vor einer großen Luftballon-Wand mit Kuchen und einem Geburtstagsschild mit Namen und Jahreszahl." 
+            title="Credits: 
+            Fotgrafin - Laura Specht
+            Freepik - Alena Zamotaeva"
+            src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+          <img 
+            alt="Die fertige Bildmontage in ein schönes Mockup gestellt zur besseren Vorstellung." 
+            src="{% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
+            srcset="
+                {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
+            "
+            sizes="80vw"
+          />
+      </glider-gallery>
   </section>
 <hr>
 
