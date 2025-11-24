@@ -102,12 +102,12 @@ show_tile: false
             title="Credits: 
             Fotgrafin - Laura Specht
             Freepik - Alena Zamotaeva"
-            src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %}" 
+            src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %} 100w
-                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %} 400w
-                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %} 800w
-                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage.jpg %} 1200w
+                {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
@@ -202,12 +202,12 @@ show_tile: false
             title="Credits: 
             Fotgrafin - Laura Specht
             Freepik - Alena Zamotaeva"
-            src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %}" 
+            src="{% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %} 100w
-                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %} 400w
-                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %} 800w
-                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage.jpg %} 1200w
+                {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-100w.jpg %} 100w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-400w.jpg %} 400w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-800w.jpg %} 800w
+                , {% link /assets/images/3-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
