@@ -137,6 +137,35 @@ show_tile: false
         <p>Hier trifft Architektur auf Kosmos. Ankerpunkt blieb das stiliserte Hochhaus im Zentrum des Bildes. Mit einer eigens erstellten Musterbordüre aus Halb- und Vollmonden sowie zwei 3D-Objekten (Saturn & Halbmond) wurde das Ganze visuell ins Weltall katapultiert. Die Typografie folgt der Raumtiefe – um die Ecke gedacht, im wahrsten Sinne.</p>
       </div>
     </div>
+    <glider-gallery lightbox-id="Modul 2 Thema Architektur - Science Fiction" per-view-max="3">
+            <img alt="Gratulationskarte zum Firmenjubiläum mit One-Line-Elementen zum Anstoßen von der Steuerkanzlei Anne Weiss – dezentes, stilvolles Design im Corporate Branding."
+      src="{{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-1200w.jpg' | relative_url }}" 
+      srcset="
+          {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-100w.jpg' | relative_url }} 100w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-400w.jpg' | relative_url }} 400w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-800w.jpg' | relative_url }} 800w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-1200w.jpg' | relative_url }} 1200w
+          "
+          sizes="20vw"/>
+                <img alt="Individuell gestaltete Geburtstagskarte für Mandanten von der Steuerkanzlei Anne Weiss – handschriftlicher Schriftzug kombiniert mit minimalistischer Tortengrafik."
+      src="{{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-1200w.jpg' | relative_url }}" 
+      srcset="
+          {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-100w.jpg' | relative_url }} 100w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-400w.jpg' | relative_url }} 400w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-800w.jpg' | relative_url }} 800w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-1200w.jpg' | relative_url }} 1200w
+          "
+          sizes="20vw"/>
+      <img alt="Design einer Willkommenskarte für neue Mandanten der Steuerkanzlei Anne Weiss – wertschätzend, persönlich und markenkonform gestaltet. Innen- und Außenseite dieser Begrüßungskarte mit linearem Handschlag-Motiv – professionelles Kunden-Onboarding durch Gestaltung unterstützt."
+      src="{{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-1200w.jpg' | relative_url }}" 
+      srcset="
+          {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-100w.jpg' | relative_url }} 100w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-400w.jpg' | relative_url }} 400w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-800w.jpg' | relative_url }} 800w
+          , {{ 'assets/images/3-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-1200w.jpg' | relative_url }} 1200w
+          "
+          sizes="20vw"/>
+    </glider-gallery>
   </section>
 
   <hr />
