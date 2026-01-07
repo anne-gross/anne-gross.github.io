@@ -171,8 +171,11 @@ show_tile: true
     <a class="button" href="{% link 1_Ueber-mich.md %}">
       Über mich
     </a>
+    <a class="button" href="{% link 3_Seeds-Ausbildung.md %}">
+      Seeds Ausbildung
+    </a>
     <a class="button" href="{% link 4_OfG-Kurse.md %}">
-      OfG-Studium 
+      OfG Kurse 
     </a>
   </div>
 </div>

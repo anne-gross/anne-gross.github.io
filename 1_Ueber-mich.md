@@ -219,13 +219,13 @@ show_title: true
 <hr>
 <!-- Bar -->
   <div class="bar">
-    <a class="button previous" href="{% link 2_Projekte.md %}">
+    <a class="button" href="{% link 2_Projekte.md %}">
       Projekte
     </a>
     <a class="button" href="{% link 3_Seeds-Ausbildung.md %}">
       Seeds Ausbildung
     </a>
-    <a class="button next" href="{% link 4_OfG-Kurse.md %}">
-      OfG-Studium 
+    <a class="button" href="{% link 4_OfG-Kurse.md %}">
+      OfG Kurse 
     </a>
   </div>
