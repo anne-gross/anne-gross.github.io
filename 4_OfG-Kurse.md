@@ -2,9 +2,9 @@
 title: OfG-Weiterbildung
 layout: landing
 description: 'Meine Weiterbildungskurse bei der Online-Schule für Gestaltung'
-image-400w: /assets/images/4-OfG-Kurse/Title-OfG-Studium-400w.jpg
-image-800w: /assets/images/4-OfG-Kurse/Title-OfG-Studium-800w.jpg
-image-1200w: /assets/images/4-OfG-Kurse/Title-OfG-Studium-1200w.jpg
+image-400w: /assets/images/4-OfG-Kurse/Title-OfG-Kurse-400w.jpg
+image-800w: /assets/images/4-OfG-Kurse/Title-OfG-Kurse-800w.jpg
+image-1200w: /assets/images/4-OfG-Kurse/Title-OfG-Kurse-1200w.jpg
 image-alt: "Kreativer Schreibtisch mit Laptop, Grafiktablet, Skizzenbuch und Designmaterialien – typischer Arbeitsplatz im digitalen Gestaltungsprozess von Grafik-, Web- und UX/UI-Designer."
 nav-menu: true
 ---
