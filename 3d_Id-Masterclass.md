@@ -55,7 +55,7 @@ show_tile: false
     <a class="button previous" href="{% link 3c_Ps-Masterclass.md %}">
       Vorheriger Kurs
     </a>
-    <a class="button" href="{% link E_Projekte.md %}">
+    <a class="button" href="{% link 2_Projekte.md %}">
       Projekte
     </a>
   </div>
