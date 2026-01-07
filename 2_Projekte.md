@@ -171,7 +171,7 @@ show_tile: true
     <a class="button" href="{% link 1_Ueber-mich.md %}">
       Über mich
     </a>
-    <a class="button" href="{% link U_OfG-Studium.md %}">
+    <a class="button" href="{% link 4_OfG-Studium.md %}">
       OfG-Studium 
     </a>
   </div>

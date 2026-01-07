@@ -222,7 +222,7 @@ show_title: true
     <a class="button" href="{% link 2_Projekte.md %}">
       Projekte
     </a>
-    <a class="button" href="{% link U_OfG-Studium.md %}">
+    <a class="button" href="{% link 4_OfG-Studium.md %}">
       OfG-Studium 
     </a>
   </div>

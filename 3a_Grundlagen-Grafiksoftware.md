@@ -231,7 +231,7 @@ show_tile: false
 
 <!-- Six -->
   <div class="bar">
-    <a class="button previous" href="{% link U_OfG-Studium.md %}">
+    <a class="button previous" href="{% link 4_OfG-Studium.md %}">
       OfG-Studium
     </a>
     <a class="button" href="{% link 2_Projekte.md %}">
