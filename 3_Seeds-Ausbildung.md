@@ -164,9 +164,9 @@ nav-menu: true
 				Über mich
 				</a>
 				<a class="button" href="{% link 2_Projekte.md %}">
-				Projekte 
+				Projekte
+				</a>
+				<a class="button" href="{% link 4_OfG-Kurse.md %}">
+				OfG Kurse 
 				</a>
 			</div>
-		</section>
-	</div>
-</div>

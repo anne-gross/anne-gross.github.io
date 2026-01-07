@@ -58,5 +58,8 @@ show_tile: false
     <a class="button" href="{% link 2_Projekte.md %}">
       Projekte
     </a>
+    <a class="button" href="{% link 3_Seeds-Ausbildung.md %}">
+      Seeds Ausbildung
+    </a>
   </div>
 </div>

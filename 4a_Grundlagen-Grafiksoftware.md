@@ -231,11 +231,11 @@ show_tile: false
 
 <!-- Six -->
   <div class="bar">
-    <a class="button previous" href="{% link 4_OfG-Kurse.md %}">
-      OfG-Studium
-    </a>
     <a class="button" href="{% link 2_Projekte.md %}">
       Projekte
+    </a>
+    <a class="button" href="{% link 3_Seeds-Ausbildung.md %}">
+      Seeds Ausbdildung
     </a>
     <a class="button next" href="{% link 4b_Ai-Masterclass.md %}">
       Nächster Kurs 
