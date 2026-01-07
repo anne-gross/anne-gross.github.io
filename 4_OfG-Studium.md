@@ -1,7 +1,7 @@
 ---
-title: OfG-Studium
+title: OfG-Weiterbildung
 layout: landing
-description: 'Mein Studium bei der Online-Schule für Gestaltung'
+description: 'Meine Weiterbildungskurse bei der Online-Schule für Gestaltung'
 image-400w: /assets/images/3-OfG-Studium/Title-OfG-Studium-400w.jpg
 image-800w: /assets/images/3-OfG-Studium/Title-OfG-Studium-800w.jpg
 image-1200w: /assets/images/3-OfG-Studium/Title-OfG-Studium-1200w.jpg
