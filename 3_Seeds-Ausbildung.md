@@ -1,7 +1,7 @@
 ---
 title: Online-Ausbildung beim Seeds Designinstitut
 layout: landing
-description: 'Meine Online-Ausbildung zum Grafik- & Webdesign beim Seeds Designinsitut'
+description: 'Grafik- & Webdesign Online-Ausbildung beim Seeds Designinsitut'
 image-400w: /assets/images/4-OfG-Kurse/Title-OfG-Studium-400w.jpg
 image-800w: /assets/images/4-OfG-Kurse/Title-OfG-Studium-800w.jpg
 image-1200w: /assets/images/4-OfG-Kurse/Title-OfG-Studium-1200w.jpg
