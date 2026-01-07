@@ -132,7 +132,7 @@ nav-menu: true
 			</section>
 <!-- Two 4 -->
 		<section>
-				<a href="{% link 3d_Id-Masterclass.md %}" class="image">
+				<a href="{% link 4d_Id-Masterclass.md %}" class="image">
 					<img alt="Bild vom 'InDesign Masterclass mit offizieller ZFU-Zulassung – lernen, Layouts und Druckdaten professionell zu gestalten' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch.."
 						src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/4_Kursbild-InDesign-1200w.jpg %}" 
 						srcset="
@@ -150,7 +150,7 @@ nav-menu: true
 						</header>
 						<p>Vertiefende Kenntnisse im Printbereich, in der Automatisierung von InDesign und in der Gestaltung interaktiver Dokumente. Im Rahmen der Module habe ich unter anderem einen Flyer, eine Einladungskarte und ein Magazin gestaltet – ein schöner Mix an kreativen Aufgaben.</p>
 						<ul class="actions">
-							<li> <a href="{% link 3d_Id-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
+							<li> <a href="{% link 4d_Id-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
 					</div>
 				</div>
