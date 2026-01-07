@@ -2,9 +2,9 @@
 title: Grundlagen Grafiksoftware
 layout: landing
 description: 'Mein Einstieg in die Welt der Grafiksoftware'
-image-400w: /assets/images/4-OfG-Studium/1_Grundlagen/Title-Grundlagen-400w.jpg
-image-800w: /assets/images/4-OfG-Studium/1_Grundlagen/Title-Grundlagen-800w.jpg
-image-1200w: /assets/images/4-OfG-Studium/1_Grundlagen/Title-Grundlagen-1200w.jpg
+image-400w: /assets/images/4-OfG-Kurse/1_Grundlagen/Title-Grundlagen-400w.jpg
+image-800w: /assets/images/4-OfG-Kurse/1_Grundlagen/Title-Grundlagen-800w.jpg
+image-1200w: /assets/images/4-OfG-Kurse/1_Grundlagen/Title-Grundlagen-1200w.jpg
 image-alt: "Titelbild des Onlinekurses – Grundlagen Grafikdesign: Gestalterisches Arbeiten am iPad mit Farbpalette – kreative Umsetzung und Farbharmonie im Designprozess."
 nav-menu: false
 show_tile: false
@@ -24,7 +24,7 @@ show_tile: false
     <article class="style1">
       <span class="image">
         <img alt="Modul 1: Photoshop-Grundlagen – Einstieg in digitale Bildbearbeitung und visuelles Storytelling mit Adobe Photoshop."
-            src="{% link assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01-375w.jpg %}"
+            src="{% link assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01-375w.jpg %}"
         >
       </span>
       <a href="#modul-1">
@@ -34,7 +34,7 @@ show_tile: false
     <article class="style2">
       <span class="image">
         <img alt="Modul 2: Illustrator-Grundlagen – Vektorgrafiken, Muster und kreative Gestaltungsideen sicher umsetzen."
-            src="{% link assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02-375w.jpg %}"
+            src="{% link assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-02-375w.jpg %}"
         >
       </span>
       <a href="#modul-2">
@@ -44,7 +44,7 @@ show_tile: false
     <article class="style3">
       <span class="image">
         <img alt="Modul 3: InDesign-Grundlagenkurs – Fokus auf InDesign, Layoutprinzipien und Geschäftsausstattung."
-            src="{% link assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03-375w.jpg %}"
+            src="{% link assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03-375w.jpg %}"
         >
       </span>
       <a href="#modul-3">
@@ -62,12 +62,12 @@ show_tile: false
       <glider-gallery lightbox-id="Grundlagen Photoshop">
           <img 
             alt="Emotionale Bildkomposition mit der Frage „Schwimmst du gerne im Müll?“ – visuelles Umweltstatement im Stil einer Werbekampagne." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
@@ -77,23 +77,23 @@ show_tile: false
             Ozean - Unsplash.de Christopher Politano
             Strand mit Müll - Unsplash.de Cristian Palmer
             Logo - Iconfinder.com Planet Earth"
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bild-und-Montage-OzeanMuell-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
           <img 
             alt="Visualisierung der Bildmontage als Plakat am Strand – realitätsnahe Darstellung des Designs in einem kontextstarken Mockup." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
@@ -110,12 +110,12 @@ show_tile: false
     <image-lightbox>
       <img
           alt="Wabenmuster mit stilisierten Bienen – Vektorgrafik-Übung zur Wiederholung, Symmetrie und Mustererstellung in Adobe Illustrator. Sowie diese Illustration des „Queen Bee“-Musters in einem modernen Posterrahmen – Präsentation im Raumkontext für professionelle Wirkung." 
-          src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-1200w.jpg %}" 
+          src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-1200w.jpg %}" 
           srcset="
-              {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-100w.jpg %} 100w
-              , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-400w.jpg %} 400w
-              , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-800w.jpg %} 800w
-              , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-1200w.jpg %} 1200w
+              {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-100w.jpg %} 100w
+              , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-400w.jpg %} 400w
+              , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-800w.jpg %} 800w
+              , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-02_Vektor-Biene-Mockup-1200w.jpg %} 1200w
           "
           sizes="80vw"
           class="image image__center" 
@@ -143,24 +143,24 @@ show_tile: false
         <img 
           slot="image-1" 
           alt="Querformatige Visitenkarte mit verspielter Typo und Flächenaufteilung – Kombination aus Seriosität und Kreativität." 
-          src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version1-1200w.jpg %} 1200w
           "
           sizes="50vw"
         />
         <img 
           slot="image-2" 
           alt="Hochformatige Visitenkarte mit Farbflächen-Branding – modernes Design für Selbstständige im Kreativbereich." 
-          src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Version2-1200w.jpg %} 1200w
           "
           sizes="50vw"
         />
@@ -170,56 +170,56 @@ show_tile: false
       <glider-gallery lightbox-id="visitenkarten" per-view-max="4">
           <img 
             alt="Visitenkarte mit elegantem Farbverlauf und kontrastreicher Typografie – persönlicher Austausch und professioneller Eindruck in einem." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Visitenkarte-Mockup-Version2-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
           <img 
             alt="Runder Sticker mit Initialen-Logo 'GD' von Greativ Design auf Laptop – minimalistisches Branding mit Fokus auf Wiedererkennung und Farbharmonie." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version1-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
           <img 
             alt="Zwei gebrandete Notizbücher mit dem Logo 'Greativ Design' – Kombination aus Handschrift und Serifentypo für einen persönlichen Markenauftritt." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Notizbuch-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
           <img 
             alt="Sticker mit Schriftlogo 'Greativ Design – Grafik | Web | UX' auf Laptop – plakative Markenbotschaft im mobilen Einsatz." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Logo-Sticker-Version2-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
           <img 
             alt="Flatlay-Inszenierung des Briefpapiers – Präsentation der Designarbeit im Einsatz mit Accessoires und natürlichem Licht." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-03_Briefpapier-Mockup2-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
@@ -231,7 +231,7 @@ show_tile: false
 
 <!-- Six -->
   <div class="bar">
-    <a class="button previous" href="{% link 4_OfG-Studium.md %}">
+    <a class="button previous" href="{% link 4_OfG-Kurse.md %}">
       OfG-Studium
     </a>
     <a class="button" href="{% link 2_Projekte.md %}">

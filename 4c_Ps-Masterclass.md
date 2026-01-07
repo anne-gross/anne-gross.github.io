@@ -2,9 +2,9 @@
 title: Adobe Photoshop Masterclass
 layout: landing
 description: 'Feinretusche und Composing – Digitale Gestaltung mit Ausdruck'
-image-400w: /assets/images/4-OfG-Studium/3_Ps-Masterclass/Title-Ps-Masterclass-400w.jpg
-image-800w: /assets/images/4-OfG-Studium/3_Ps-Masterclass/Title-Ps-Masterclass-800w.jpg
-image-1200w: /assets/images/4-OfG-Studium/3_Ps-Masterclass/Title-Ps-Masterclass-1200w.jpg
+image-400w: /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Title-Ps-Masterclass-400w.jpg
+image-800w: /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Title-Ps-Masterclass-800w.jpg
+image-1200w: /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Title-Ps-Masterclass-1200w.jpg
 image-alt: "Titelbild der Photoshop Masterclass: Fotoretusche und Farbkorrekturen an zwei großen Monitoren – Entstehung neuer Fotoideen in der digitalen Bildbearbeitung."
 nav-menu: false
 show_tile: false
@@ -24,7 +24,7 @@ show_tile: false
     <article class="style1">
       <span class="image">
         <img alt="Modul 1: Person arbeitet am Computer mit Photoshop-Benutzeroberfläche"
-          src="assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01-375w.jpg" >
+          src="assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01-375w.jpg" >
       </span>
       <a href="#modul-1">
         <h2>Bildmotiv & Bildmontage</h2>
@@ -33,7 +33,7 @@ show_tile: false
     <article class="style2">
       <span class="image">
         <img alt="Modul 2: Designerin arbeitet mit Grafiktablett an Modefotos auf dem Bildschirm"
-          src="assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02-375w.jpg" >
+          src="assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02-375w.jpg" >
       </span>
       <a href="#modul-2">
         <h2>Retusche & Look</h2>
@@ -42,7 +42,7 @@ show_tile: false
     <article class="style3">
       <span class="image">
         <img alt="Modul 3: Kreativer Arbeitsplatz mit Monitoren und Bildbearbeitungssoftware im Dunkeln"
-          src="assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03-375w.jpg" >
+          src="assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03-375w.jpg" >
       </span>
       <a href="#modul-3">
         <h2>Composing</h2>
@@ -61,24 +61,24 @@ show_tile: false
         <img 
           slot="image-1" 
           alt="Original Aufnahme aus Budapest zeigt die Burg von Buda von Weitem mit der Donau im Vordergrund" 
-          src="{% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version1-1200w.jpg %} 1200w
           "
           sizes="50vw"
         />
         <img 
           slot="image-2" 
           alt="Überarbeitete Aufnahme der Burg von Buda mit Tonwertkorrekturen und Belichtungs-Optimierungen." 
-          src="{% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-01_Bildmotiv-Version2-1200w.jpg %} 1200w
           "
           sizes="50vw"
         />
@@ -88,12 +88,12 @@ show_tile: false
     <glider-gallery lightbox-id="Grundlagen Photoshop">
           <img 
             alt="Gestaltete Bildmontage eines Geburtstagsbabys vor einer großen Luftballon-Wand mit Kuchen und Schild mit Namen und Jahreszahl." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
@@ -102,23 +102,23 @@ show_tile: false
             title="Credits: 
             Fotgrafin - Laura Specht
             Freepik - Alena Zamotaeva"
-            src="{% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Bildmontage-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
           <img 
             alt="Die fertige Bildmontage in ein schönes Mockup gestellt zur besseren Vorstellung." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
@@ -137,24 +137,24 @@ show_tile: false
         <img 
           slot="image-1" 
           alt="Ein frontales Portrait von mir selbst vor einer weißen Wand mit beigen Farn rechts hinter dem Modell." 
-          src="{% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version1-1200w.jpg %} 1200w
           "
           sizes="40vw"
         />
         <img 
           slot="image-2" 
           alt="Das gleiche Portraitbild von mir nach der Retusche. Bildoptimierungen mit Weißabgleich, Selektiver Farbwahl und Gesichtsretusche mit verschiedenen Filtern und Masken." 
-          src="{% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Retusche-Version2-1200w.jpg %} 1200w
           "
           sizes="40vw"
         />
@@ -164,12 +164,12 @@ show_tile: false
     <image-lightbox>
       <img
           alt="Polaroid-Foto der Dohany Synagoge auf einem weißem Fotoalbum, welches mit goldener Schrift auf den Budapest-Urlaub 2019 hinweist, dazu ein paar Blümchen am Rand." 
-          src="{% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-1200w.jpg %}" 
+          src="{% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-1200w.jpg %}" 
           srcset="
-              {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-100w.jpg %} 100w
-              , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-400w.jpg %} 400w
-              , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-800w.jpg %} 800w
-              , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-1200w.jpg %} 1200w
+              {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-100w.jpg %} 100w
+              , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-400w.jpg %} 400w
+              , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-800w.jpg %} 800w
+              , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-02_Look-Version2-1200w.jpg %} 1200w
           "
           sizes="80vw"
           class="image image__center" 
@@ -188,12 +188,12 @@ show_tile: false
     <glider-gallery lightbox-id="Grundlagen Photoshop">
           <img 
             alt="Gestaltete Bildmontage eines Geburtstagsbabys vor einer großen Luftballon-Wand mit Kuchen und Schild mit Namen und Jahreszahl." 
-            src="{% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Composing-Version2-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
@@ -202,23 +202,23 @@ show_tile: false
             title="Credits: 
             Fotgrafin - Laura Specht
             Freepik - Alena Zamotaeva"
-            src="{% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/3_Ps-Masterclass/Ps-Masterclass_Modul-03_Bildmontage-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />
           <img 
             alt="Die fertige Bildmontage in ein schönes Mockup gestellt zur besseren Vorstellung." 
-            src="{% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
+            src="{% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %}" 
             srcset="
-                {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
-                , {% link /assets/images/4-OfG-Studium/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
+                {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-100w.jpg %} 100w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-400w.jpg %} 400w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-800w.jpg %} 800w
+                , {% link /assets/images/4-OfG-Kurse/1_Grundlagen/Grundlagen_Modul-01_Bildmontage-OzeanMuell-Mockup-1200w.jpg %} 1200w
             "
             sizes="80vw"
           />

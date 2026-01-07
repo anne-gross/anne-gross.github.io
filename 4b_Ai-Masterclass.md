@@ -2,9 +2,9 @@
 title: Adobe Illustrator Masterclass
 layout: landing
 description: 'Zwischen Technik und Ausdruck - Visuelle Gestaltung mit Vektorgrafiken'
-image-400w: /assets/images/4-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-400w.jpg
-image-800w: /assets/images/4-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-800w.jpg
-image-1200w: /assets/images/4-OfG-Studium/2_Ai-Masterclass/Title-Ai-Masterclass-1200w.jpg
+image-400w: /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Title-Ai-Masterclass-400w.jpg
+image-800w: /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Title-Ai-Masterclass-800w.jpg
+image-1200w: /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Title-Ai-Masterclass-1200w.jpg
 alt-image: "Titelgrafik der Illustrator Masterclass mit verschiedenen Designprojekten – visuelle Vorschau auf modulare Kreativarbeiten im digitalen Portfolio."
 nav-menu: false
 show_tile: false
@@ -24,7 +24,7 @@ show_tile: false
     <article class="style1">
       <span class="image">
         <img alt="Modul 1: Teilausschnitt eines stilisierten Stadtplans – Projektvorschau für kreative Kartografie im Portfolio."
-          src="assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01-375w.jpg" >
+          src="assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01-375w.jpg" >
       </span>
       <a href="#modul-1">
         <h2>Stadtplan</h2>
@@ -33,7 +33,7 @@ show_tile: false
     <article class="style2">
       <span class="image">
         <img alt="Modul 2: Vignette mit Architekturzeichnung und Hand – Fokus auf Entwurfsprozesse und Skizzentechniken im Architekturkontext."
-          src="assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02-375w.jpg" >
+          src="assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02-375w.jpg" >
       </span>
       <a href="#modul-2">
         <h2>Architektur</h2>
@@ -42,7 +42,7 @@ show_tile: false
     <article class="style3">
       <span class="image">
         <img alt="Modul 3: Vignette mit Lichtspur-Foto auf Straße – Symbol für Dynamik und Mobilität im Designprojekt."
-          src="assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03-375w.jpg" >
+          src="assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03-375w.jpg" >
       </span>
       <a href="#modul-3">
         <h2>Bewegung</h2>
@@ -60,24 +60,24 @@ show_tile: false
         <img 
           slot="image-1" 
           alt="Künstlerischer Stadtplan von Rollwald mit Graffiti-Typografie und farbiger Flächenbetonung – Teil eines kreativen Mapping-Projekts." 
-          src="{% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version1-1200w.jpg %} 1200w
           "
           sizes="50vw"
         />
         <img 
           slot="image-2" 
           alt="Illustrative Stadtkarte von Rollwald mit Icons für wichtige Orte wie Kirche, Schule und Bahnhof – visuelle Informationsgestaltung mit lokalem Bezug." 
-          src="{% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-01_Stadtplan-Version2-1200w.jpg %} 1200w
           "
           sizes="50vw"
         />
@@ -105,24 +105,24 @@ show_tile: false
         <img 
           slot="image-1" 
           alt="Illustratives Plakat für eine Architektur-Ausstellung im Museumsquartier Wien – grafische Darstellung eines modernen Gebäudes in Grüntönen." 
-          src="{% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-1200w.jpg %} 1200w
           "
           sizes="40vw"
         />
         <img 
           slot="image-2" 
           alt="Poster einer futuristischen Ausstellung im Wien Space Science Center – verspielte Typografie und Sci-Fi-Gebäudedesign als visuelle Konzeption." 
-          src="{% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-1200w.jpg %} 1200w
           "
           sizes="40vw"
         />
@@ -139,30 +139,30 @@ show_tile: false
     </div>
     <glider-gallery lightbox-id="Modul 2 Thema Architektur - Science Fiction" per-view-max="3">
             <img alt="Gratulationskarte zum Firmenjubiläum mit One-Line-Elementen zum Anstoßen von der Steuerkanzlei Anne Weiss – dezentes, stilvolles Design im Corporate Branding."
-      src="{{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-1200w.jpg' | relative_url }}" 
+      src="{{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-1200w.jpg' | relative_url }}" 
       srcset="
-          {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-100w.jpg' | relative_url }} 100w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-400w.jpg' | relative_url }} 400w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-800w.jpg' | relative_url }} 800w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-1200w.jpg' | relative_url }} 1200w
+          {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-100w.jpg' | relative_url }} 100w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-400w.jpg' | relative_url }} 400w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-800w.jpg' | relative_url }} 800w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Mockup-1200w.jpg' | relative_url }} 1200w
           "
           sizes="20vw"/>
                 <img alt="Individuell gestaltete Geburtstagskarte für Mandanten von der Steuerkanzlei Anne Weiss – handschriftlicher Schriftzug kombiniert mit minimalistischer Tortengrafik."
-      src="{{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-1200w.jpg' | relative_url }}" 
+      src="{{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-1200w.jpg' | relative_url }}" 
       srcset="
-          {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-100w.jpg' | relative_url }} 100w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-400w.jpg' | relative_url }} 400w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-800w.jpg' | relative_url }} 800w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-1200w.jpg' | relative_url }} 1200w
+          {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-100w.jpg' | relative_url }} 100w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-400w.jpg' | relative_url }} 400w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-800w.jpg' | relative_url }} 800w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version2-Mockup-1200w.jpg' | relative_url }} 1200w
           "
           sizes="20vw"/>
       <img alt="Design einer Willkommenskarte für neue Mandanten der Steuerkanzlei Anne Weiss – wertschätzend, persönlich und markenkonform gestaltet. Innen- und Außenseite dieser Begrüßungskarte mit linearem Handschlag-Motiv – professionelles Kunden-Onboarding durch Gestaltung unterstützt."
-      src="{{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-1200w.jpg' | relative_url }}" 
+      src="{{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-1200w.jpg' | relative_url }}" 
       srcset="
-          {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-100w.jpg' | relative_url }} 100w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-400w.jpg' | relative_url }} 400w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-800w.jpg' | relative_url }} 800w
-          , {{ 'assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-1200w.jpg' | relative_url }} 1200w
+          {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-100w.jpg' | relative_url }} 100w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-400w.jpg' | relative_url }} 400w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-800w.jpg' | relative_url }} 800w
+          , {{ 'assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-02_Perspektive-Version1-Mockup-1200w.jpg' | relative_url }} 1200w
           "
           sizes="20vw"/>
     </glider-gallery>
@@ -179,24 +179,24 @@ show_tile: false
         <img 
           slot="image-1" 
           alt="Blueprint-Illustration eines Fiat 1600S Cabriolet mit technischen Skizzen und Designstudien – visuelle Hommage an Oldtimer-Ästhetik." 
-          src="{% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version1-1200w.jpg %} 1200w
           "
           sizes="90vw"
         />
         <img 
           slot="image-2" 
           alt="Illustration auf Millimeterpapier eines Oldtimers mit Bleistift, Kaffeetasse und Skizzen – Projekt zur Verbindung von analogem Arbeiten und digitalem Design." 
-          src="{% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %}"
+          src="{% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %}"
           srcset="
-            {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-100w.jpg %} 100w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-400w.jpg %} 400w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-800w.jpg %} 800w
-            , {% link /assets/images/4-OfG-Studium/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %} 1200w
+            {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-100w.jpg %} 100w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-400w.jpg %} 400w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-800w.jpg %} 800w
+            , {% link /assets/images/4-OfG-Kurse/2_Ai-Masterclass/Ai-Masterclass_Modul-03_Auto-Version2-1200w.jpg %} 1200w
           "
           sizes="90vw"
         />
