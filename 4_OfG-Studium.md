@@ -106,7 +106,7 @@ nav-menu: true
 			</section>
 <!-- Two 3 -->
 			<section>
-				<a href="{% link 3c_Ps-Masterclass.md %}" class="image">
+				<a href="{% link 4c_Ps-Masterclass.md %}" class="image">
 					<img 
 						alt="Bild vom 'Photoshop Masterclass mit ZFU-Siegel – Bildbearbeitung, Composings und kreative Retuschetechniken professionell lernen' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch." 
 						src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/3_Kursbild-Photoshop-1200w.jpg %}" 
@@ -125,7 +125,7 @@ nav-menu: true
 						</header>
 						<p>Tiefergehende Grundlagen der Bildbearbeitung, Fotokorrektur und Retusche sowie der Einsatz von Profi-Tools und Automationsfunktionen. In den Modulaufgaben habe ich verschiedene Bildbearbeitungen und Retuschen umgesetzt und zudem eigene Bildmontagen erstellt.</p>
 						<ul class="actions">
-							<li><a href="{% link 3c_Ps-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
+							<li><a href="{% link 4c_Ps-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
 					</div>
 				</div>

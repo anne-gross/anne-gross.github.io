@@ -52,7 +52,7 @@ show_tile: false
 
 <!-- Six -->
   <div class="bar">
-    <a class="button previous" href="{% link 3c_Ps-Masterclass.md %}">
+    <a class="button previous" href="{% link 4c_Ps-Masterclass.md %}">
       Vorheriger Kurs
     </a>
     <a class="button" href="{% link 2_Projekte.md %}">
