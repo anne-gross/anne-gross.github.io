@@ -216,7 +216,7 @@ show_tile: false
 
 <!-- Six -->
   <div class="bar">
-    <a class="button previous" href="{% link 3a_Grundlagen-Grafiksoftware.md %}">
+    <a class="button previous" href="{% link 4a_Grundlagen-Grafiksoftware.md %}">
       Vorheriger Kurs
     </a>
     <a class="button" href="{% link 2_Projekte.md %}">

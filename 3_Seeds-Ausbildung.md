@@ -55,7 +55,7 @@ nav-menu: true
 <!-- Two 1-->
 		<section id="two" class="spotlights">
 			<section>
-				<a href="{% link 3a_Grundlagen-Grafiksoftware.md %}" class="image">
+				<a href="{% link 4a_Grundlagen-Grafiksoftware.md %}" class="image">
 					<img
 						alt="Bild vom 'Onlinekurs Grafiksoftware-Grundlagen mit ZFU-Zertifizierung – praxisnaher Einstieg in Design-Tools wie Photoshop, Illustrator und InDesign' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch." 
 						src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %}" 
@@ -74,7 +74,7 @@ nav-menu: true
 						</header>
 						<p>Der Basis-Einsteigerkurs zum Erlernen aller wichtigen grundlegenden Kenntnisse in den drei Adobe-Programmen Illustrator, Photoshop und InDesign. In den Modulaufgaben entstanden anschließend meine erste Bildmontage, eine Illustration und Visitenkarten.</p>
 						<ul class="actions">
-							<li><a href="{% link 3a_Grundlagen-Grafiksoftware.md %}" class="button small">Erfahre mehr</a></li>
+							<li><a href="{% link 4a_Grundlagen-Grafiksoftware.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
 					</div>
 				</div>
