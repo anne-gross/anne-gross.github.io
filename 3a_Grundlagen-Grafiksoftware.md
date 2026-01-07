@@ -234,7 +234,7 @@ show_tile: false
     <a class="button previous" href="{% link 3_OfG-Studium.md %}">
       OfG-Studium
     </a>
-    <a class="button" href="{% link 2_Projekte.md %}">
+    <a class="button" href="{% link E_Projekte.md %}">
       Projekte
     </a>
     <a class="button next" href="{% link 3b_Ai-Masterclass.md %}">

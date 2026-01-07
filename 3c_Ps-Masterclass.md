@@ -231,7 +231,7 @@ show_tile: false
     <a class="button previous" href="{% link 3b_Ai-Masterclass.md %}">
       Vorheriger Kurs
     </a>
-    <a class="button" href="{% link 2_Projekte.md %}">
+    <a class="button" href="{% link E_Projekte.md %}">
       Projekte
     </a>
     <a class="button next" href="{% link 3d_Id-Masterclass.md %}">

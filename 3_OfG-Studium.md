@@ -163,7 +163,7 @@ nav-menu: true
 				<a class="button" href="{% link A_Ueber-mich.md %}">
 				Über mich
 				</a>
-				<a class="button" href="{% link 2_Projekte.md %}">
+				<a class="button" href="{% link E_Projekte.md %}">
 				Projekte 
 				</a>
 			</div>

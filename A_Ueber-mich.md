@@ -219,7 +219,7 @@ show_title: true
 <hr>
 <!-- Bar -->
   <div class="bar">
-    <a class="button" href="{% link 2_Projekte.md %}">
+    <a class="button" href="{% link E_Projekte.md %}">
       Projekte
     </a>
     <a class="button" href="{% link 3_OfG-Studium.md %}">
