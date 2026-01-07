@@ -81,7 +81,7 @@ nav-menu: true
 			</section>
 <!-- Two 2 -->
 			<section>
-				<a href="{% link 3b_Ai-Masterclass.md %}" class="image">
+				<a href="{% link 4b_Ai-Masterclass.md %}" class="image">
 					<img alt="Bild vom 'Illustrator Masterclass mit offizieller ZFU-Zulassung – lernen, Vektorgrafiken und Logos professionell zu gestalten' auf einem Tablet, mit Kaffeetasse und Kopfhörern auf dem Tisch.."
 						src="{% link /assets/images/3-OfG-Studium/0_Kursbilder/1_Kursbild-Grundlagen-1200w.jpg %}" 
 						srcset="
@@ -99,7 +99,7 @@ nav-menu: true
 						</header>
 						<p>Aneignung spezieller Fähigkeiten im Umgang mit verschiedenen Werkzeugen, sowie Schnittmasken, Ebenen, Symbole, Perspektive und interaktives Malen, außerdem die Grundlagen zur Produktionsvorbereitung. In den Modulaufgaben habe ich ganzseitige Illustrationen zu verschiedenen Themen erstellt.</p>
 						<ul class="actions">
-							<li> <a href="{% link 3b_Ai-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
+							<li> <a href="{% link 4b_Ai-Masterclass.md %}" class="button small">Erfahre mehr</a></li>
 						</ul>
 					</div>
 				</div>

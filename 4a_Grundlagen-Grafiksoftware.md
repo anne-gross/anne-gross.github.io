@@ -237,7 +237,7 @@ show_tile: false
     <a class="button" href="{% link 2_Projekte.md %}">
       Projekte
     </a>
-    <a class="button next" href="{% link 3b_Ai-Masterclass.md %}">
+    <a class="button next" href="{% link 4b_Ai-Masterclass.md %}">
       Nächster Kurs 
     </a>
   </div>

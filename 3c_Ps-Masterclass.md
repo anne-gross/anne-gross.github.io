@@ -228,7 +228,7 @@ show_tile: false
 
 <!-- Six -->
   <div class="bar">
-    <a class="button previous" href="{% link 3b_Ai-Masterclass.md %}">
+    <a class="button previous" href="{% link 4b_Ai-Masterclass.md %}">
       Vorheriger Kurs
     </a>
     <a class="button" href="{% link 2_Projekte.md %}">
