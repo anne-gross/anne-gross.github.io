@@ -1,7 +1,7 @@
 ---
 title: Adobe InDesign Masterclass
 layout: landing
-description: 'Präzision im Detail – Gestaltung mit Typografie und Raster'
+description: 'Editorial, Layout & digitale Publikation – Gestaltung mit Typografie und Raster'
 image-400w: /assets/images/4-OfG-Kurse/4_Id-Masterclass/Title-Id-Masterclass-400w.jpg
 image-800w: /assets/images/4-OfG-Kurse/4_Id-Masterclass/Title-Id-Masterclass-800w.jpg
 image-1200w: /assets/images/4-OfG-Kurse/4_Id-Masterclass/Title-Id-Masterclass-1200w.jpg
@@ -15,7 +15,8 @@ show_tile: false
 
   <!-- One -->
   <section id="Einleitung Id-Masterclass">
-    <p>Weiter geht es mit der letzten der drei Masterclasses bei der OfG - Adobe InDesign. Auf die habe ich mich richtig gefreut, eventuell da InDesign mir bisher immer am meisten Spaß gemacht hat.</p>
+    <p>Nach meinen intensiven Kursen durch die Grundlagen der Grafiksoftware und die beiden Masterclasses in Adobe Illustrator und Photoshop, führte mich dieser Kurs in die Welt des professionellen Layouts und der Buch-, Magazin- und Publikationsgestaltung. In der Adobe InDesign Masterclass stand nicht nur das Entwickeln klarer, funktionaler Layouts im Fokus, sondern auch der souveräne Umgang mit Struktur, Typografie und interaktiven Elementen – vom klassischen Printprodukt bis zur digitalen Publikation.</p>
+    <p>Jedes Modul bot neue Herausforderungen: Layout-Strategien, Automatisierungs-Workflows, typografische Entscheidung und Interaktionstechniken, die InDesign als zentrales Werkzeug im Crossmedia-Design zeigen. Auf dieser Seite dokumentiere ich die Ergebnisse zu den jeweiligen Aufgaben – strukturiert, praxisnah und mit Blick auf professionelles Design.</p>
   </section>
 
   <!-- Two -->
