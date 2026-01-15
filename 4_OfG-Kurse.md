@@ -29,9 +29,14 @@ nav-menu: true
 						<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
 					</a>
 				</div>
-				<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_illustrator_29740.png&quot;); background-repeat: no-repeat;">
-					<a href="{{ 'assets/images/4-OfG-Kurse/0_Certificates/OfG-Certificate-Illustrator-Masterclass_DE-1200w.jpg' | relative_url }}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none;border-bottom: none">
+				<div style="background-image: url(&quot;assets/images/4-OfG-Kurse/0_Certificates/certificate_47384.png&quot;); background-repeat: no-repeat;">
+					<a href="{{ 'assets/images/4-OfG-Kurse/0_Certificates/OfG Certificate Photoshop Masterclass_DE.jpeg' | relative_url }}" target="_blank" title="Online Schule für Gestaltung - Illustrator Masterclass" style="outline: medium none;border-bottom: none">
 						<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - Illustrator Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / Illustrator Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
+					</a>
+				</div>
+				<div style="background-image: url(&quot;https://ofg-studium.de/images/certificate/certificate_indesign_30580.png&quot;); background-repeat: no-repeat;">
+					<a href="https://ofg-studium.de" target="_blank" title="Online Schule für Gestaltung - InDesign Masterclass" style="outline: medium none; border-bottom: none">
+						<img id="certi" style="height:88px;width:291px;border:0;" title="Online Schule für Gestaltung - InDesign Masterclass" alt="Online Schule für Gestaltung - Online-Fernkurs / InDesign Masterclass" src="https://ofg-studium.de/images/certificate/utils/Zertifikat.gif">
 					</a>
 				</div>
 			</div>
