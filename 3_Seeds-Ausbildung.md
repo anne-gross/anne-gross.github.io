@@ -2,9 +2,9 @@
 title: Online-Ausbildung beim Seeds Designinstitut
 layout: landing
 description: 'Grafik- & Webdesign Online-Ausbildung beim Seeds Designinsitut'
-image-400w: /assets/images/4-OfG-Kurse/Title-OfG-Kurse-400w.jpg
-image-800w: /assets/images/4-OfG-Kurse/Title-OfG-Kurse-800w.jpg
-image-1200w: /assets/images/4-OfG-Kurse/Title-OfG-Kurse-1200w.jpg
+image-400w: /assets/images/3-Seeds-Studium/Title-Seeds-Studium-400w.jpg
+image-800w: /assets/images/3-Seeds-Studium/Title-Seeds-Studium-800w.jpg
+image-1200w: /assets/images/3-Seeds-Studium/Title-Seeds-Studium-1200w.jpg
 image-alt: "Kreativer Schreibtisch mit Laptop, Grafiktablet, Skizzenbuch und Designmaterialien – typischer Arbeitsplatz im digitalen Gestaltungsprozess von Grafik-, Web- und UX/UI-Designer."
 nav-menu: true
 ---
